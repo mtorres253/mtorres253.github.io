@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anxiety Workshop - Chapter 1
+title: Anxiety Workbook - Chapter 1
 ---
 
 # Chapter 1: Taking in the Positive 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anxiety Workshop - Chapter 2
+title: Anxiety Workbook - Chapter 2
 ---
 # Chapter 2: Mindfulness 
 I know there is a lot being written about mindfulness these days and it’s being touted as the solution to everything form from relationship problems, to work performance, and illness. When I started working on this book, a close friend cautioned me to “be mindful of the trendiness of mindfulness”. With all that said, mindfulness has been shown to be very powerful and is an essential part of all of the skills in this book. Mindfulness is what helps us connect with our positive emotions and is essential in being able to sit with and work through the negative ones. 

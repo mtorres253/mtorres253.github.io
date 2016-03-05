@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Anxiety Workshop - Chapter 3
+title: Anxiety Workbook - Chapter 3
 ---

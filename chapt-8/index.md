@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Anxiety Workshop - Chapter 8
+title: Anxiety Workbook - Chapter 8
 ---
