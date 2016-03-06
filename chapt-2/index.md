@@ -41,13 +41,9 @@ When you feel ready to swallow the raisin, see if you can first detect the inten
 Breath awareness and meditation 
 
 - Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
-
 - Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
-
 - Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
-
 - Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
-
 - When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body--and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
 
 ## Here is how to put it into practice.
@@ -55,7 +51,7 @@ These days there are lots of tools available for mindfulness meditations. There 
 
 ### Find a quiet place and settle into a comfortable posture
 Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.). You may sit in traditional cross-legged posture or in any other position that is comfortable. If you prefer, you can sit on a chair. The most important thing is to keep your back straight, helping create and alert posture.
- 
+
 ### Turn attention to the breath
 You can sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing, and try to become aware of the sensation of the breath as it enters and leaves your nostrils. This sensation is is the focus of the meditation. Try to concentrate on it to the exclusion of everything else. You are not trying to breathe deeply or change the breathing in any way-simply let your body breathe the way it naturally does. There is no particular way your body is supposed to feel. You are simply observing your body as it breathes, allowing your experience to be just as it is, without judging or needing to change it.
 
