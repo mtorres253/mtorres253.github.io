@@ -7,7 +7,7 @@ Stress as well as some level of anxiety and worry are a natural and important pa
 
 ## Step 1 Recognition: Notice your stress 
 
-Think for a moment &hellips;
+Think for a moment &hellip;
 
 - How do you know when you are stressed?
 - Where do you feel stress physically?
@@ -86,3 +86,37 @@ This is a coping strategy most relevant to when the stressor is out of your cont
 - Getting additional therapeutic support.
 - Meditation
 - Spiritual practices 
+
+## Distracting vs. being present in your feelings
+Emotion focused coping can be broken down into two categories: 
+
+Distraction coping: Strategies that allow you to escape or distract from the stress and anxiety, such as watching TV, having a glass of wine, taking an Ativan, For some it can be listening to music, dancing or going for a run.  
+
+Present focused coping: Strategies that help you be present in the stress, or help you gain perspective, deep breathing, meditation, talking to friends and professionals or journaling, connecting with things that are important to you, such as family or a pet.  
+
+Some strategies such as physical exercise can have elements of both. It can be an escape and a way to work through the feelings, and sometimes escaping for a bit can help us come back to the stressor and work through it.  
+
+I had someone recently describe how taking his dog for a walk helps him not care as much about his worries and brings him more fully into the moment.  
+
+One of the challenges in learning to better cope with stress, is that without careful attention, we tend to rely heavily on the distraction strategies.  
+
+## Distraction coping has it’s place  
+Sometimes, if the stressor feels too overwhelming, you may feel like you need to escape or distract to be able to cope. In these cases it is important to be mindful of how you are choosing to escape and the impact of the escape strategy.
+  
+For example, after initially being diagnosed with a serious illness, one may find that a few glasses of wine every night helps them manage the enormous sense of feeling overwhelmed and provide some relief from sitting with so much uncertainty, but over time, if that person turns to the same strategy night after night, not only is the stressor not being addressed but the coping strategy may bring its own set of problems and stressors. Escape strategies can be useful if utilized carefully and with the goal of eventually learning to face the distressing thought, event or feeling. 
+
+Shifting away from a distraction coping strategies we have learned to rely on, can be particularly challenging at first. Initially, the stress will go up and the present focused strategies bill provide limited comfort, but over time that will start to shift.
+
+There will always be stressors, but they way you deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
+
+# Practice 
+
+1) Understand your stressors 
+Identify current stressors and what’s in your control to change and what’s out of your control
+
+2) Be aware of how you are coping 
+Over the next week, Identify your current “distraction strategies” and “being present strategies” 
+Track which ones you are using for different situations 
+
+# Learn More
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New York: Springer Pub. Co. 
