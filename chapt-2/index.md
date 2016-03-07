@@ -88,7 +88,6 @@ Understanding your mistakes in the larger context
 # Practice
 
 1. Pick one activity to do more mindfully over the next week
-
 2. Devote 10 minutes a day to a formal mindfulness activity
 
 ### Option A: Mediation CD
