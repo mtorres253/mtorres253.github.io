@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Goal Attainment
-body: We talk a lot about goals, but most people think of them only in a practical sense. Here we are going to focus on their emotional impact as well. It is important to have a long term vision because it can act as a motivator and give us a sense of purpose. However, in order to get there without feeling overwhelmed, we need milestones along the way. This is where creating attainable goals are crucial. 
+description: We talk a lot about goals, but most people think of them only in a practical sense. Here we are going to focus on their emotional impact as well. It is important to have a long term vision because it can act as a motivator and give us a sense of purpose. However, in order to get there without feeling overwhelmed, we need milestones along the way. This is where creating attainable goals are crucial. 
 ---
 # Chapter 9: Goal Attainment 
 
 The long view, small steps and positive emotions  
 
-We talk a lot about goals, but most people think of them only in a practical sense. Here we are going to focus on their emotional impact as well. It is important to have a long term vision because it can act as a motivator and give us a sense of purpose. However, in order to get there without feeling overwhelmed, we need milestones along the way. This is where creating attainable goals are crucial. 
+{{ page.description }}
 
 ## The Big Goals
 

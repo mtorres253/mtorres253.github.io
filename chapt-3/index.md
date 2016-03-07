@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Gratitude
-body: Gratitude is a feeling of thankfulness or appreciation towards something or someone. 
-It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished. 
+description: Gratitude is a feeling of thankfulness or appreciation towards something or someone. It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished. 
 ---
 # Chapter 3: Gratitude 
 Taking stock of what you have
 
-Gratitude is a feeling of thankfulness or appreciation towards something or someone. 
-It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished. 
+{{ page.description }} 
 
 <div class="quote">“A moment of gratitude makes a difference in your attitude” <div>&mdash; Bruce Wilkinson</div></div>
 There is a substantial amount of research suggesting that there is a strong link between gratitude and well-being. [Grateful people have been shown to experience more joy, be happier, experience less stress and anxiety, less depression, sleep get more restful sleep and report being more satisfied with their lives and relationships.](http://www.sciencedirect.com/science/article/pii/S0022399908004224)

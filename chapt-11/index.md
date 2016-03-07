@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Altruism and Acts of Kindness
-body: The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
+description: The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
 ---
 # Chapter 11: Altruism and Acts of Kindness
 The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  

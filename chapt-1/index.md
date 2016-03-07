@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Chapter 1: Taking in the Positive
-body: One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
+title: Taking in the Positive
+description: One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
 ---
-
 # Chapter 1: Taking in the Positive 
 Retraining our brain to capture and retain the positive 
 
-One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events. 
+{{ page.description }}
 
 A study of people caring for loved ones dying of AIDS found that the people who were able to, even in the midst of this incredibly difficult time in their lives, still notice and appreciate the good moments such as enjoying a chance to get out and go for a walk or an afternoon spent watching a movie together, experienced less depression and showed increased resilience six months to a year after the loss of the loved one.  
 

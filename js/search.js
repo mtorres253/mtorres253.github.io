@@ -4,7 +4,7 @@ jQuery(function() {
   window.idx = lunr(function () {
     this.field('id');
     this.field('title', { boost: 10 });
-    this.field('body');
+    this.field('description');
     this.field('url');
   });
 
