@@ -6,6 +6,7 @@ jQuery(function() {
     this.field('title', { boost: 10 });
     this.field('author');
     this.field('category');
+    this.field('url');
   });
 
   // Download the data from the JSON file we generated
