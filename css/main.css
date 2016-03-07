@@ -78,8 +78,14 @@ footer {
 }
 .story {
     display: block;
-    border: 2px solid #88B054;
-    padding: 50px;
+    border: 1px dashed #88B054;
+    padding: 0px 30px 0px 30px;
+}
+.story p {
+    color: #666666;
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: 1.3em;
 }
 .container {
     float: right;
@@ -88,11 +94,14 @@ footer {
 }
 .quote {
     display: block;
-    border: 2px solid #88B054;
+    color: #666666;
+    border: 1px dashed #88B054;
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: 1.3em;
     padding: 25px;
-    margin: 25px;
+    margin: 20px 20px 20px 20px;
     text-align: center;
     float: right;
-    width: 250px;
-    font-color: #cccccc;
+    width: 220px;
 }

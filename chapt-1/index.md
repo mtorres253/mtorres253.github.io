@@ -74,6 +74,8 @@ What about the event made you feel those feelings? 
 Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it’s a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just wait until the end of the day to start thinking about the good things that have happened to you.
 
 # Learn More
-Meetu Khosla Positive Affect and Coping with Stress http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf
-Hanson, R., & Mendius, R. (2009). Buddha's brain: The practical neuroscience of happiness, love & wisdom. Oakland, CA: New Harbinger Publications. 
+[Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf)
+Hanson, R., & Mendius, R. (2009). 
+
+Buddha's brain: The practical neuroscience of happiness, love & wisdom. Oakland, CA: New Harbinger Publications. 
 

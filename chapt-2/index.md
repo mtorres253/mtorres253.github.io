@@ -7,7 +7,7 @@ I know there is a lot being written about mindfulness these days and it’s bein
 
 Mindfulness involves a focused awareness of whatever is happening in the present moment without trying to change it, but instead simply noticing it for what it is, as it is. We can be mindful of our thoughts, feelings, and things going on around us. It’s about paying attention, in a particular way, on purpose, in the present moment with a non-judgmental and accepting attitude. One way to think about mindfulness is as being without doing. 
 
-<div class="quote">“The past is history, the future is a mystery, but today is a gift—that’s why they call it ‘the present.” <i>Kung Fu Panda</i></div>
+<div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present." &mdash; <i>Kung Fu Panda</i></div>
 
 ## Informal Mindfulness 
 Being present in everyday life
@@ -37,14 +37,14 @@ When you are ready, prepare to chew the raisin, noticing how and where it needs 
 ### Swallow it 
 When you feel ready to swallow the raisin, see if you can first detect the intention to swallow as it comes up, so that even this is experienced consciously before you actually swallow the raisin.
 
-### Formal Mindfulness
+## Formal Mindfulness
 Breath awareness and meditation 
 
 - Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
 - Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
 - Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
 - Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
-- When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body--and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
+- When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body &mdash; and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
 
 ## Here is how to put it into practice.
 These days there are lots of tools available for mindfulness meditations. There are recordings  you can download or purchase and even several apps dedicated to building a daily mindfulness practice. There are many variations of breath awareness exercises. Some are very brief and others more elaborate. You may want to try out a few and see which is the right fit for you. Below are the steps included in most meditations. 

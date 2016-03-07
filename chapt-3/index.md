@@ -8,7 +8,7 @@ Taking stock of what you have
 Gratitude is a feeling of thankfulness or appreciation towards something or someone. 
 It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished. 
 
-<div class="quote">“A moment of gratitude makes a difference in your attitude” Bruce Wilkinson</div>
+<div class="quote">“A moment of gratitude makes a difference in your attitude” <div>&mdash; Bruce Wilkinson</div></div>
 There is a substantial amount of research suggesting that there is a strong link between gratitude and well-being. [Grateful people have been shown to experience more joy, be happier, experience less stress and anxiety, less depression, sleep get more restful sleep and report being more satisfied with their lives and relationships.](http://www.sciencedirect.com/science/article/pii/S0022399908004224)
 
 Studies have even shown a link between gratitude and health (Hill, PL, Allemand M, Roberts BW) and improved sleep (Nancy Digdon* and Amy Koble) and learning to connect with what you are grateful for, even for just a few minutes, can make a big difference in how you experience life. 
@@ -29,5 +29,3 @@ a noticeable difference in their workday.
 This exercise helps bring more awareness to the good things that you otherwise might not necessarily note. It doesn’t have to be a new thing every day. Feel free note more than one per day if you think of more than one. The goal of this exercise is to spend a few minutes each day reflecting on the things you have in your life to be grateful for.
 
 When practicing gratitude, it is important that you note things you are actually grateful for and not things you think you “should” be grateful for and that you don’t turn into a way to beat yourself up. For example thinking, “ I’m a terrible person for being upset that it took so long to get seated in the restaurant when there are people starving in the world.” I refer to this as weaponizing gratitude against yourself. 
-
-

@@ -86,26 +86,27 @@ Now take a look at the list and rank them in order of importance to you. Write y
 Our strengths often reflect or are tied to the values we hold. 
 Values List
 
-| ACHIEVEMENT | ADVANCEMENT |
-| ADVENTURE | AESTHETICS |
-| AUTONOMY | CARING |
-| CHALLENGE | CHANGE & VARIETY |
-| COMPETITION | COOPERATION |
-| CREATIVITY | SECURITY |
-| FAMILY HAPPINESS | HEALTH |
-| HELP OTHERS | HELP SOCIETY |
-| HONESTY | INNER HARMONY |
-| INTEGRITY | INTELLECTUAL |
-| STABILITY | TRUST |                   
-| KNOWLEDGE | LEADERSHIP |
-| LEISURE | LOCATION |
-| LOYALTY | PLEASURE |
-| POWER | PRECISION |
-| RESPONSIBILITY | RECOGNITION |
-| STABILITY | SPIRITUALITY |
-| TIME FREEDOM | WEALTH |
-| WISDOM | |
+| ACHIEVEMENT 		| ADVANCEMENT  	 	|
+| ADVENTURE   		| AESTHETICS       	|
+| AUTONOMY    		| CARING           	|
+| CHALLENGE   		| CHANGE & VARIETY 	|
+| COMPETITION 		| COOPERATION      	|
+| CREATIVITY  		| SECURITY         	| 
+| FAMILY HAPPINESS 	| HEALTH 			|
+| HELP OTHERS 		| HELP SOCIETY 		|
+| HONESTY 			| INNER HARMONY 	|
+| INTEGRITY 		| INTELLECTUAL 		|
+| STABILITY 		| TRUST 			|
+| KNOWLEDGE 		| LEADERSHIP 		|
+| LEISURE 			| LOCATION 			|
+| LOYALTY 			| PLEASURE 			|
+| POWER 			| PRECISION 		|
+| RESPONSIBILITY 	| RECOGNITION 		|
+| STABILITY 		| SPIRITUALITY 		|
+| TIME FREEDOM 		| WEALTH 			|
+| WISDOM 			| 					|
 
 # Practice
 1) Take a few moments every identify one challenge you faced and what strengths you had to call upon to face that challenge.  
+
 Example sitting in traffic coming back from work, patience 
