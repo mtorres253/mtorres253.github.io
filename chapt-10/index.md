@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 10
+title: Maximizing Support
+body: There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
 ---
 # Chapter 10: Maximizing Support 
 There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 

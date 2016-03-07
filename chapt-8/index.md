@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 8
+title: Harnessing your Strengths and Staying Connected to your Values
+body: You have a unique set of strengths, talents, skills, and positive qualities. These strengths have helped you get through challenges in the past. In times of stress, when we are really anxious or feeling depressed, it is really easy to lose sight of our own strengths.  You may have a great sense of humor, but haven’t felt very funny lately; you may be very creative, but haven’t had the time or opportunity to express that creativity.
 ---
 # Chapter 8: Harnessing your Strengths and Staying Connected to your Values 
 

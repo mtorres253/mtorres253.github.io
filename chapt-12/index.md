@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 12
+title: Creating an Ongoing Practice and Lasting Changes
 ---
 # Creating an Ongoing Practice and Lasting Changes
 

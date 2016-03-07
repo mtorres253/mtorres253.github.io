@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 5
+title: Mindful Problem Solving
+body: Making clear and well thought out decisions can be a struggle. Life these days seems to move at an increasingly hectic pace. Demands on our time are being made, and from multiple sources, texts, emails, instant messages, at all times of day and night We are bombarded with having to make decisions and often do not have the luxury to fully consider the impact of the choices we make.
 ---
 # Chapter 5: Mindful Problem Solving 
 Making clear and well thought out decisions can be a struggle. Life these days seems to move at an increasingly hectic pace. Demands on our time are being made, and from multiple sources, texts, emails, instant messages, at all times of day and night We are bombarded with having to make decisions and often do not have the luxury to fully consider the impact of the choices we make.
 
-Whether we are considering a life changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress.  
-This is why it can really help to have a structured framework for making decisions. 
+Whether we are considering a life changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress. This is why it can really help to have a structured framework for making decisions. 
 
 ## Knowing what you can manage
 By systematically analyzing our ability to cope with the stress/anxiety of carrying out a potential solution, we are able to feel confident in putting the plan into action.  This is referred to as coping confidence.

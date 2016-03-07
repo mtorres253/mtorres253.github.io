@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 7
+title: Reframing
+body: Research has shown that that when we reframe a situation focusing on the positive or more neutral aspects (also known as positive reappraisals), we tend to feel better about the situation and experience less anxiety and stress. I find that this is particularly helpful for the ones that are out of our control.
 ---
 # Chapter 7: Reframing 
 The Meaning We Assign Things
 
-Part of the appraisal process we discussed in Chapter 6 refers our interpretation, or judgment about the personal significance of the event. The meaning we assign to the event, as well as how we see it fitting into the larger context of our life, impacts the extent to which event is experienced as stressful. 
+Part of the appraisal process we discussed in [Chapter 6](/chapt-6/) refers our interpretation, or judgment about the personal significance of the event. The meaning we assign to the event, as well as how we see it fitting into the larger context of our life, impacts the extent to which event is experienced as stressful. 
 
 Research has shown that that when we reframe a situation focusing on the positive or more neutral aspects (also known as positive reappraisals), we tend to feel better about the situation and experience less anxiety and stress. I find that this is particularly helpful for the ones that are out of our control. 
 

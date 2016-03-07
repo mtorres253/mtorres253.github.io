@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 3
+title: Gratitude
+body: Gratitude is a feeling of thankfulness or appreciation towards something or someone. 
+It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished. 
 ---
 # Chapter 3: Gratitude 
 Taking stock of what you have

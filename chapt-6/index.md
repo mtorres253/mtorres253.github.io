@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Anxiety Workbook - Chapter 6
+title: Recognizing and Challenging Anxious Thought Loops
+body: Getting caught in negative thought loops can be become one of the greatest barriers to coping with and resolving stressful situations. Anxiety can build on itself. The deeper you go into the anxious thoughts, the more negative your perception of the situation becomes. Your brain may even start to add in negative beliefs of events. This is refrrred to as "distorted thinking".
 ---
 # Chapter 6: Recognizing and Challenging Anxious Thought Loops 
 
-Getting caught in negative thought loops can be become one of the greatest barriers to coping with and resolving stressful situations. Anxiety can build on itself. The deeper you go into the anxious thoughts, the more negative your perception of the situation becomes. Your brain may even start to add in negative beliefs of events. This is refrrred to as "distorted thinking". For example, you may start with an anxious thought about leaving the coffee pot on, and find yourself replaying the morning’s events over and over again in your mind and with each replay of the morning, the memory of the red light on the machine still being on, becomes more and more convincing until you start to become certain that the pot is still on. You may decide to leave work to go home and check or spend the day worried and distracted.
+Getting caught in negative thought loops can be become one of the greatest barriers to coping with and resolving stressful situations. Anxiety can build on itself. The deeper you go into the anxious thoughts, the more negative your perception of the situation becomes. Your brain may even start to add in negative beliefs of events. This is referred to as "distorted thinking". For example, you may start with an anxious thought about leaving the coffee pot on, and find yourself replaying the morning’s events over and over again in your mind and with each replay of the morning, the memory of the red light on the machine still being on, becomes more and more convincing until you start to become certain that the pot is still on. You may decide to leave work to go home and check or spend the day worried and distracted.
 
 Or perhaps you made a presentation for work and you feel like some pieces didn’t go as well as you had hoped, and then find yourself laying in bed all night, thinking that you have you’ve lost everyone’s respect, that your job is on the line, and even telling yourself, “whatever made you think you could do this?”
 
