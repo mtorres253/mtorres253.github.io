@@ -113,15 +113,15 @@ There will always be stressors, but they way you deal with them can be a choice.
 
 1) Know Your Stressors 
 Take time to think about your current stressors.
-•	Start with the general and break them down into specifics. If you are stressed about work, think about what aspects of work are causing stress: a looming deadline, a coworker not doing their share. 
-•	Get as specific as you can and then think about which aspects of each stressor are in your control. 
-•	Then consider the best ways to cope to cope with each stressor. With the ones in your control, as yourself what can I do to change this situation?” and with the ones that you feel are out of your control, consider what will help you feel less distress about the situa-tion.  
+- Start with the general and break them down into specifics. If you are stressed about work, think about what aspects of work are causing stress: a looming deadline, a coworker not doing their share. 
+-	Get as specific as you can and then think about which aspects of each stressor are in your control. 
+-Then consider the best ways to cope to cope with each stressor. With the ones in your control, as yourself what can I do to change this situation?” and with the ones that you feel are out of your control, consider what will help you feel less distress about the situa-tion.  
 
 2) Be aware of how you are coping 
 As you cope with the stressful situations in your life, try to stay mindful of the ways you are cop-ing. 
-•	What are you doing to distract or escape?
-•	What are you doing to help you stay present?
-•	In what circumstances do you feel more of a need to escape?
+- What are you doing to distract or escape?
+- What are you doing to help you stay present?
+- In what circumstances do you feel more of a need to escape?
   
  
 
