@@ -8,6 +8,9 @@ p, ul li, ol li, td {
     color: #333;
     font-family: 'Lora', serif;
 }
+ul li p, ol li p {
+    font-size: 1.2em;
+}
 table {
     width: 100%;
 }

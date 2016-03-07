@@ -91,7 +91,6 @@ Stay with all beings until you feel a personal sense of the interconnectedness 
 
 Take a moment to receive these wishes. Whenever you are ready, you may allow your eyes to open.
 
-
 # Practice
 
 1. Small acts of kindness/altruistic behaviors 
@@ -99,6 +98,5 @@ Try doing one nice thing for someone else each day–
 It can be a friend, family member, or a stranger.  
 It doesn’t have to be big – even a small act of kindness can make a big difference to another person, and, ultimately, to you. 
 Record the event and how you felt when you did it
-
 2. Mindfulness Practice 
 Take a few minutes each day to listen to the “loving kindness meditation”
