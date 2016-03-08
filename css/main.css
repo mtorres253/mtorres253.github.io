@@ -24,7 +24,7 @@ p.top {
 }
 div.header {
     position: relative;
-    background-color: #64706c;
+    background-color: #454C3B;
     height: 50px;
     width: 100%;
 }
@@ -72,7 +72,7 @@ nav ul li a{
 }
 a {
     text-decoration: none;
-    color: #88B054;
+    color: #617D3C;
     font-weight: normal;
 }
 a:hover {
@@ -81,10 +81,10 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family: 'Roboto', sans-serif;
-    color: #64706c;
+    color: #454C3B;
 }
 h2, h3 {
-    color: #64706c;
+    color: #454C3B;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -93,7 +93,7 @@ footer {
 }
 .story {
     display: block;
-    border: 1px dashed #64706c;
+    border: 1px dashed #454C3B;
     padding: 0px 30px 0px 30px;
 }
 .story p {
@@ -110,7 +110,7 @@ footer {
 .quote {
     display: block;
     color: #666666;
-    border: 1px dashed #64706c;
+    border: 1px dashed #454C3B;
     font-family: 'Lora', serif;
     font-style: italic;
     font-size: 1.3em;
