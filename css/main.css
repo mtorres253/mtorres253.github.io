@@ -91,6 +91,10 @@ footer {
     font-size: .8em;
     clear: both;
 }
+#search_results {
+    width: 50%;
+    margin: auto;
+}
 .story {
     display: block;
     border: 1px dashed #454C3B;
@@ -106,6 +110,10 @@ footer {
     float: right;
     width: 68%;
     padding: 30px 30px;
+}
+.container .inner_search {
+    width: 50%;
+    margin: auto;
 }
 .quote {
     display: block;

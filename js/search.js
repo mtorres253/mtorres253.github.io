@@ -31,11 +31,12 @@ jQuery(function() {
 
   function display_search_results(results) {
     // var $search_results = $("#search_results");
-    var $search_results = $("#container")
+    var $search_results = $("#search_results");
+    var $container = $("#container");
 
     // Wait for data to load
     window.data.then(function(loaded_data) {
-
+      $container.empty();
       // Are there any results?
       if (results.length) {
         $search_results.empty(); // Clear any old results
