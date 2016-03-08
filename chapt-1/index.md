@@ -9,7 +9,7 @@ One of the most inspiring things I have learned in my line of work is that even 
 
 A study of people caring for loved ones dying of AIDS found that the people who were able to, even in the midst of this incredibly difficult time in their lives, still notice and appreciate the good moments such as enjoying a chance to get out and go for a walk or an afternoon spent watching a movie together, experienced less depression and showed increased resilience six months to a year after the loss of the loved one.  
 
-## Recalling a positive event 
+### Recalling a positive event 
 Taking times to recall a positive experience can give you a momentary break from a stressful day and help you feel replenished enough to keep going.
 
 Think about something that you did, or something that happened to you, that was positive and made you feel good.  It can be something that you thought about or an actual event. 
@@ -19,7 +19,7 @@ Think about something that you did, or something that happened to you, that was 
 - As you think about this event, notice your body. what are you feeling and where?  
 - Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
 
-## Turning up the volume by extending or amplifying the event 
+### Turning up the volume by extending or amplifying the event 
 Noticing the positive moments is powerful in itself, but, to really maximize the benefit of a positive experience, it is important to amplify or extend it by taking time to savor it, writing it down, spending time re-experiencing it in your mind, or telling someone about it.
 
 One way to think about it is that you are “turning up the volume” on a positive event. Research has found that people who take time to amplify positive events in this way tend to have more positive emotion overall and more adaptive forms of coping with stress. I also think of it as a way to get the most mileage out of your positive experiences.
@@ -31,7 +31,7 @@ Think about the event you just came up with.
 - Think about it later? 
 - Stop and savor it?
 
-## Now add a greater level of mindfulness to this exercise through Breath Awareness
+### Now add a greater level of mindfulness to this exercise through Breath Awareness
 Breathing affects the way we feel. When someone is upset, they are told to, “take a deep breath and calm down.” Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and helps you more fully experience positive feelings. In this next exercise we are going to add breath awareness technique to positive event recall. 
 
 It can be helpful to think of a relaxing word such as “calm” or “relax” and say it to yourself silently and calmly as you exhale. 
@@ -51,7 +51,7 @@ It can be helpful to think of a relaxing word such as “calm” or “relax” 
 - Take a few minutes just to enjoy the feelings that come up for you.  Take a few deep breaths and allow your body to relax.
 - Continue to take long deep breaths.
 
-## Increase opportunities for future positive experiences 
+### Increase opportunities for future positive experiences 
 Deepen this exercise by adding these questions after you are able to fully pull up the positive experience, and let whatever answers come to you, be what they are.
 
 What can I do to create more opportunities for moments like this?
