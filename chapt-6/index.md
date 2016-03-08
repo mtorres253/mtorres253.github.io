@@ -28,11 +28,11 @@ Below are some examples of common forms of distorted thinking:
 ## We can limit ourselves based on negative beliefs 
 Part of what makes it hard to break away from these thoughts is that we may have gotten messages through our childhood about reinforcing negative beliefs about ourselves and our abilities. This includes times we were told we couldn’t accomplish something, that we were going to fail or we weren’t good enough. 
 
-There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.
-
-He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. “Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it’s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free.
-
-The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large, these messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place. 
+<div class="story">
+<p>There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.</p>
+<p>He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. “Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it’s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free.</p>
+<p>The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large, these messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place.</p>
+</div> 
 
 ## Challenge Them!
 There are a variety of techniques that have been discovered to help disrupt these negative thought processes. Some work better in certain situations and for certain personality types. I suggest giving them all a try and seeing which is the best fit. 
