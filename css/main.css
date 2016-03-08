@@ -6,7 +6,7 @@ p, ul li, ol li, td {
     font-size: 1.2em;
     line-height: 1.5em;
     color: #333;
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
 }
 ul li p, ol li p {
     font-size: 1.2em;
@@ -80,7 +80,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lora', serif;
     color: #454C3B;
 }
 h2, h3 {
@@ -98,20 +98,20 @@ footer {
 }
 .story p {
     color: #666666;
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;  
     font-style: italic;
     font-size: 1.2em;
 }
 .container {
     float: right;
-    width: 70%;
-    padding: 20px;
+    width: 68%;
+    padding: 30px 30px;
 }
 .quote {
     display: block;
     color: #666666;
     border: 1px dashed #454C3B;
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;  
     font-style: italic;
     font-size: 1.2em;
     padding: 25px;
