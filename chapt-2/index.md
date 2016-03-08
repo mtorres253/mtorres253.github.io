@@ -58,7 +58,7 @@ You can sit with your eyes open or closed (whichever feel more natural) and turn
 ### Your mind may seem busier
 At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is. There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
  
-### Gently keep your focus on Breath 
+#### Gently keep your focus on Breath 
 As you sit here focusing on the breath, your mind will inevitably wander off. This is natural; it is simply what our minds are in the habit of doing. When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. There is no need to judge yourself when the mind wanders. Simply notice, let go, and begin again with the next breath. This noticing and beginning again is part of the practice.
 
 In these last few moments, renewing your intention to stay present, as best you can, beginning again and again, as many times as you need to. Letting go of the thoughts and arriving again right here, with attention on the sensations of breathing.
