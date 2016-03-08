@@ -7,7 +7,7 @@ I know there is a lot being written about mindfulness these days and it’s bein
 
 Mindfulness involves a focused awareness of whatever is happening in the present moment without trying to change it, but instead simply noticing it for what it is, as it is. We can be mindful of our thoughts, feelings, and things going on around us. It’s about paying attention, in a particular way, on purpose, in the present moment with a non-judgmental and accepting attitude. One way to think about mindfulness is as being without doing.
 
-<div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present." &mdash; <i>Kung Fu Panda</i></div>
+<div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present.'" &mdash; <i>Kung Fu Panda</i></div>
 
 ### Informal Mindfulness 
 Being present in everyday life

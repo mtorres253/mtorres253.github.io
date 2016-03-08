@@ -94,13 +94,13 @@ footer {
 .story {
     display: block;
     border: 1px dashed #454C3B;
-    padding: 0px 30px 0px 30px;
+    padding: 10px 40px 10px 40px;
 }
 .story p {
     color: #666666;
     font-family: 'Lora', serif;
     font-style: italic;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 .container {
     float: right;
@@ -113,7 +113,7 @@ footer {
     border: 1px dashed #454C3B;
     font-family: 'Lora', serif;
     font-style: italic;
-    font-size: 1.3em;
+    font-size: 1.2em;
     padding: 25px;
     margin: 20px 20px 20px 20px;
     text-align: center;
