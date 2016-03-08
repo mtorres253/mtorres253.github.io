@@ -9,7 +9,7 @@ Mindfulness involves a focused awareness of whatever is happening in the present
 
 <div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present.'" &mdash; <i>Kung Fu Panda</i></div>
 
-### Informal Mindfulness 
+# Informal Mindfulness 
 Being present in everyday life
 
 We often find ourselves rushing through the activities of daily life on “autopilot” An entire day or week can go by without us ever stopping to take in what is going on.  Many tasks of daily life have the potential for bringing enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help you appreciate the good things that are happening right now and decrease your sense of worry about the past or future. 
