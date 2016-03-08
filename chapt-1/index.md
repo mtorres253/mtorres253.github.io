@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Taking in the Positive
-description: One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
 ---
 # Chapter 1: Taking in the Positive 
 Retraining our brain to capture and retain the positive 
 
-{{ page.description }}
+One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
 
 A study of people caring for loved ones dying of AIDS found that the people who were able to, even in the midst of this incredibly difficult time in their lives, still notice and appreciate the good moments such as enjoying a chance to get out and go for a walk or an afternoon spent watching a movie together, experienced less depression and showed increased resilience six months to a year after the loss of the loved one.  
 
@@ -74,7 +73,7 @@ What about the event made you feel those feelings? 
 Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it’s a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just wait until the end of the day to start thinking about the good things that have happened to you.
 
 # Learn More
-[Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf)
+[Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf){:target="_blank"}
 Hanson, R., & Mendius, R. (2009). 
 
 Buddha's brain: The practical neuroscience of happiness, love & wisdom. Oakland, CA: New Harbinger Publications. 

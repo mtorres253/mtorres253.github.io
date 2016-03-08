@@ -1,14 +1,13 @@
 ---
 layout: default
 title: Reframing
-description: Research has shown that that when we reframe a situation focusing on the positive or more neutral aspects (also known as positive reappraisals), we tend to feel better about the situation and experience less anxiety and stress. I find that this is particularly helpful for the ones that are out of our control.
 ---
 # Chapter 7: Reframing 
 The Meaning We Assign Things
 
 Part of the appraisal process we discussed in [Chapter 6](/chapt-6/) refers our interpretation, or judgment about the personal significance of the event. The meaning we assign to the event, as well as how we see it fitting into the larger context of our life, impacts the extent to which event is experienced as stressful. 
 
-{{ page.description }}
+Research has shown that that when we reframe a situation focusing on the positive or more neutral aspects (also known as positive reappraisals), we tend to feel better about the situation and experience less anxiety and stress. I find that this is particularly helpful for the ones that are out of our control.
 
 Take for example two people waiting for a bus or train that isn’t on schedule, One, keeps replaying negative thoughts, “now I am going to be late” “ this seat is uncomfortable” “this is wasting valuable time” “ I rushed out of me house for no reason”, “The person next to me is talking loudly on his phone. That is so rude“ The more they focus on these negative thoughts the more distressing and frustrating the situation becomes. In contrast the 2nd person, while acknowledging that it is a frustrating situation, also thinks about, having a rare chance to be outside on a somewhat warm day, that even though she is going to be late, she is going to still get to spend time with a good friend, that even though this loud talker is annoying, there was a time before cellphones when it was much harder to reach people when you were running late. This person, is mostly likely to not only have a better experience of the wait, but is likely to be less stressed and anxious when she arrives and will be more present in that experience. 
 

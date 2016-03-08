@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Creating an Ongoing Practice and Lasting Changes
-description: For these new skills to really work, it is important to continue to practice them.  They are similar to muscles, if you don’t exercise them, they aren’t likely to work very well. The key is to turn them into habits. It can be helpful to start with the one or two skills you found most helpful,  or the one that is most relevant to what is happening in your life at the moment.
 ---
 # Creating an Ongoing Practice and Lasting Changes
 
@@ -19,7 +18,7 @@ We have
 - Build a team of healthy supportive people and ask for what you need
 - Stay connected by giving back
 
-{{ page.description }}
+For these new skills to really work, it is important to continue to practice them.  They are similar to muscles, if you don’t exercise them, they aren’t likely to work very well. The key is to turn them into habits. It can be helpful to start with the one or two skills you found most helpful,  or the one that is most relevant to what is happening in your life at the moment.
 
 Here are some tips for creating new habits and making them stick
 

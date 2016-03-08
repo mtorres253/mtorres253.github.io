@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Maximizing Support
-description: There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
+title: Maximizing Support 
 ---
 # Chapter 10: Maximizing Support 
 There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
@@ -70,7 +69,7 @@ Take a look at the list and ask yourself the following questions
 - Which types of support are easier/harder to ask for? 
 
 Improving your social support network
-Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.heretohelp.bc.ca/wellness-module/wellness-module-3-social-support)
+Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.heretohelp.bc.ca/wellness-module/wellness-module-3-social-support){:target="_blank"}
 
 - Challenge yourself to take social risks : Look for opportunities to talk to new people. Make an effort to introduce yourself. Most people will welcome the interaction.  
 - Get more from the support you have: It’s easy to assume that other people know what you need, but this usually isn’t true. You may need to tell others what you need. Be as specific as possible in your requests. However, be careful not to overwhelm your support providers. 

@@ -24,23 +24,32 @@ p.top {
 }
 div.header {
     position: relative;
-    background-color: #e1e8e4;
-    height: 150px;
+    background-color: #64706c;
+    height: 50px;
     width: 100%;
 }
-div.header span {
+div.header form {
     position: absolute;
-    color: #fcfcfc;
-    font-family: 'Lora', serif;
-    font-size: 3em;
+    right: 30px;
+    top: 12px;
 }
+div.header form submit {
+    font-family: 'Lora', serif;
+    font-size: 1.2em;
+}
+div.header form input {
+    color: #333;
+    font-family: 'Lora', serif;
+    font-size: 1em;
+}
+
 nav {
     float: left;
     width: 25%;
 }
 nav ul {
     padding: 0px;
-    margin-top: 20px;
+    margin-top: 1px;
     list-style: none;
 }
 footer ul {
@@ -72,7 +81,10 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family: 'Roboto', sans-serif;
-    color: #333;
+    color: #64706c;
+}
+h2, h3 {
+    color: #64706c;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -81,7 +93,7 @@ footer {
 }
 .story {
     display: block;
-    border: 1px dashed #88B054;
+    border: 1px dashed #64706c;
     padding: 0px 30px 0px 30px;
 }
 .story p {
@@ -98,7 +110,7 @@ footer {
 .quote {
     display: block;
     color: #666666;
-    border: 1px dashed #88B054;
+    border: 1px dashed #64706c;
     font-family: 'Lora', serif;
     font-style: italic;
     font-size: 1.3em;

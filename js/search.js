@@ -5,6 +5,7 @@ jQuery(function() {
     this.field('id');
     this.field('title', { boost: 10 });
     this.field('description');
+    this.field('content');
     this.field('url');
   });
 
@@ -29,7 +30,8 @@ jQuery(function() {
   });
 
   function display_search_results(results) {
-    var $search_results = $("#search_results");
+    // var $search_results = $("#search_results");
+    var $search_results = $("#container")
 
     // Wait for data to load
     window.data.then(function(loaded_data) {
@@ -37,19 +39,19 @@ jQuery(function() {
       // Are there any results?
       if (results.length) {
         $search_results.empty(); // Clear any old results
-
+        $search_results.append("<p>There are " + results.length + " results:</p>");
         // Iterate over the results
         results.forEach(function(result) {
           var item = loaded_data[result.ref];
 
           // Build a snippet of HTML for this result
-          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+          var appendString = '<p><a href="' + item.url + '">' + item.title + '</a></p>';
 
           // Add it to the results
           $search_results.append(appendString);
         });
       } else {
-        $search_results.html('<li>No results found</li>');
+        $search_results.html('<p>No results found</p>');
       }
     });
   }

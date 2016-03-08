@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Altruism and Acts of Kindness
-description: The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
+title: Altruism and Acts of Kindness  
 ---
 # Chapter 11: Altruism and Acts of Kindness
 The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
@@ -11,7 +10,7 @@ The final skill I will be talking about is altruism. Practicing acts of kindness
 
 Researchers have consistently found that people report a significant happiness boost after doing kind deeds for others. Some studies suggest giving to others makes people feel happier than spending money on themselves. Scientists have also found that altruistic acts a may trigger the release of endorphins in the brain, creating what is referred to a “helper’s high.” 
 
-## Connecting to our personal strengths through [Altruism](http://greatergood.berkeley.edu/topic/altruism/definition) 
+## Connecting to our personal strengths through [Altruism](http://greatergood.berkeley.edu/topic/altruism/definition){:target="_blank"}
 When we are going through a difficult period, struggling in our own life and feeling unable to manage problems, recognizing that we have the ability to help someone else, despite our current stress, gives a feeling of success, which, in turn, can make us feel hopeful. It can help us see the strengths we have lost sight of.
 
 ## Informal Altruism
