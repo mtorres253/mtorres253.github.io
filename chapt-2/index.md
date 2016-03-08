@@ -65,7 +65,7 @@ In these last few moments, renewing your intention to stay present, as best you 
 
 Now gently expanding your focus to include the room around you and the people here. When you are ready, very slowly and gently allow your eyes to open, staying with this sense of awareness.
 
-### Acceptance 
+# Acceptance 
 Allowing for thoughts and feelings without judgment 
 
 One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
@@ -74,7 +74,7 @@ If we try to forcefully push our thoughts and feelings away/out of our minds, th
 
 Instead, we can practice just simply noticing that they are there--without feeling like we have to do anything about them. It can be helpful to imagine them as leaves on a stream, just floating along the surface. Some will just pass right by and others will get stuck on a rock or a root for a bit before eventually freeing itself and moving on. 
 
-### Self-compassion
+# Self-compassion
 Being a supportive and caring friend to yourself
 
 We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves. 
