@@ -39,12 +39,15 @@ When you feel ready to swallow the raisin, see if you can first detect the inten
 
 # Formal Mindfulness
 Breath awareness and meditation 
+Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
 
-- Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
-- Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
-- Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
-- Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
-- When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body &mdash; and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
+Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
+
+Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
+
+Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
+
+When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body &mdash; and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
 
 ### Here is how to put it into practice.
 These days there are lots of tools available for mindfulness meditations. There are recordings  you can download or purchase and even several apps dedicated to building a daily mindfulness practice. There are many variations of breath awareness exercises. Some are very brief and others more elaborate. You may want to try out a few and see which is the right fit for you. Below are the steps included in most meditations. 
@@ -81,9 +84,9 @@ We are often better at having compassion for others than for ourselves. Why is t
 However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
  Self compassion is: 
-- Having empathy for yourself and understanding of your own suffering. 
-- Sitting with your own imperfection.
-- Understanding your mistakes in the larger context.
+ - Having empathy for yourself and understanding of your own suffering. 
+ - Sitting with your own imperfection.
+ - Understanding your mistakes in the larger context.
 
 # Practice
 
