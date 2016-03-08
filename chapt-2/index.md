@@ -10,7 +10,7 @@ I know there is a lot being written about mindfulness these days and it’s bein
 
 <div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present." &mdash; <i>Kung Fu Panda</i></div>
 
-## Informal Mindfulness 
+### Informal Mindfulness 
 Being present in everyday life
 
 We often find ourselves rushing through the activities of daily life on “autopilot” An entire day or week can go by without us ever stopping to take in what is going on.  Many tasks of daily life have the potential for bringing enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help you appreciate the good things that are happening right now and decrease your sense of worry about the past or future. 
@@ -23,22 +23,22 @@ A friend of mine with a busy career and 3 young children says since they started
 
 A great way to get a sense of increased mindfulness is to experiment with eating one raisin. This is a quick and easy activity and is commonly used as an introduction to mindfulness classes. Start by taking a raisin and holding it in the palm of your hand or between your finger and thumb. Focusing on it, imagine that you’ve just dropped in from Mars and have never seen an object like this before in your life. Take time to really see it; gaze at the raisin with care and full attention and go through the following steps:
 
-### See it 
+# See it 
 Let your eyes explore every part of it, examining the highlights where the light shines, the darker hollows, the folds and ridges, and any asymmetries or unique features. 
 
-### Touch it
+# Touch it
 Turn the raisin over between your fingers, exploring its texture, maybe with your eyes closed if that enhances your sense of touch. Smelling Holding the raisin beneath your nose, with each inhalation drink in any smell, aroma, or fragrance that may arise, noticing as you do this anything interesting that may be happening in your mouth or stomach. 
 
-### Place it
+# Place it
 Now slowly bring the raisin up to your lips, noticing how your hand and arm know exactly how and where to position it. Gently place the object in the mouth, without chewing, noticing how it gets into the mouth in the first place. Spend a few moments exploring the sensations of having it in your mouth, exploring it with your tongue. 
 
-### Taste it 
+# Taste it 
 When you are ready, prepare to chew the raisin, noticing how and where it needs to be for chewing. Then, very consciously, take one or two bites into it and notice what happens in the aftermath, experiencing any waves of taste that emanate from it as you continue chewing. Without swallowing yet, notice the bare sensations of taste and texture in the mouth and how these may change over time, moment by moment, as well as any changes in the object itself. 
 
-### Swallow it 
+# Swallow it 
 When you feel ready to swallow the raisin, see if you can first detect the intention to swallow as it comes up, so that even this is experienced consciously before you actually swallow the raisin.
 
-## Formal Mindfulness
+### Formal Mindfulness
 Breath awareness and meditation 
 
 - Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
@@ -50,16 +50,16 @@ Breath awareness and meditation
 ## Here is how to put it into practice.
 These days there are lots of tools available for mindfulness meditations. There are recordings  you can download or purchase and even several apps dedicated to building a daily mindfulness practice. There are many variations of breath awareness exercises. Some are very brief and others more elaborate. You may want to try out a few and see which is the right fit for you. Below are the steps included in most meditations. 
 
-### Find a quiet place and settle into a comfortable posture
+# Find a quiet place and settle into a comfortable posture
 Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.). You may sit in traditional cross-legged posture or in any other position that is comfortable. If you prefer, you can sit on a chair. The most important thing is to keep your back straight, helping create and alert posture.
 
-### Turn attention to the breath
+# Turn attention to the breath
 You can sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing, and try to become aware of the sensation of the breath as it enters and leaves your nostrils. This sensation is is the focus of the meditation. Try to concentrate on it to the exclusion of everything else. You are not trying to breathe deeply or change the breathing in any way-simply let your body breathe the way it naturally does. There is no particular way your body is supposed to feel. You are simply observing your body as it breathes, allowing your experience to be just as it is, without judging or needing to change it.
 
-### Your mind may seem busier
+# Your mind may seem busier
 At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is. There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
  
-### Gently keep your focus on Breath 
+# Gently keep your focus on Breath 
 As you sit here focusing on the breath, your mind will inevitably wander off. This is natural; it is simply what our minds are in the habit of doing. When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. There is no need to judge yourself when the mind wanders. Simply notice, let go, and begin again with the next breath. This noticing and beginning again is part of the practice.
 
 In these last few moments, renewing your intention to stay present, as best you can, beginning again and again, as many times as you need to. Letting go of the thoughts and arriving again right here, with attention on the sensations of breathing.
@@ -81,10 +81,10 @@ Being a supportive and caring friend to yourself
 We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves. 
 However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
-### Self compassion is: 
-Having empathy for yourself and understanding of your own suffering 
-Sitting with your own imperfection
-Understanding your mistakes in the larger context
+# Self compassion is: 
+- Having empathy for yourself and understanding of your own suffering 
+-Sitting with your own imperfection
+-Understanding your mistakes in the larger context
 
 # Practice
 
