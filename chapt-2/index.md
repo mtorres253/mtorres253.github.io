@@ -9,7 +9,7 @@ Mindfulness involves a focused awareness of whatever is happening in the present
 
 <div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present.'" &mdash; <i>Kung Fu Panda</i></div>
 
-### Informal Mindfulness 
+## Informal Mindfulness 
 Being present in everyday life
 
 We often find ourselves rushing through the activities of daily life on “autopilot” An entire day or week can go by without us ever stopping to take in what is going on.  Many tasks of daily life have the potential for bringing enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help you appreciate the good things that are happening right now and decrease your sense of worry about the past or future. 
@@ -18,7 +18,7 @@ Take doing the dishes for example. Its really easy to see doing the dishes as on
 
 A friend of mine with a busy career and 3 young children says since they started practicing increased mindfulness, her and her husband now debate over who gets to do the dishes because it has become one of the more relaxing parts of their day. 
 
-## The raisin exercise
+### The raisin exercise
 
 A great way to get a sense of increased mindfulness is to experiment with eating one raisin. This is a quick and easy activity and is commonly used as an introduction to mindfulness classes. Start by taking a raisin and holding it in the palm of your hand or between your finger and thumb. Focusing on it, imagine that you’ve just dropped in from Mars and have never seen an object like this before in your life. Take time to really see it; gaze at the raisin with care and full attention and go through the following steps:
 
@@ -37,7 +37,7 @@ When you are ready, prepare to chew the raisin, noticing how and where it needs 
 # Swallow it 
 When you feel ready to swallow the raisin, see if you can first detect the intention to swallow as it comes up, so that even this is experienced consciously before you actually swallow the raisin.
 
-### Formal Mindfulness
+# Formal Mindfulness
 Breath awareness and meditation 
 
 - Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
@@ -65,7 +65,7 @@ In these last few moments, renewing your intention to stay present, as best you 
 
 Now gently expanding your focus to include the room around you and the people here. When you are ready, very slowly and gently allow your eyes to open, staying with this sense of awareness.
 
-### Acceptance 
+## Acceptance 
 Allowing for thoughts and feelings without judgment 
 
 One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
@@ -74,7 +74,7 @@ If we try to forcefully push our thoughts and feelings away/out of our minds, th
 
 Instead, we can practice just simply noticing that they are there--without feeling like we have to do anything about them. It can be helpful to imagine them as leaves on a stream, just floating along the surface. Some will just pass right by and others will get stuck on a rock or a root for a bit before eventually freeing itself and moving on. 
 
-### Self-compassion
+## Self-compassion
 Being a supportive and caring friend to yourself
 
 We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves. 
