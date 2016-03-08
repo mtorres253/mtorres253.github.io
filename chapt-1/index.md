@@ -31,7 +31,7 @@ Think about the event you just came up with.
 - Think about it later? 
 - Stop and savor it?
 
-Now add a greater level of mindfulness to this exercise through Breath Awareness
+## Now add a greater level of mindfulness to this exercise through Breath Awareness
 Breathing affects the way we feel. When someone is upset, they are told to, “take a deep breath and calm down.” Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and helps you more fully experience positive feelings. In this next exercise we are going to add breath awareness technique to positive event recall. 
 
 It can be helpful to think of a relaxing word such as “calm” or “relax” and say it to yourself silently and calmly as you exhale. 
