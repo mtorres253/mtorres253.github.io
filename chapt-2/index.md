@@ -83,8 +83,8 @@ However, just as having compassion towards others motivates you to help them and
 
  Self compassion is: 
 - Having empathy for yourself and understanding of your own suffering 
--Sitting with your own imperfection
--Understanding your mistakes in the larger context
+- Sitting with your own imperfection
+- Understanding your mistakes in the larger context
 
 # Practice
 
