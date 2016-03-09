@@ -70,7 +70,7 @@ Now think of examples of times you have used at least 3 of the strengths you lis
 - Did anyone notice reflect back that strength or accomplishment?
 - If so, how did that feel?
 
-Personal Values
+## Personal Values
 Values can be understood as the very best of how we see ourselves. Values are a critical part of how we make important changes in our lives. It is easy to become out of touch with our values and sometimes we hold on to values that no longer accurately reflect who we are, or maybe were never our values to begin with, but someone else’s values we took on. 
 
 Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  
