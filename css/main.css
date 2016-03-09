@@ -58,7 +58,7 @@ footer ul {
 }
 nav ul li, footer ul li {
     font-family: 'Lora', serif; 
-    letter-spacing: 1px;
+    letter-spacing: .1em;
     margin-right: 15px;
     font-weight: bold;
     font-size: 1em;

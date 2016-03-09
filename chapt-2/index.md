@@ -43,7 +43,6 @@ Spending dedicated time working on mindfulness through formal practice can help 
 
 Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
 
-<<<<<<< Updated upstream
 Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
 
 Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
