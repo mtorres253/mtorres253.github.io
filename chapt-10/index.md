@@ -6,13 +6,15 @@ title: Maximizing Support
 There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
 
 A social support network can be beneficial in several ways: 
-- Feeling of security. It's comforting to know that you have people you can turn to in a time of need-you don’t have to do it all on your own.  
+
+- Feeling of security. It's comforting to know that you have people you can turn to in a time of need-you don’t have to do it all on your own.
 - Sense of belonging.  Feeling connected with others helps ward off loneliness. Just knowing you're not alone can go a long way toward coping with stress. 
 - Increased sense of self-worth. Knowing that you are an important part of other people’s lives helps you feel better about your self and through connecting with others you have opportunities to see your strengths reflected back to you. 
 
 A strong support network is made up of a variety of types of relationships. This can include intimate partners, close friends, family, co-workers, helping professionals.  Even more casual acquaintances, such as the person you chat with at the gym or working behind the counter at your local coffee shop, can be a source of support and help by creating a sense of connection.
 
-<div class="quote">“Some help is the kind of help we all can do without” &mdash; Free to be you and me</div> 
+<div class="quote">“Some help is the kind of help we all can do without” &mdash; Free to be you and me</div>
+
 ## Recognizing Negative Support 
 Just as these relationships are an essential part of our support, it is important to recognize that they can also be the source of much of our stress and sometimes the process of strengthening our support network involves decreasing energy and time going towards the stressful relationships in our lives. At times, it may even involve letting go of some people. 
 
@@ -47,15 +49,18 @@ For example, I have a friend who isn’t into deep emotional conversations, nor 
 ## Mapping it out!
 Think about your current support network. Who would you put in your inner circle? The people closest to you. The ones you might even consider to be family. 
 
-INNER CIRCLE 											| Emotional | Informational | Tangible |
+| INNER CIRCLE 	| Emotional | Informational | Tangible 	|
+| | | |
 
 Who are the people in your friendship circle. The ones that might not be part of you inner circle but are still significant relationships
 
-FRIENDS 												| Emotional | Informational | Tangible | 
+| FRIENDS | Emotional | Informational | Tangible 	| 
+| | | |
 
 Who are you acquaintances? People you don’t know well enough to consider friends but are part of your community and helpful in some way, or that you would like to get to know better
 
-ACQAINTANCES 											| Emotional | Informational | Tangible |
+| ACQUAINTANCES	| Emotional | Informational | Tangible 	|
+| | | |
 
 Now go back and mark the types of support you receive from each person on the list.  Emotional, Informational, Tangible 
 
@@ -74,7 +79,7 @@ Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.hereto
 - Challenge yourself to take social risks : Look for opportunities to talk to new people. Make an effort to introduce yourself. Most people will welcome the interaction.  
 - Get more from the support you have: It’s easy to assume that other people know what you need, but this usually isn’t true. You may need to tell others what you need. Be as specific as possible in your requests. However, be careful not to overwhelm your support providers. 
 - Take care of your relationships : Strong friendships need nurturing and it’s easy to get caught up in the day to day of our own lives. Keep in touch with your support network, offer support to others when they need it and let them know that you appreciate them. 
-- Reach out : Ask the people you know to help you broaden your networks.  
+- Reach out : Ask the people you know to help you broaden your networks.
 - Be patient : Making new connections can take time. You may need to meet many new people to make just one new friend. Building intimacy also takes time. It can take time to feel close to someone and feel like you can count on their support. 
 - Let go of or put limits on unhealthy ties : Walking away from any relationship is painful—even when the relationship is causing harm&mdash;but it may be necessary. For example, if you’re trying to quit drinking and your friends only ever want to spend time in bars and clubs, you may decide to let them go. Use your judgement, though. It may be possible to spend time elsewhere with them, without fully abandoning the friendship.
 - Make a plan/ Create new opportunities:  Figure out what support you need and figure out how you might find it. Think about stepping out of your usually activities.
