@@ -132,8 +132,17 @@ h2, h3 {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
     clear: both;
+    background-color: #d5d5d5;
+    color: #333;
+    text-align: center;
+    height: 50px;
+}
+footer p {
+    font-size: 1em;
+    margin: 15px;
+    color: #454C3B;
+    width: 100%;
 }
 #search_results {
     width: 50%;
