@@ -1,4 +1,73 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import 'bourbon';
+
+$modular-scale-ratio: $golden;
+$modular-scale-base: 1.0em;
+
 body {
+    @include background(linear-gradient(#cdcdcd, #ffffff) left repeat);
+    font-family: 'Open Sans', sans-serif;
+}
+td, li {
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-size: modular-scale(3);
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    font-size: modular-scale(2);
+}
+
+h3 {
+    font-family: 'Lora', serif;
+    font-size: modular-scale(1);
+}
+
+h4 {
+    font-family: 'Lora', serif;
+}
+
+.parent {
+  @include align-items(stretch);
+  @include display(flex);
+  @include flex-direction(row);
+  @include justify-content(flex-start);
+}
+
+.parent > .child {
+  @include flex(1);
+}
+
+.header {
+    @include clearfix;
+}
+
+.footer {
+    @include clearfix;
+}
+
+#{$all-buttons} {
+  @include button(shiny, #ff0000);
+  background-color: #f00;
+}
+
+#{$all-buttons-focus},
+#{$all-buttons-hover} {
+  background-color: #0f0;
+}
+
+#{$all-buttons-active} {
+  background-color: #00f;
+}
+
+/*body {
     margin: 1px auto;
     width: 85%;
 }
@@ -19,7 +88,6 @@ ul {
     margin-bottom: 30px;
 }
 p, li, td {
-/*    font-family: 'Roboto', sans-serif;*/
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
     line-height: 1.5em;
@@ -136,7 +204,7 @@ footer {
     background-color: #d5d5d5;
     color: #333;
     text-align: center;
-    height: 50px;
+    height: 55px;
 }
 footer p {
     font-size: 1em;
@@ -186,4 +254,4 @@ footer p {
 }
 .number-continuum {
     font-size: 1.1em;
-}
+}*/

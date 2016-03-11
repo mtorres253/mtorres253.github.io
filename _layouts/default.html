@@ -18,11 +18,11 @@
             </form>
         </div>
         <div id="search_results"></div>
-        <div id="container">
-            <div class="container">
+        <div id="container" class="parent">
+            <div class="container child">
                 {{ content }}
             </div><!-- /.container -->
-    		<nav>
+    		<nav class="child">
         		<ul>
             		<li><a href="/">Introduction</a></li>
             		<li><a href="/chapt-1/">Taking in the Positive</a></li>
@@ -42,7 +42,7 @@
     		</nav><!-- /.nav -->
         </div>
 		<footer>
-        	<p><a href="mailto:david.olem@gmail.com">Contact Me</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}" target="_blank">Edit this page</a></p>
+        	<p><button><a href="mailto:david.olem@gmail.com">Contact Me</a></button>&nbsp;&nbsp;|&nbsp;&nbsp;<button><a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}" target="_blank">Edit this page</a></button></p>
 		</footer>
 	</body>
 </html>
