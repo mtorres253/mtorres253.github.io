@@ -31,20 +31,20 @@ Reframing is a skill that can feel strange or awkward when you first try it, but
 
 Start small and practice positive reappraisal of some relatively minor stressful events.
 
-1. Recall the event: 
+#### Recall the event:
 - Think back over the week and describe a time when you felt stressed. 
 What happened? (Remember to keep it small!)
 - How did you feel when it happened?
 - What did you do in response?  
 
-2. Brainstorm about ways a reframe could be used in response to the event.
+#### Brainstorm about ways a reframe could be used in response to the event.
 - Now, try to reframe this event in a positive or neutral way.
 - List some ways that maybe it wasn’t as bad as it could have been,
 - How it maybe wasn’t as bad as you first thought it was, 
 - Good things that could come out of the event (You’ve learned something, you became a stronger person, you grew closer to someone in your life &hellip;)
 - “This is actually a good thing because…”
 
-If this feels too challenging, it may be helpful to start with this exercise:
+#### If this feels too challenging, it may be helpful to start with this exercise:
 
 - Think a stressful event where you felt successful about the way you dealt with it.
 - Go through the appraisal process and think about how you dealt at each step. 

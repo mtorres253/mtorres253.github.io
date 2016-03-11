@@ -1,2 +1,6 @@
 name: Anxiety Workbook
 markdown: kramdown
+github:
+  organization: mtorres253
+  repository: mtorres253.github.io
+  default_branch: master

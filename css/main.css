@@ -2,8 +2,21 @@ body {
     margin: 1px auto;
     width: 85%;
 }
-p, ul li, ol li {
+p, li {
     width: 90%;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+ul li {
+    list-style: disc;
+    margin-left: 50px;
+}
+ol li {
+    margin-left: 50px;
+    list-style: decimal;
+}
+ul {
+    margin-bottom: 30px;
 }
 p, li, td {
 /*    font-family: 'Roboto', sans-serif;*/
@@ -12,12 +25,17 @@ p, li, td {
     line-height: 1.5em;
     color: #333;
 }
+p {
+    margin-bottom: 20px;
+}
 table {
     width: 100%;
+    margin-bottom: 20px;
 }
 td {
     padding: 5px;
     background-color: #efefef;
+    border: 1px #ffffff solid;
 }
 p.top {
     margin-top: 0px;
@@ -52,17 +70,20 @@ nav ul {
     padding: 0px;
     margin-top: 1px;
     list-style: none;
+    margin-bottom: 0px;
 }
-footer ul {
-    display: inline;
-}
+
 nav ul li, footer ul li {
     font-family: 'Lora', serif; 
-    letter-spacing: .1em;
+    letter-spacing: .05em;
     margin-right: 15px;
     font-weight: bold;
     font-size: 1em;
     display: block;
+    margin: 0px;
+}
+footer ul li {
+    display: inline;
 }
 nav ul li {
     padding:10px;
@@ -83,12 +104,31 @@ a:hover {
 h1 {
     font-size: 1.8em;
     font-family: 'Lora', serif;
+    line-height: 1.4em;
+    color: #454C3B;
+    margin: 15px 0px 20px 0px;
+    font-weight: bold;
+}
+h2 {
+    margin-top: 40px;
+    font-size: 1.5em;
     color: #454C3B;
 }
+h3 {
+    font-size: 1.3em;
+    color: #454C3B;
+}
+h4 {
+    font-size: 1.3em;
+    color: #454C3B;
+    font-style: italic;
+    margin-bottom: 15px;
+}
 h2, h3 {
-
+    font-weight: bold;
     letter-spacing: 1px;
     color: #454C3B;
+    margin-bottom: 15px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -102,8 +142,9 @@ footer {
 .story {
     display: block;
     border: 1px dashed #454C3B;
-    padding: 10px 0px 10px 40px;
+    padding: 40px 10px 10px 40px;
     width: 90%;
+    margin-bottom: 20px;
 }
 .story p {
     color: #666666;
@@ -133,4 +174,7 @@ footer {
     text-align: center;
     float: right;
     width: 220px;
+}
+.number-continuum {
+    font-size: 1.1em;
 }

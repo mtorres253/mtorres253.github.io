@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/css/reset.css">
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
         <meta name="robots" content="noindex">
         <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,700italic,500italic,400italic,300italic,300|Lora:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
@@ -43,6 +44,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:david.olem@gmail.com">Contact Me</a></li>
+                <li><a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}" target="_blank">Edit this page</a></li>
 			</ul>
 		</footer>
 	</body>

@@ -30,20 +30,23 @@ How like likely is it?
 
 1 to 10 with 1 being  (highly unlikely) and 10 being (an almost certainty) how likely is it this worry or stressor will actually happen. For example, not being able to pay your rent check when you are unemployed and have no money left is probable going to be a 9 or a 10, while your house catching on fire because you forgot to take the phone charger out of the wall before leaving for work might be a 1 or 2. 
 
-
+<p class="number-continuum">
 1----------2----------3----------4----------5----------6----------7----------8----------9----------10
+</p>
 
-                          	
+
+
 ## Significance and Controllability 
 
 ### How big a deal is this stress? 
 It can be easy to get overly worried about something that is unlikely to happen or may not have a great impact if it does, or overassign importance to something that happened in the past.  It is important that the response to the stressor matches its significance. To help calibrate, ask yourself, on a scale from 1 to 10, how significantly will this impact me if it does happen? 
 
-
+<p class="number-continuum">
 1----------2----------3----------4----------5----------6----------7----------8----------9----------10
+</p>
 
 
-                                                                                                            
+
 ### Is it in my Control?
 In order to effectively deal with a stressful situation, it is important to determine the extent to which it is changeable. Is changing it in your control.  
 
@@ -111,14 +114,16 @@ There will always be stressors, but they way you deal with them can be a choice.
 
 # Practice 
 
-1. Know Your Stressors: 
+<h4>Know your stressors</h4>
 Take time to think about your current stressors.
+
 - Start with the general and break them down into specifics. If you are stressed about work, think about what aspects of work are causing stress: a looming deadline, a coworker not doing their share. 
 - Get as specific as you can and then think about which aspects of each stressor are in your control. 
 - Then consider the best ways to cope to cope with each stressor. With the ones in your control, as yourself what can I do to change this situation?” and with the ones that you feel are out of your control, consider what will help you feel less distress about the situa-tion.  
 
-2. Be aware of how you are coping: 
-As you cope with the stressful situations in your life, try to stay mindful of the ways you are coping. 
+<h4>Be aware of how you are coping</h4>
+As you cope with the stressful situations in your life? Try to stay mindful of the ways you are coping. 
+
 - What are you doing to distract or escape?
 - What are you doing to help you stay present?
 - In what circumstances do you feel more of a need to escape?

@@ -60,9 +60,9 @@ This is a more extensive mindfulness technique, which utilizes Noticing and Nami
 
 # Practice
 
-1)  Think about your distorted thinking 
+<h4>Think about your distorted thinking</h4>
 Pay attention to you’re your negative thoughts and feelings throughout the day and take time to write them down. Its often easier to start with the feeling and Once you’ve identified what you’re feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations. The last step in this exercise is to look at the types of distorted thing and see if any of them are present in your thinking. 
 
-2) Try out some strategies 
+<h4>Try out some strategies</h4> 
 When you become aware of an anxious thought, pick one of the 4 strategies described to chal-lenge them and try to apply it.  Take a moment to note how well it worked. 
 
