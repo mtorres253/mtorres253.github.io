@@ -25,7 +25,7 @@ Here are some examples of how to do it: 
 - “This could lead to something positive”
 - “There are other good things going on in my life”
 - “Maybe this isn’t as important as I was making it out to be”
-- “I’ve been through this before and it turned out ok”
+- “I’ve been through this before and it turned out ok"
 
 ## Now try it:
 Reframing is a skill that can feel strange or awkward when you first try it, but like all of the skills we are learning, it becomes easier with time and practice.  
