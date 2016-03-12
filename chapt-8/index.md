@@ -10,6 +10,7 @@ You have a unique set of strengths, talents, skills, and positive qualities. The
 It is important to remember that your strengths are a part of you. Even if you haven’t made use of a given strength in a while, you still have that strength and you can call upon that strength to cope with whatever is going on with you.  Our strengths don’t go away, but we sometimes need to be reminded that those strengths are there.  
 
 Remembering and recognizing your strengths has positive impact on your mood, and can help you even more than that:
+
 - Simply reminding yourself of your strengths can help you accomplish things that you want to do.  
 - Recognizing your own strengths and instances in which you have used or exercised these strengths can help you better cope with stressful things in your life.
 
