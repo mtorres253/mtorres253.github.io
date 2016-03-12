@@ -2,6 +2,8 @@
 layout: default
 title: Creating an Ongoing Practice and Lasting Changes
 ---
+<p class="type">Chapter 12</p>
+
 # Creating an Ongoing Practice and Lasting Changes
 
 We have

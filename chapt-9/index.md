@@ -2,7 +2,9 @@
 layout: default
 title: Goal Attainment
 ---
-# Chapter 9: Goal Attainment 
+<p class="type">Chapter 9</p>
+
+# Goal Attainment 
 
 The long view, small steps and positive emotions  
 

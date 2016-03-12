@@ -2,7 +2,9 @@
 layout: default
 title: Altruism and Acts of Kindness  
 ---
-# Chapter 11: Altruism and Acts of Kindness
+<p class="type">Chapter 11</p>
+
+# Altruism and Acts of Kindness
 The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
 - It helps you feel connected with the larger world
 - It gets you out of our own head and gives you a break from thinking about your own problems, even if just for a short time 

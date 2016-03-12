@@ -2,7 +2,9 @@
 layout: default
 title: Recognizing and Challenging Anxious Thought Loops
 ---
-# Chapter 6: Recognizing and Challenging Anxious Thought Loops 
+<p class="type">Chapter 6</p>
+
+# Recognizing and Challenging Anxious Thought Loops 
 
 Getting caught in negative thought loops can be become one of the greatest barriers to coping with and resolving stressful situations. Anxiety can build on itself. The deeper you go into the anxious thoughts, the more negative your perception of the situation becomes. Your brain may even start to add in negative beliefs of events. This is referred to as "distorted thinking". For example, you may start with an anxious thought about leaving the coffee pot on, and find yourself replaying the morning’s events over and over again in your mind and with each replay of the morning, the memory of the red light on the machine still being on, becomes more and more convincing until you start to become certain that the pot is still on. You may decide to leave work to go home and check or spend the day worried and distracted.
 

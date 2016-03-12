@@ -51,7 +51,7 @@ jQuery(function() {
           $container.append(appendString);
         });
       } else {
-        $search_results.html('<p>No results found</p>');
+        $container.html('<p>No results found</p>');
       }
     });
   }

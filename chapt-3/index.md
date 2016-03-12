@@ -2,7 +2,9 @@
 layout: default
 title: Gratitude
 ---
-# Chapter 3: Gratitude 
+<p class="type">Chapter 3</p>
+
+# Gratitude 
 Taking stock of what you have
 
 Gratitude is a feeling of thankfulness or appreciation towards something or someone. It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished.

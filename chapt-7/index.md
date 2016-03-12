@@ -2,7 +2,9 @@
 layout: default
 title: Reframing
 ---
-# Chapter 7: Reframing 
+<p class="type">Chapter 7</p>
+
+# Reframing 
 The Meaning We Assign Things
 
 Part of the appraisal process we discussed in [Chapter 6](/chapt-6/) refers our interpretation, or judgment about the personal significance of the event. The meaning we assign to the event, as well as how we see it fitting into the larger context of our life, impacts the extent to which event is experienced as stressful. 
