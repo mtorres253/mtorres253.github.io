@@ -3,9 +3,8 @@ jQuery(function() {
   // a boost of 10 to indicate matches on this field are more important.
   window.idx = lunr(function () {
     this.field('id');
-    this.field('title', { boost: 10 });
-    this.field('description');
-    this.field('content');
+    this.field('title');
+    this.field('content', { boost: 10 });
     this.field('url');
   });
 
@@ -31,11 +30,9 @@ jQuery(function() {
 
   function display_search_results(results) {
     var $container = $("#container");
-
     // Wait for data to load
     window.data.then(function(loaded_data) {
       $container.empty();
-
       // Are there any results?
       if (results.length) {
         // Clear any old results
