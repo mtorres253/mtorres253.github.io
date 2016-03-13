@@ -35,11 +35,14 @@ jQuery(function() {
     // Wait for data to load
     window.data.then(function(loaded_data) {
       $container.empty();
+      $search_results.empty();
+      var query = $("#search_box").val()
+
       // Are there any results?
       if (results.length) {
         // Clear any old results
         
-        $search_results.append("<p>There are " + results.length + " results:</p>");
+        $search_results.append("<h2>There are " + results.length + " results for '" + query + "':</h2>");
         // Iterate over the results
         results.forEach(function(result) {
           var item = loaded_data[result.ref];
