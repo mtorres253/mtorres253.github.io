@@ -12,12 +12,13 @@ body {
 
 section {
   @include outer-container;
-  nav { @include span-columns(3); }
-  article { @include span-columns(7); margin: 20px 0px;}
+  nav { @include span-columns(3.5); }
+  article { @include span-columns(7.5); margin: 20px 0px;}
 }
 
 nav {
   $action-color: #477DCA !default;  
+  $navigation-color-hover: solid darken($action-color, 10);
   $base-border-radius: 3px !default;
   $base-line-height: 1.5em !default;
   $base-spacing: 1.2em !default;
@@ -31,17 +32,23 @@ nav {
 
   ul li {
     list-style-type: none;
-    margin-right: .5em;
+    margin-right: 1em;
     border-bottom: 1px solid $light-gray;
-    width: 85%;
     a {
       color: $action-color;
       font-family: $sans-serif;
       padding: $base-spacing 0px;
       text-decoration: none;
-      font-size: .8em;
+      font-size: .9em;
       display: block;
     }
+    &:focus,
+    &:hover {
+      color: $navigation-color-hover;
+    }
+  }
+  li.first {
+    border-top: 1px solid $light-gray;
   }
 }
 .container {
