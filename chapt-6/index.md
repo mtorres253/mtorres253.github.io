@@ -26,7 +26,7 @@ Below are some examples of common forms of distorted thinking:
 - Shoulds: Using “should”, “ought”, or “must” statements to set up unrealistic expectations of yourself and others. Operating by rigid rules and not allowing for flexibility.
 
 ## We can limit ourselves based on negative beliefs 
-Part of what makes it hard to break away from these thoughts is that we may have gotten messages through our childhood about reinforcing negative beliefs about ourselves and our abilities. This includes times we were told we couldn’t accomplish something, that we were going to fail or we weren’t good enough. 
+Part of what makes it hard to break away from these thoughts is that we may have gotten messages through our childhood reinforcing negative beliefs about ourselves and our abilities. This includes times we were told we couldn’t accomplish something, that we were going to fail or we weren’t good enough. 
 
 <div class="story">
 <p>There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.</p>
