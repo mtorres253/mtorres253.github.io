@@ -30,13 +30,16 @@ jQuery(function() {
 
   function display_search_results(results) {
     var $container = $("#container");
+    var $search_results = $("#search_results");
+
     // Wait for data to load
     window.data.then(function(loaded_data) {
       $container.empty();
       // Are there any results?
       if (results.length) {
         // Clear any old results
-        $container.append("<p>There are " + results.length + " results:</p>");
+        
+        $search_results.append("<p>There are " + results.length + " results:</p>");
         // Iterate over the results
         results.forEach(function(result) {
           var item = loaded_data[result.ref];
@@ -45,10 +48,10 @@ jQuery(function() {
           var appendString = '<p><a href="' + item.url + '">' + item.title + '</a></p>';
 
           // Add it to the results
-          $container.append(appendString);
+          $search_results.append(appendString);
         });
       } else {
-        $container.html('<p>No results found</p>');
+        $search_results.html("<div class='search_results'><p>No results found</p></div>");
       }
     });
   }

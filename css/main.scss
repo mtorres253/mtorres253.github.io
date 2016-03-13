@@ -49,6 +49,19 @@ nav {
   padding: 20px 0px 20px 0px;
 }
 
+.search_results {
+  p {
+    width: 40%;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 20px auto;
+    font-size: 1.2em;
+    a {
+      font-family: 'Noto Sans', sans-serif;
+      text-decoration: none;
+      color: #477DCA;
+    }
+  }
+}
 header.navigation {
   $base-border-color: gainsboro !default;
   $base-border-radius: 3px !default;
