@@ -13,8 +13,8 @@ body {
 section {
   @include outer-container;
   padding: 20px;
-  nav { @include span-columns(3.5); }
-  article { @include span-columns(7.5); }
+  nav { @include span-columns(3.5); padding: 10px 0px;}
+  article { @include span-columns(7.5); padding: 20px 10px;}
 }
 
 nav {
