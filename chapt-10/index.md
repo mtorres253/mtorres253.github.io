@@ -53,15 +53,21 @@ Think about your current support network. Who would you put in your inner circle
 
 | INNER CIRCLE 	| Emotional | Informational | Tangible 	|
 | | | |
+| | | |
+| | | |
 
 Who are the people in your friendship circle. The ones that might not be part of you inner circle but are still significant relationships
 
 | FRIENDS | Emotional | Informational | Tangible 	| 
 | | | |
+| | | |
+| | | |
 
 Who are you acquaintances? People you don’t know well enough to consider friends but are part of your community and helpful in some way, or that you would like to get to know better
 
 | ACQUAINTANCES	| Emotional | Informational | Tangible 	|
+| | | |
+| | | |
 | | | |
 
 Now go back and mark the types of support you receive from each person on the list.  Emotional, Informational, Tangible 

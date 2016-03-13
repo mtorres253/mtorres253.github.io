@@ -16,7 +16,7 @@ section {
 }
 
 .container {
-  padding: 20px;
+  padding: 20px 0px 20px 0px;
 }
 
 header.navigation {
@@ -496,6 +496,18 @@ article.type-system-traditional {
     font-style: italic;
   }
 
+  ul li {
+    line-height: 1.5em;
+    margin-bottom: 10px;
+  }
+
+  ol li {
+    line-height: 1.5em;
+  }
+
+  table {
+    margin-bottom: 20px;
+  }
   .quote {
     float: right;
     width: 250px;
