@@ -12,8 +12,9 @@ body {
 
 section {
   @include outer-container;
+  padding: 20px;
   nav { @include span-columns(3.5); }
-  article { @include span-columns(7.5); margin: 20px 0px;}
+  article { @include span-columns(7.5); }
 }
 
 nav {
@@ -34,25 +35,24 @@ nav {
     list-style-type: none;
     margin-right: 1em;
     border-bottom: 1px solid $light-gray;
-    a {
-      color: $action-color;
-      font-family: $sans-serif;
-      padding: $base-spacing 0px;
-      text-decoration: none;
-      font-size: .9em;
-      display: block;
+    &.first {
+      border-top: 1px solid $light-gray;
     }
+  }
+
+  a {
+    color: $action-color;
+    font-family: $sans-serif;
+    padding: $base-spacing 0px;
+    text-decoration: none;
+    font-size: .9em;
+    display: block;
     &:focus,
     &:hover {
       color: $navigation-color-hover;
     }
   }
-  li.first {
-    border-top: 1px solid $light-gray;
-  }
-}
-.container {
-  padding: 20px 0px 20px 0px;
+
 }
 
 .search_results {
