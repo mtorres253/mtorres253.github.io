@@ -59,7 +59,7 @@ Deepen this exercise by adding these questions after you are able to fully pull 
 What can I do to create more opportunities for moments like this?
 What do I have to let go of to make room for more opportunities like this? 
 
-
+<hr/>
 # Practice 
 
 Keep a record of the good

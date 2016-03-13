@@ -92,6 +92,7 @@ Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.hereto
 - Let go of or put limits on unhealthy ties : Walking away from any relationship is painful—even when the relationship is causing harm&mdash;but it may be necessary. For example, if you’re trying to quit drinking and your friends only ever want to spend time in bars and clubs, you may decide to let them go. Use your judgement, though. It may be possible to spend time elsewhere with them, without fully abandoning the friendship.
 - Make a plan/ Create new opportunities:  Figure out what support you need and figure out how you might find it. Think about stepping out of your usually activities.
 
+<hr/>
 # Practice
 
 Think about a stressful situation or challenge you are currently facing

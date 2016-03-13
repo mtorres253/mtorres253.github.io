@@ -19,6 +19,7 @@ Studies have even shown a link between gratitude and health (Hill, PL, Allemand 
 <p>I did soon get over it and now of course, this story makes me laugh as I see the absurdity of it all, but it still holds a valuable lesson that can apply to adults. Gratitude is taking stock of and appreciating what you do have and trying not to compare or define yourself from the outside.</p>
 </div>
 
+<hr/>
 # Practice
 
 Keep a grattitude journal.

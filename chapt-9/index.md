@@ -64,8 +64,9 @@ Putting it all together: Strengths, values, and attainable goals
 - Not too easy, but not too hard:  the goal should be challenging, but not impossible or too global
 - Have a definite end point: You should know when the goal has been successfully completed.
 
-Tip: it’s easy to get stalled on one goal and then start to feel defeated. When noticing that you are finding it hard to get started on one goal, look at your list and find the one that energizes you most when you think about it and move on to that one. Completing one goal often will give you enough of a boost to go back and start on the one you were putting off. 
+Tip: it’s easy to get stalled on one goal and then start to feel defeated. When noticing that you are finding it hard to get started on one goal, look at your list and find the one that energizes you most when you think about it and move on to that one. Completing one goal often will give you enough of a boost to go back and start on the one you were putting off.
 
+<hr/>
 # Practice
 
 - Track your accomplishments 

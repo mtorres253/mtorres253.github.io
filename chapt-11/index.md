@@ -93,6 +93,7 @@ Stay with all beings until you feel a personal sense of the interconnectedness 
 
 Take a moment to receive these wishes. Whenever you are ready, you may allow your eyes to open.
 
+<hr/>
 # Practice
 
 1. Small acts of kindness/altruistic behaviors 

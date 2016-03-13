@@ -114,6 +114,7 @@ Values List
 | TIME FREEDOM 		| WEALTH 			|
 | WISDOM 			| 					|
 
+<hr/>
 # Practice
 1) Take a few moments every identify one challenge you faced and what strengths you had to call upon to face that challenge.  
 

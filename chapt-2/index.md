@@ -90,6 +90,7 @@ However, just as having compassion towards others motivates you to help them and
  - Sitting with your own imperfection.
  - Understanding your mistakes in the larger context.
 
+<hr/>
 # Practice
 
 1. Pick one activity to do more mindfully over the next week

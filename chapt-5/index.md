@@ -39,6 +39,7 @@ Identify the potential strengths and limitations of each solution. Do you realis
 
 - Evaluate Progress : Did you get the result you were looking for? Are you coping with stress/anxiety appropriately? Are you in need of acting further or attempting another approach? It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
 
+<hr/>
 # Practice 
 1. Identify a current stressor or challenge and use the problem solving steps to generate a solution. 
 2. Put the plan into action

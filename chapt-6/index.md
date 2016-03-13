@@ -60,6 +60,7 @@ This is a more extensive mindfulness technique, which utilizes Noticing and Nami
 
 [See appendix for guided meditation](http://www.mindful.org/tara-brach-rain-mindfulness-practice/){:target="_blank"} 
 
+<hr/>
 # Practice
 
 <h4>Think about your distorted thinking</h4>
