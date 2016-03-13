@@ -12,8 +12,8 @@ body {
 
 section {
   @include outer-container;
-  nav { @include span-columns(3); }
-  article { @include span-columns(8); }
+  nav { @include span-columns(4); }
+  article { @include span-columns(7); margin: 20px 0px;}
 }
 
 nav {
@@ -29,11 +29,11 @@ nav {
   $sans-serif: 'Noto Sans', sans-serif;
   $serif: 'Radley', serif;
 
-
   ul li {
     list-style-type: none;
     margin-right: .5em;
     border-bottom: 1px solid $light-gray;
+    width: 90%;
     a {
       color: $action-color;
       font-family: $sans-serif;
@@ -54,7 +54,7 @@ nav {
     width: 40%;
     font-family: 'Noto Sans', sans-serif;
     margin: 20px auto;
-    font-size: 1.2em;
+    font-size: 1em;
     a {
       font-family: 'Noto Sans', sans-serif;
       text-decoration: none;
@@ -575,7 +575,7 @@ article.type-system-traditional {
   $centered-navigation-background: #88B054;
   $centered-navigation-color: transparentize($base-font-color, 0.3);
   $centered-navigation-color-hover: $base-font-color;
-  $centered-navigation-height: 60px;
+  $centered-navigation-height: 50px;
   $centered-navigation-item-padding: 1em;
   $centered-navigation-submenu-padding: 1em;
   $centered-navigation-submenu-width: 12em;
