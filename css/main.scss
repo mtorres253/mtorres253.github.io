@@ -12,7 +12,7 @@ body {
 
 section {
   @include outer-container;
-  nav { @include span-columns(4); }
+  nav { @include span-columns(3); }
   article { @include span-columns(7); margin: 20px 0px;}
 }
 
@@ -33,7 +33,7 @@ nav {
     list-style-type: none;
     margin-right: .5em;
     border-bottom: 1px solid $light-gray;
-    width: 90%;
+    width: 85%;
     a {
       color: $action-color;
       font-family: $sans-serif;
