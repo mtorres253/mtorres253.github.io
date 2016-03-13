@@ -2,7 +2,9 @@
 layout: default
 title: Maximizing Support 
 ---
-# Chapter 10: Maximizing Support 
+<p class="type">Chapter 10</p>
+
+# Maximizing Support 
 There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
 
 A social support network can be beneficial in several ways: 
@@ -51,15 +53,21 @@ Think about your current support network. Who would you put in your inner circle
 
 | INNER CIRCLE 	| Emotional | Informational | Tangible 	|
 | | | |
+| | | |
+| | | |
 
 Who are the people in your friendship circle. The ones that might not be part of you inner circle but are still significant relationships
 
 | FRIENDS | Emotional | Informational | Tangible 	| 
 | | | |
+| | | |
+| | | |
 
 Who are you acquaintances? People you don’t know well enough to consider friends but are part of your community and helpful in some way, or that you would like to get to know better
 
 | ACQUAINTANCES	| Emotional | Informational | Tangible 	|
+| | | |
+| | | |
 | | | |
 
 Now go back and mark the types of support you receive from each person on the list.  Emotional, Informational, Tangible 
@@ -84,6 +92,7 @@ Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.hereto
 - Let go of or put limits on unhealthy ties : Walking away from any relationship is painful—even when the relationship is causing harm&mdash;but it may be necessary. For example, if you’re trying to quit drinking and your friends only ever want to spend time in bars and clubs, you may decide to let them go. Use your judgement, though. It may be possible to spend time elsewhere with them, without fully abandoning the friendship.
 - Make a plan/ Create new opportunities:  Figure out what support you need and figure out how you might find it. Think about stepping out of your usually activities.
 
+<hr/>
 # Practice
 
 Think about a stressful situation or challenge you are currently facing

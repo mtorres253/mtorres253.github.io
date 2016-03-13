@@ -2,7 +2,9 @@
 layout: default
 title: Taking in the Positive
 ---
-# Chapter 1: Taking in the Positive 
+<p class="type">Chapter 1</p>
+
+# Taking in the Positive 
 Retraining our brain to capture and retain the positive 
 
 One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
@@ -57,7 +59,7 @@ Deepen this exercise by adding these questions after you are able to fully pull 
 What can I do to create more opportunities for moments like this?
 What do I have to let go of to make room for more opportunities like this? 
 
-
+<hr/>
 # Practice 
 
 Keep a record of the good

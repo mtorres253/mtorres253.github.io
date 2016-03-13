@@ -2,7 +2,9 @@
 layout: default
 title: Mindful Problem Solving
 ---
-# Chapter 5: Mindful Problem Solving 
+<p class="type">Chapter 5</p>
+
+# Mindful Problem Solving 
 Making clear and well thought out decisions can be a struggle. Life these days seems to move at an increasingly hectic pace. Demands on our time are being made, and from multiple sources, texts, emails, instant messages, at all times of day and night We are bombarded with having to make decisions and often do not have the luxury to fully consider the impact of the choices we make.
 
 Whether we are considering a life changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress. This is why it can really help to have a structured framework for making decisions.
@@ -37,6 +39,7 @@ Identify the potential strengths and limitations of each solution. Do you realis
 
 - Evaluate Progress : Did you get the result you were looking for? Are you coping with stress/anxiety appropriately? Are you in need of acting further or attempting another approach? It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
 
+<hr/>
 # Practice 
 1. Identify a current stressor or challenge and use the problem solving steps to generate a solution. 
 2. Put the plan into action

@@ -3,9 +3,8 @@ jQuery(function() {
   // a boost of 10 to indicate matches on this field are more important.
   window.idx = lunr(function () {
     this.field('id');
-    this.field('title', { boost: 10 });
-    this.field('description');
-    this.field('content');
+    this.field('title');
+    this.field('content', { boost: 10 });
     this.field('url');
   });
 
@@ -30,17 +29,14 @@ jQuery(function() {
   });
 
   function display_search_results(results) {
-    // var $search_results = $("#search_results");
-    var $search_results = $("#search_results");
     var $container = $("#container");
-
     // Wait for data to load
     window.data.then(function(loaded_data) {
       $container.empty();
       // Are there any results?
       if (results.length) {
-        $search_results.empty(); // Clear any old results
-        $search_results.append("<p>There are " + results.length + " results:</p>");
+        // Clear any old results
+        $container.append("<p>There are " + results.length + " results:</p>");
         // Iterate over the results
         results.forEach(function(result) {
           var item = loaded_data[result.ref];
@@ -49,10 +45,10 @@ jQuery(function() {
           var appendString = '<p><a href="' + item.url + '">' + item.title + '</a></p>';
 
           // Add it to the results
-          $search_results.append(appendString);
+          $container.append(appendString);
         });
       } else {
-        $search_results.html('<p>No results found</p>');
+        $container.html('<p>No results found</p>');
       }
     });
   }
