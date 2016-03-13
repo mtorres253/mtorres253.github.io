@@ -16,7 +16,7 @@ Or perhaps you made a presentation for work and you feel like some pieces didn�
 - They limit our ability to see options.
 - We read into things that may not be there
 
-## Recognize them!
+## Recognize the thoughts!
 Below are some examples of common forms of distorted thinking:
 
 - Filtering: Taking the negative details and magnify them while filtering out all positive aspects of a situation. 
@@ -38,13 +38,13 @@ Part of what makes it hard to break away from these thoughts is that we may have
 There are a variety of techniques that have been discovered to help disrupt these negative thought processes. Some work better in certain situations and for certain personality types. I suggest giving them all a try and seeing which is the best fit. 
 
 ### Noticing and Naming: 
-Through increased mindfulness, we are able to better recognize when we are getting stuck in these anxious thought loops and often just by naming, saying things like “this is my anxiety talking” or “yep, I’m an anxious person” can decrease their intensity and give us enough distance from the thoughts that we no longer feel as overwhelmed. The “leaves on a stream” technique from chapter  2 can be helpful as well. It some instances, it might even help the actually visualize placing the anxious thoughts on individual leaves and, in your mind, watch them float off. 
+Through increased mindfulness, we are able to better recognize when we are getting stuck in these anxious thought loops and often just by naming, saying things like “this is my anxiety talking” or “yep, I’m an anxious person” can decrease their intensity and give us enough distance from the thoughts that we no longer feel as overwhelmed. The “leaves on a stream” technique from chapter 2 can be helpful as well. It some instances, it might even help the actually visualize placing the anxious thoughts on individual leaves and, in your mind, watch them float off. 
 
 ### Shutting it Down: 
 “Thought Stopping” is another technique which has been found to be helpful. This involves halting the thought loop, by simply telling yourself to “stop”. Some have even suggested using a rubber band around your wrist as a thought stopping trigger. Whenever you find yourself having these anxious thoughts, you gently snap the elastic. 
 
 ### Putting it away: 
-It can help to mentally put the worrying thoughts away, by telling yourself something to the effect of, “I can worry about this later.” Sometimes it can be hard to do this because we are afraid that if we stop thinking about the stressor or worry, we will forget to do something about it, or get caught unprepared when the concern comes up again. We believe that keeping the anxious thought in the front of our mind is the only way to make sure it gets resolved. This is where developing a way to but the worry away, which includes a reminder to come back to it, can be important.
+It can help to mentally put the worrying thoughts away, by telling yourself something to the effect of, “I can worry about this later.” Sometimes it can be hard to do this because we are afraid that if we stop thinking about the stressor or worry, we will forget to do something about it, or get caught unprepared when the concern comes up again. We believe that keeping the anxious thought in the front of our mind is the only way to make sure it gets resolved. This is where developing a way to put the worry away, which includes a reminder to come back to it, can be important.
 
 One technique that may sound a little silly, but really works for a lot of people (especially when anxiety thought loops are impacting sleep) is to write down the things you are worried about, place that list in your shoe and say “I’ll deal with you again tomorrow”. You may find you sleep a little easier knowing that your worries won’t be lost. and, often, looking at the list again in the morning with a fresh set of eyes makes it seem a little less overwhelming.
 
