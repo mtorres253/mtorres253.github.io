@@ -30,7 +30,7 @@ Part of what makes it hard to break away from these thoughts is that we may have
 
 <div class="story">
 <p>There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.</p>
-<p>He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. “Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it’s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free.</p>
+<p>He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. “Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it’s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free".</p>
 <p>The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large. These messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place.</p>
 </div> 
 
