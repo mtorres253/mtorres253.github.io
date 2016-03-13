@@ -69,7 +69,7 @@ nav {
   $serif: 'Radley', serif;
 
   width: 40%;
-  margin: 0px auto 70px auto;
+  margin: 10px auto 40px auto;
 
   p {
     color: $base-font-color;
@@ -92,6 +92,9 @@ nav {
     font-family: $serif;
     line-height: $base-line-height;
     margin-bottom: .8em;
+    &.center {
+      text-align: center;
+    }
   }
 
   .content {

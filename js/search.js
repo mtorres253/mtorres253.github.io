@@ -53,7 +53,7 @@ jQuery(function() {
           $container.append(appendString);
         });
       } else {
-        $container.html("<div class='search_results'><p>No results found</p></div>");
+        $container.html("<h2>No results found for '" + query + "'.</h2>");
       }
     });
   }
