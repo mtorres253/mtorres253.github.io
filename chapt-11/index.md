@@ -39,7 +39,8 @@ Not only can small acts of kindness create positive emotions, they can also chan
 
 ## Formal Altruism 
 
-### Volunteering or making a commitment to help someone out  
+ Volunteering or making a commitment to help someone out  
+ 
 Volunteering is a great way to make altruism a regular practice. There are many opportunities to get involved. It can be a one-time commitment, such as spending a day cleaning up a local park, or an ongoing one.  It can be a chance to learn new skills and gain experience or a way to use a skill we already have for a greater purpose. It’s an opportunity to feel more connected to the world around us and possibly meet new friends in the process. 
 
 ### Volunteers consistently express a sense of achievement and motivation
