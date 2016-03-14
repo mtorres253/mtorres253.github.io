@@ -82,10 +82,11 @@ Instead, we can practice just simply noticing that they are there--without feeli
 # Self-compassion
 Being a supportive and caring friend to yourself
 
-We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves. 
+We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves.
+
 However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
- Self compassion is: 
+ Self compassion is:
  - Having empathy for yourself and understanding of your own suffering. 
  - Sitting with your own imperfection.
  - Understanding your mistakes in the larger context.
