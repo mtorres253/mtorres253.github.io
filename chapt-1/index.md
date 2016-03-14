@@ -56,8 +56,8 @@ It can be helpful to think of a relaxing word such as “calm” or “relax” 
 ### Increase opportunities for future positive experiences 
 Deepen this exercise by adding these questions after you are able to fully pull up the positive experience, and let whatever answers come to you, be what they are.
 
-What can I do to create more opportunities for moments like this?
-What do I have to let go of to make room for more opportunities like this? 
+- What can I do to create more opportunities for moments like this?
+- What do I have to let go of to make room for more opportunities like this? 
 
 <hr/>
 # Practice 
