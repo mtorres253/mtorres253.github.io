@@ -36,10 +36,11 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 - Do you realistically think it will solve the problem?
 - How will using this solution make you feel in the end?
 
-### Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10) 
-### Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
+### Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10) ### Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
+
 ### Choose the best or most appropriate solution to prioritize solutions.
-- Identify stress management techniques and tools to mitigate stress/anxiety of the chosen  solution
+- Identify stress management techniques and tools to mitigate stress/anxiety of the chosen solution
+
 ### Develop an action plan. 
 - Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
 
