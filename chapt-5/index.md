@@ -31,29 +31,25 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 - Even one’s you re likely to rule out later. 
 - Border on the ridiculous. It can help with finding creative solutions you might not otherwise consider.
 - Recall past problems that you were able to solve. Could a similar solution work for this problem, too?
+- Get input from trusted resources: Though be mindful of how thier biasis and fears may influence their suggestions 
 
-4. #### Get input from trusted resources. 
-
-5. #### Evaluate the solutions: 
+4. #### Evaluate the solutions: 
 - Identify the potential strengths and limitations of each solution. 
 - Do you realistically think it will solve the problem?
 - How will using this solution make you feel in the end?
+- Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10)
+- Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
 
-6. #### Assess anxiety or stress created by each of the solutions 
-- (Rate on scale from 1-10)
-
-7. #### Assess ability to tolerate anxiety or stress brought on by acting on each solution 
-- (Rate coping confidence on scale from 1-10) 
-
-8. #### Choose the best or most appropriate solution to prioritize solutions.
+5. #### Choose the best or most appropriate solution to prioritize solutions.
 - Identify stress management techniques and tools to mitigate stress/anxiety of the chosen solution
 
-9. #### Develop an action plan. 
+6. #### Develop an action plan. 
 - Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
 
-10. #### Put the plan into action
+7. #### Put the plan into action.
+-Give it a try 
 
-11. #### Evaluate Progress:
+8. #### Evaluate Progress:
 - Did you get the result you were looking for? Are you coping with stress/anxiety appropriately?
 - Are you in need of acting further or attempting another approach?
 
