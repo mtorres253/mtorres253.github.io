@@ -41,6 +41,7 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 
 ### Assess anxiety or stress created by each of the solutions 
 - (Rate on scale from 1-10)
+
 ### Assess ability to tolerate anxiety or stress brought on by acting on each solution 
 - (Rate coping confidence on scale from 1-10) 
 
@@ -50,9 +51,13 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 ### Develop an action plan. 
 - Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
 
-## Put the plan into action
+### Put the plan into action
 
-- Evaluate Progress : Did you get the result you were looking for? Are you coping with stress/anxiety appropriately? Are you in need of acting further or attempting another approach? It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
+### Evaluate Progress:
+- Did you get the result you were looking for? Are you coping with stress/anxiety appropriately?
+- Are you in need of acting further or attempting another approach?
+
+It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
 
 <hr/>
 # Practice 
