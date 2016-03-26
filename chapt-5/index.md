@@ -47,7 +47,7 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 - Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
 
 7. #### Put the plan into action.
--Give it a try 
+- Give it a try 
 
 8. #### Evaluate Progress:
 - Did you get the result you were looking for? Are you coping with stress/anxiety appropriately?
