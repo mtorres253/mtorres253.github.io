@@ -20,20 +20,28 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 
 ## Problem solving steps
 
-- Identify the stressor or problem: Before you can attack a problem successfully, you have to understand it.
-- Determine the goal or desired outcome: It always helps to have a clear sense of what you are working towards. 
-- Brainstorm potential solutions: Identify all options.  Even one’s you re likely to rule out later. Border on the ridiculous. It can help with finding creative solutions you might not otherwise consider.
+### Identify the stressor or problem: 
+- Before you can attack a problem successfully, you have to understand it.
+### Determine the goal or desired outcome: 
+- It always helps to have a clear sense of what you are working towards. 
+### Brainstorm potential solutions: 
+- Identify all options.
+- Even one’s you re likely to rule out later. 
+- Border on the ridiculous. It can help with finding creative solutions you might not otherwise consider.
 - Recall past problems that you were able to solve. Could a similar solution work for this problem, too?
-- Get input from trusted resources. 
+### Get input from trusted resources. 
 
-## Evaluate the solutions
-Identify the potential strengths and limitations of each solution. Do you realistically think it will solve the problem? How will using this solution make you feel in the end?
+### Evaluate the solutions: 
+- Identify the potential strengths and limitations of each solution. 
+- Do you realistically think it will solve the problem?
+- How will using this solution make you feel in the end?
 
-- Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10) 
-- Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
-- Choose the best or most appropriate solution to prioritize solutions.
+### Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10) 
+### Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
+### Choose the best or most appropriate solution to prioritize solutions.
 - Identify stress management techniques and tools to mitigate stress/anxiety of the chosen  solution
-- Develop an action plan  Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
+### Develop an action plan. 
+- Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
 
 ## Put the plan into action
 
