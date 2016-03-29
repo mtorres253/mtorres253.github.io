@@ -76,7 +76,7 @@ These days there are lots of tools available for mindfulness meditations. There 
 
 
 # Acceptance 
-Allowing for thoughts and feelings without judgment 
+Allowing for thoughts and feelings without judgment.
 
 One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
 - At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
