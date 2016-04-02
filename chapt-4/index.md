@@ -65,10 +65,10 @@ Things we do (thoughts or actions) to remove or reduce the intensity of the stre
 These include:
 
 - Problem solving:
- - A systematic approach to defining a problem
- - Clarifying a desired outcome
- - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
- - Identification and implementation of a solution.
+  - A systematic approach to defining a problem
+  - Clarifying a desired outcome
+  - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
+  - Identification and implementation of a solution.
 - Information seeking 
  - Asking around
  - Researching online
