@@ -70,12 +70,12 @@ These include:
   - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
   - Identification and implementation of a solution.
 - Information seeking 
- - Asking around
- - Researching online
+  - Asking around
+  - Researching online
 - Utilization of social support 
- - Getting help with finding solutions and implementing them 
+  - Getting help with finding solutions and implementing them 
 - Communication
- - Asking for what you need 
+  - Asking for what you need 
 
 I will get into more details about Problem-solving in the next chapter.
 
