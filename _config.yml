@@ -4,3 +4,23 @@ github:
   organization: mtorres253
   repository: mtorres253.github.io
   default_branch: master
+
+# Authentication stuff
+auth_local_user_file: /tmp/jekyll/.htusers
+auth_local_group_file: /tmp/jekyll/.htgroups
+auth_remote_user_file: /var/www/virtual/username/.htusers
+auth_remote_group_file: /var/www/virtual/username/.htgroups
+auth_dirs:
+    '/': 
+        auth_groups: admin
+    '/assets': 
+        auth_valid_user: true
+    '/css':
+        auth_valid_user: true
+    '/js':
+        auth_valid_user: true
+auth_groups:
+    admin: michael torres
+auth_users:
+    hans: meier
+    buenaventura: durruti

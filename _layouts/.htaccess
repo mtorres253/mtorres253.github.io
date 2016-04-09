@@ -1,0 +1,23 @@
+# Apache Configuration File
+
+{% if ((page.auth_dir.users != empty) or (page.auth_dir.groups != empty)) %}
+AuthName "Privater Bereich"
+AuthType Basic
+# => mehrere Require Blocks werden geodert: http://d43.me/blog/1157
+AuthzUserAuthoritative Off
+AuthUserFile {{ page.auth_remote_user_file }}
+AuthGroupFile {{ page.auth_remote_group_file }}
+{% if page.auth_dir.valid_user %}Require valid-user{% endif %}
+{% if page.auth_dir.users != empty %}Require user {{ page.auth_dir.users | join:' ' }}{% endif %}
+{% if page.auth_dir.groups != empty %}Require group {{ page.auth_dir.groups | join:' ' }}{% endif %}
+<Files "favicon.ico">
+  Satisfy Any
+  Allow from all
+</Files>
+<Files "404.html">
+  Satisfy Any
+  Allow from all
+</Files>
+{% endif %}
+
+{% if page.auth_dir.dir == '/' %}{% include auth/root_htaccess %}{% endif %}
