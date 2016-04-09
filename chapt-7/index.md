@@ -32,31 +32,27 @@ Here are some examples of how to do it: 
 ## Now try it:
 Reframing is a skill that can feel strange or awkward when you first try it, but like all of the skills we are learning, it becomes easier with time and practice.  
 
-Start small and practice positive reappraisal of some relatively minor stressful events.
-
-#### Recall the event:
+#### Recall a stressful event:
 - Think back over the week and describe a time when you felt stressed. 
 What happened? (Remember to keep it small!)
 - How did you feel when it happened?
 - What did you do in response?  
 
-#### Brainstorm about ways a reframe could be used in response to the event.
+#### Think about how a reframe could be used in response to the event.
 - Now, try to reframe this event in a positive or neutral way.
 - List some ways that maybe it wasn’t as bad as it could have been,
 - How it maybe wasn’t as bad as you first thought it was, 
 - Good things that could come out of the event (You’ve learned something, you became a stronger person, you grew closer to someone in your life &hellip;)
 - “This is actually a good thing because…”
 
-#### If this feels too challenging, it may be helpful to start with this exercise:
 
-- Think a stressful event where you felt successful about the way you dealt with it.
-- Go through the appraisal process and think about how you dealt at each step. 
-- Now think about a stressful event that you didn’t feel you dealt with in this way and what happened. 
 
 Sometimes it is really hard to reframe a serious stressful event and such reframes may take some time. In the meantime realizing that sometimes things just suck may be helpful.  While at these times, we know that we cannot actually change certain things, part of what this practice may help you do is become better at dealing with them, feeling better, and perhaps, having the capacity to better cope with stress.
 
 <hr/>
 # Practice
+ **Try some reframes this week**
+ 
 Each day think of one negative or stressful thing that happened then practice positive or neutral reframe regarding that event:
 
 - Why it may not be as bad as initially thought? 

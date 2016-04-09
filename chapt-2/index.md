@@ -55,25 +55,34 @@ When we are upset or stressed out, spending a few moments with the breath can ha
 These days there are lots of tools available for mindfulness meditations. There are recordings  you can download or purchase and even several apps dedicated to building a daily mindfulness practice. There are many variations of breath awareness exercises. Some are very brief and others more elaborate. You may want to try out a few and see which is the right fit for you. Below are the steps included in most meditations. 
 
 #### Find a quiet place and settle into a comfortable posture
-Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.). You may sit in traditional cross-legged posture or in any other position that is comfortable. If you prefer, you can sit on a chair. The most important thing is to keep your back straight, helping create and alert posture.
+- Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.).
+- Sit in the floor or in a chair, whichever is more comfortable for you. You can be in tradi-tional cross-legged posture or in any other position that is comfortable. The most im-portant thing is to keep your back straight, helping create and alert posture.
+
 
 #### Turn attention to the breath
-You can sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing, and try to become aware of the sensation of the breath as it enters and leaves your nostrils. This sensation is is the focus of the meditation. Try to concentrate on it to the exclusion of everything else. You are not trying to breathe deeply or change the breathing in any way-simply let your body breathe the way it naturally does. There is no particular way your body is supposed to feel. You are simply observing your body as it breathes, allowing your experience to be just as it is, without judging or needing to change it.
+- Sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing.
+- Focus on the sensation of the breath as it enters and leaves your nostrils. This sensation is the primary focus of the meditation. Try focus on it fully
+- It is not about trying to breathe deeply or changing your breathing in any way-simply. You just let your body breathe the way it naturally does.
+- There is no particular way your body is supposed to feel. Observe your body as it breathes, allow your experience to be just as it is, without judging or needing to change 
+
 
 #### Your mind may seem busier
-At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is. There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath.
+- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
+- There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
 
 #### Gently keep your focus on Breath 
-As you sit here focusing on the breath, your mind will inevitably wander off. This is natural; it is simply what our minds are in the habit of doing. When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. There is no need to judge yourself when the mind wanders. Simply notice, let go, and begin again with the next breath. This noticing and beginning again is part of the practice.
+- As you sit focusing on the breath, inevitably your mind will wander off. This is natural; it is simply what our minds are in the habit of doing.
+- When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. 
 
-In these last few moments, renewing your intention to stay present, as best you can, beginning again and again, as many times as you need to. Letting go of the thoughts and arriving again right here, with attention on the sensations of breathing.
 
-Now gently expanding your focus to include the room around you and the people here. When you are ready, very slowly and gently allow your eyes to open, staying with this sense of awareness.
-
-# Acceptance 
-Allowing for thoughts and feelings without judgment 
+# Acceptance
+Allowing for thoughts and feelings without judgment.
 
 One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
+- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
+- There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
+ 
+Gently keep your focus on Breath 
 
 If we try to forcefully push our thoughts and feelings away/out of our minds, they tend to become stronger and can take up even more of our attention. 
 

@@ -64,18 +64,18 @@ Things we do (thoughts or actions) to remove or reduce the intensity of the stre
 
 These include:
 
-- Problem solving 
-- A systematic approach to defining a problem 
-- Clarifying a desired outcome 
-- A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
-- Identification and implementation of a solution.  
+- Problem solving:
+  - A systematic approach to defining a problem
+  - Clarifying a desired outcome
+  - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
+  - Identification and implementation of a solution.
 - Information seeking 
-- Asking around
-- Researching online  
+  - Asking around
+  - Researching online
 - Utilization of social support 
-- Getting help with finding solutions and implementing them 
-- Communication  
-- Asking for what you need 
+  - Getting help with finding solutions and implementing them 
+- Communication
+  - Asking for what you need 
 
 I will get into more details about Problem-solving in the next chapter.
 
@@ -110,9 +110,9 @@ Sometimes, if the stressor feels too overwhelming, you may feel like you need to
   
 For example, after initially being diagnosed with a serious illness, one may find that a few glasses of wine every night helps them manage the enormous sense of feeling overwhelmed and provide some relief from sitting with so much uncertainty, but over time, if that person turns to the same strategy night after night, not only is the stressor not being addressed but the coping strategy may bring its own set of problems and stressors. Escape strategies can be useful if utilized carefully and with the goal of eventually learning to face the distressing thought, event or feeling. 
 
-Shifting away from a distraction coping strategies we have learned to rely on, can be particularly challenging at first. Initially, the stress will go up and the present focused strategies bill provide limited comfort, but over time that will start to shift.
+Shifting away from a distraction coping strategies we have learned to rely on, can be particularly challenging at first. Initially, the stress will go up and the present focused strategies will provide limited comfort, but over time that will start to shift.
 
-There will always be stressors, but they way you deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
+There will always be stressors, but they way we deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
 
 <hr/>
 # Practice 
