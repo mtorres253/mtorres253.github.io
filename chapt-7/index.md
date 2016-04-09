@@ -51,6 +51,8 @@ Sometimes it is really hard to reframe a serious stressful event and such refram
 
 <hr/>
 # Practice
+ **Try some reframes this week**
+ 
 Each day think of one negative or stressful thing that happened then practice positive or neutral reframe regarding that event:
 
 - Why it may not be as bad as initially thought? 
