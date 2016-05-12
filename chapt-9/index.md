@@ -19,6 +19,23 @@ We talk a lot about goals, but most people think of them only in a practical sen
 - As you make progress, reassess from time to time, to see if that vision has changed.
 When you feel it’s far away, you can use that visualization to give you strength 
 
+
+
+Creating the vision:
+
+Find a quiet place where you won't be disturbed. Close your eyes and take a few deep breaths now think of what you would like your life to look like at a given point in the future. 6 months, one year, 5 years. 
+Visualize the situation you desire in your mind as clearly and with as much detail as you can.
+Notice the emotions, feelings as you hold that vision.
+
+Setting intention:
+
+Sometimes when you don’t have a specific future goal, I find it can be helpful to set an intention to help you be more mindful of what you are working towards.  A good way to this is to think of your life as book and start by thinking about the most recent period of your life and asking yourself, “what would I name that chapter?” 
+After you have come up with one, think about what you would like to call the next chapter of your life. Just close your eyes and see what comes to mind. 
+
+Someone who had be through a difficult break up and job loss, named the period he had just been through, “ One step forward and two steps back” and decided he would like the next chapter to be titled “a gentler life”
+
+This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past. 
+
 The challenge with long term goals is that they can feel overwhelming and keep us focused on the future rather than present Also, If we become too attached we may not adapt to changing circumstances. That is where attainable goals come in 
 
 ## Attainable Goals
