@@ -55,7 +55,7 @@ Take a moment and think about what strengths, skills, talents and internal or ex
 | Businesslike | Active | Unexcitable | Easygoing |
 | Affectionate | Firm | Charming | Resourceful |
 | Mild | Careful | Tough | Cautious |
-| Conscientious | Rational | Attractive | |
+| Conscientious | Rational | Attractive | 
 
 Now for looking at your list think of an example of when you utilized one of those strengths
 
