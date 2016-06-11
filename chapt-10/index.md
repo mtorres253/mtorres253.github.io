@@ -1,100 +1,62 @@
 ---
 layout: default
-title: Maximizing Support 
+title: Reframing
 ---
-<p class="type">Chapter 10</p>
+<p class="type">Chapter 7</p>
 
-# Maximizing Support 
-There are many benefits to having a network of people in your life who provide support and feeling connected to a community of people who love and care for you, value you and think well of you. Research shows that social support provides important benefits to both physical and emotional health. People are less likely to report stress-related health problems when they feel like they have support from others. 
+# Reframing 
+The Meaning We Assign Things
 
-A social support network can be beneficial in several ways: 
+Part of the appraisal process we discussed in [Chapter 6](/chapt-6/) refers our interpretation, or judgment about the personal significance of the event. The meaning we assign to the event, as well as how we see it fitting into the larger context of our life, impacts the extent to which event is experienced as stressful. 
 
-- Feeling of security. It's comforting to know that you have people you can turn to in a time of need-you don’t have to do it all on your own.
-- Sense of belonging.  Feeling connected with others helps ward off loneliness. Just knowing you're not alone can go a long way toward coping with stress. 
-- Increased sense of self-worth. Knowing that you are an important part of other people’s lives helps you feel better about your self and through connecting with others you have opportunities to see your strengths reflected back to you. 
+Research has shown that that when we reframe a situation focusing on the positive or more neutral aspects (also known as positive reappraisals), we tend to feel better about the situation and experience less anxiety and stress. I find that this is particularly helpful for the ones that are out of our control.
 
-A strong support network is made up of a variety of types of relationships. This can include intimate partners, close friends, family, co-workers, helping professionals.  Even more casual acquaintances, such as the person you chat with at the gym or working behind the counter at your local coffee shop, can be a source of support and help by creating a sense of connection.
+Take for example two people waiting for a bus or train that isn’t on schedule, One, keeps replaying negative thoughts, “now I am going to be late” “ this seat is uncomfortable” “this is wasting valuable time” “ I rushed out of me house for no reason”, “The person next to me is talking loudly on his phone. That is so rude“ The more they focus on these negative thoughts the more distressing and frustrating the situation becomes. In contrast the 2nd person, while acknowledging that it is a frustrating situation, also thinks about, having a rare chance to be outside on a somewhat warm day, that even though she is going to be late, she is going to still get to spend time with a good friend, that even though this loud talker is annoying, there was a time before cellphones when it was much harder to reach people when you were running late. This person, is mostly likely to not only have a better experience of the wait, but is likely to be less stressed and anxious when she arrives and will be more present in that experience. 
 
-<div class="quote">“Some help is the kind of help we all can do without” &mdash; Free to be you and me</div>
+Reframing can be an important part of the coping process and a very effective way to stop or shift a negative thought loop. It can make us feel less distressed about a stressful situation and at times can change how we approach a challenge. 
 
-## Recognizing Negative Support 
-Just as these relationships are an essential part of our support, it is important to recognize that they can also be the source of much of our stress and sometimes the process of strengthening our support network involves decreasing energy and time going towards the stressful relationships in our lives. At times, it may even involve letting go of some people. 
+## Mindfulness and Reframing 
+Mindfulness (paying attention, in a particular way, on purpose, in the present moment with a non-judgmental and accepting attitude) can help us recognize when we getting caught up in negative appraisals and sometimes simply grounding oneself in the present can allow for a reframing to emerge. 
 
-Relationships take away from our support when they 
+<div class="story">
+<p>I remember once on a particularly windy San Francisco bike commute, I arrived at the windiest block of the ride and it was so strong that I was literally having to struggle to not get pushed backwards. All these negative frustrated thoughts started going through my head. “why do I have to live in such a windy place” I am going to be late and too tired to enjoy myself by the time I get to where I am meeting friends” “Am I the only one struggling so much? Maybe I’m in worse shape than I think” As I got consumed by these thoughts, I was becoming more frustrated, exhausted and started to feel an overall sense of defeat and dread. I caught myself, and took a moment to just notice (without judgment) the wind. I felt it’s power and remembered the sensation of pushing up against the wind as a little kid and the exhilaration of this force that was so much stronger than me. I wondered if I could recapture that feeling somehow and tried unzipping my jacket. The wind immediately pushed it up behind me like a cape and I imagined myself flying and instead of fighting, and instead of trying to distract myself from the force of the wind, I let myself be fully connected with it. I observed that if I started to zig zag slightly, riding became a little easier. Within a few moments, I realized I was no longer having a negative experience, but was actually enjoying myself and that my clenched jaw had softened to a smile.</p>
+</div>
 
-- Take considerably more than they give (emotionally or physically)
-- Encourage or support unhealthy behaviors 
-- There isn’t room for your successes and attempts at personal growth. This often shows up in the form of criticizing and discouraging comments.
+Here are some examples of how to do it: 
+- "It’s not as bad as it could be”
+- “This could lead to something positive”
+- “There are other good things going on in my life”
+- “Maybe this isn’t as important as I was making it out to be”
+- “I’ve been through this before and it turned out ok"
 
-People are complicated and no relationship is perfect. The question I always like to ask myself is, on the whole is this relationship adding more to my life than it takes away?
+## Now try it:
+Reframing is a skill that can feel strange or awkward when you first try it, but like all of the skills we are learning, it becomes easier with time and practice.  
 
-## Types of support
-Social support can be broken down into three groups
+#### Recall a stressful event:
+- Think back over the week and describe a time when you felt stressed. 
+What happened? (Remember to keep it small!)
+- How did you feel when it happened?
+- What did you do in response?  
 
-### Emotional Support/Companionship
-- People you can talk to about your feelings
-- People you can vent your feelings to and are receptive listeners
-- People who cheer you up, make you laugh, make you forget your problems
-- People who help you stay motivated
-- People and groups who give you a sense of connection and belonging 
+#### Think about how a reframe could be used in response to the event.
+- Now, try to reframe this event in a positive or neutral way.
+- List some ways that maybe it wasn’t as bad as it could have been,
+- How it maybe wasn’t as bad as you first thought it was, 
+- Good things that could come out of the event (You’ve learned something, you became a stronger person, you grew closer to someone in your life &hellip;)
+- “This is actually a good thing because…”
 
-### Informational support
-People, organizations, resources with relevant information
 
-### Tangible support
-Actual things, a ride to the airport, borrowing money, a place to stay
 
-Effective support social support depends on the fit between your need and the strengths of the support provider you seek out. A mismatch can even make a stressful situation worse.
-
-For example, I have a friend who isn’t into deep emotional conversations, nor the most reliable person, but within a few minutes of talking on the phone, he has me laughing so hard that whatever was stressing me out suddenly seems less important. If asked him for a ride to the airport, I’d probably miss my flight, but when I am in need of some perspective and feeling a little lighter about life, he is a perfect match. 
-
-## Mapping it out!
-Think about your current support network. Who would you put in your inner circle? The people closest to you. The ones you might even consider to be family. 
-
-| INNER CIRCLE 	| Emotional | Informational | Tangible 	|
-| | | |
-| | | |
-| | | |
-
-Who are the people in your friendship circle. The ones that might not be part of you inner circle but are still significant relationships
-
-| FRIENDS | Emotional | Informational | Tangible 	| 
-| | | |
-| | | |
-| | | |
-
-Who are you acquaintances? People you don’t know well enough to consider friends but are part of your community and helpful in some way, or that you would like to get to know better
-
-| ACQUAINTANCES	| Emotional | Informational | Tangible 	|
-| | | |
-| | | |
-| | | |
-
-Now go back and mark the types of support you receive from each person on the list.  Emotional, Informational, Tangible 
-
-Take a look at the list and ask yourself the following questions 
-
-- What types of support are lacking? What would you like more of?
-- Are there people who you have lost touch with?
-- How balanced is your support network?
-- Are there ways to add to your support system?
-- What makes it difficult to do so?
-- Which types of support are easier/harder to ask for? 
-
-Improving your social support network
-Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.heretohelp.bc.ca/wellness-module/wellness-module-3-social-support){:target="_blank"}
-
-- Challenge yourself to take social risks : Look for opportunities to talk to new people. Make an effort to introduce yourself. Most people will welcome the interaction.  
-- Get more from the support you have: It’s easy to assume that other people know what you need, but this usually isn’t true. You may need to tell others what you need. Be as specific as possible in your requests. However, be careful not to overwhelm your support providers. 
-- Take care of your relationships : Strong friendships need nurturing and it’s easy to get caught up in the day to day of our own lives. Keep in touch with your support network, offer support to others when they need it and let them know that you appreciate them. 
-- Reach out : Ask the people you know to help you broaden your networks.
-- Be patient : Making new connections can take time. You may need to meet many new people to make just one new friend. Building intimacy also takes time. It can take time to feel close to someone and feel like you can count on their support. 
-- Let go of or put limits on unhealthy ties : Walking away from any relationship is painful—even when the relationship is causing harm&mdash;but it may be necessary. For example, if you’re trying to quit drinking and your friends only ever want to spend time in bars and clubs, you may decide to let them go. Use your judgement, though. It may be possible to spend time elsewhere with them, without fully abandoning the friendship.
-- Make a plan/ Create new opportunities:  Figure out what support you need and figure out how you might find it. Think about stepping out of your usually activities.
+Sometimes it is really hard to reframe a serious stressful event and such reframes may take some time. In the meantime realizing that sometimes things just suck may be helpful.  While at these times, we know that we cannot actually change certain things, part of what this practice may help you do is become better at dealing with them, feeling better, and perhaps, having the capacity to better cope with stress.
 
 <hr/>
 # Practice
+ **Try some reframes this week**
+ 
+Each day think of one negative or stressful thing that happened then practice positive or neutral reframe regarding that event:
 
-Think about a stressful situation or challenge you are currently facing
-Identify what support would be helpful and who in your life could provide it
-Ask for that support 
+- Why it may not be as bad as initially thought? 
+- Is there some potential good that might come of it? 
+- Is there a way you may grow from this experience? 
+
+<i>Note: Be sure to focus on small stressful events – things that are irritating, instead of any major stressful events that might be going on in your life right now.  With reframes it helps to start small and build up to the bigger things.</i>

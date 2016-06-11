@@ -1,120 +1,82 @@
 ---
 layout: default
-title: Mindfulness
+title: Taking in the Positive
 ---
-<p class="type">Chapter 2</p>
+<p class="type">Chapter 1</p>
 
-# Mindfulness 
-I know there is a lot being written about mindfulness these days and it’s being touted as the solution to everything from relationship problems, to work performance, and illness. When I started working on this book, a close friend cautioned me to “be mindful of the trendiness of mindfulness”. With all that said, mindfulness has been shown to be very powerful and is an essential part of all of the skills in this book. Mindfulness is what helps us connect with our positive emotions and is essential in being able to sit with and work through the negative ones. 
+# Taking in the Positive 
+Retraining our brain to capture and retain the positive 
 
-Mindfulness involves a focused awareness of whatever is happening in the present moment without trying to change it, but instead simply noticing it for what it is, as it is. We can be mindful of our thoughts, feelings, and things going on around us. It’s about paying attention, in a particular way, on purpose, in the present moment with a non-judgmental and accepting attitude. One way to think about mindfulness is as being without doing.
+One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
 
-<div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present.'" &mdash; <i>Kung Fu Panda</i></div>
+A study of people caring for loved ones dying of AIDS found that the people who were able to, even in the midst of this incredibly difficult time in their lives, still notice and appreciate the good moments such as enjoying a chance to get out and go for a walk or an afternoon spent watching a movie together, experienced less depression and showed increased resilience six months to a year after the loss of the loved one.  
 
-# Informal Mindfulness 
-Being present in everyday life
+### Recalling a positive event 
+Taking times to recall a positive experience can give you a momentary break from a stressful day and help you feel replenished enough to keep going.
 
-We often find ourselves rushing through the activities of daily life on “autopilot” An entire day or week can go by without us ever stopping to take in what is going on.  Many tasks of daily life have the potential for bringing enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help you appreciate the good things that are happening right now and decrease your sense of worry about the past or future. 
+Think about something that you did, or something that happened to you, that was positive and made you feel good.  It can be something that you thought about or an actual event. 
 
-Take doing the dishes for example. Its really easy to see doing the dishes as only a chore we have to somehow get through, which can make it a stressful part of the day or something we avoid. But what If you take time to really be present in the activity of washing dishes,  the sound of the running water, The feel of the warm suds, the way the dishes look when they are clean, the satisfaction you may get from seeing the sink empty again, it probably will be a very different experience. 
+- What happened?
+- How did you feel when it happened?
+- As you think about this event, notice your body. what are you feeling and where?  
+- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
 
-A friend of mine with a busy career and 3 young children says since they started practicing increased mindfulness, her and her husband now debate over who gets to do the dishes because it has become one of the more relaxing parts of their day. 
+### Turning up the volume by extending or amplifying the event 
+Noticing the positive moments is powerful in itself, but, to really maximize the benefit of a positive experience, it is important to amplify or extend it by taking time to savor it, writing it down, spending time re-experiencing it in your mind, or telling someone about it.
 
-### The raisin exercise
+One way to think about it is that you are “turning up the volume” on a positive event. Research has found that people who take time to amplify positive events in this way tend to have more positive emotion overall and more adaptive forms of coping with stress. I also think of it as a way to get the most mileage out of your positive experiences.
 
-A great way to get a sense of increased mindfulness is to experiment with eating one raisin. This is a quick and easy activity and is commonly used as an introduction to mindfulness classes. Start by taking a raisin and holding it in the palm of your hand or between your finger and thumb. Focusing on it, imagine that you’ve just dropped in from Mars and have never seen an object like this before in your life. Take time to really see it; gaze at the raisin with care and full attention and go through the following steps:
+Think about the event you just came up with.  
 
-#### See it 
-Let your eyes explore every part of it, examining the highlights where the light shines, the darker hollows, the folds and ridges, and any asymmetries or unique features. 
+- Did you do anything in response to the event?  
+- Tell someone about it? 
+- Think about it later? 
+- Stop and savor it?
 
-#### Touch it
-Turn the raisin over between your fingers, exploring its texture, maybe with your eyes closed if that enhances your sense of touch. Smelling Holding the raisin beneath your nose, with each inhalation drink in any smell, aroma, or fragrance that may arise, noticing as you do this anything interesting that may be happening in your mouth or stomach. 
+### Now add a greater level of mindfulness to this exercise through Breath Awareness
+Breathing affects the way we feel. When someone is upset, they are told to, “take a deep breath and calm down.” Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and helps you more fully experience positive feelings. In this next exercise we are going to add breath awareness technique to positive event recall. 
 
-#### Place it
-Now slowly bring the raisin up to your lips, noticing how your hand and arm know exactly how and where to position it. Gently place the object in the mouth, without chewing, noticing how it gets into the mouth in the first place. Spend a few moments exploring the sensations of having it in your mouth, exploring it with your tongue. 
+It can be helpful to think of a relaxing word such as “calm” or “relax” and say it to yourself silently and calmly as you exhale. 
 
-#### Taste it 
-When you are ready, prepare to chew the raisin, noticing how and where it needs to be for chewing. Then, very consciously, take one or two bites into it and notice what happens in the aftermath, experiencing any waves of taste that emanate from it as you continue chewing. Without swallowing yet, notice the bare sensations of taste and texture in the mouth and how these may change over time, moment by moment, as well as any changes in the object itself. 
+- Get yourself seated in a comfortable position and start noticing your breath,
+- Breathe in and exhale slowly saying the word you have chosen. 
+- Continue to repeat that process 
+- After you finish exhaling, and when your lungs are empty of air, pause for a count of 3 or 4 seconds before inhaling again. 
+- Practice just doing this for a few moments 
+- Now see if you can pull up the positive event you identified earlier, 
+- As you think about this event or experience, notice your body. 
+- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress &hellip;
+- &hellip; As you continue to think about this positive event or experience, ask yourself: 
+- Where were you? 
+- Who else was with you?
+- What were you doing at the time?  
+- Take a few minutes just to enjoy the feelings that come up for you.  Take a few deep breaths and allow your body to relax.
+- Continue to take long deep breaths.
 
-#### Swallow it 
-When you feel ready to swallow the raisin, see if you can first detect the intention to swallow as it comes up, so that even this is experienced consciously before you actually swallow the raisin.
+### Increase opportunities for future positive experiences 
+Deepen this exercise by adding these questions after you are able to fully pull up the positive experience, and let whatever answers come to you, be what they are.
 
-# Formal Mindfulness
-Breath awareness and meditation 
-Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
-
-Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
-
-Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
-
-Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
-
-When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body &mdash; and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
-
-### Here is how to put it into practice.
-These days there are lots of tools available for mindfulness meditations. There are recordings  you can download or purchase and even several apps dedicated to building a daily mindfulness practice. There are many variations of breath awareness exercises. Some are very brief and others more elaborate. You may want to try out a few and see which is the right fit for you. Below are the steps included in most meditations. 
-
-#### Find a quiet place and settle into a comfortable posture
-- Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.).
-- Sit in the floor or in a chair, whichever is more comfortable for you. You can be in tradi-tional cross-legged posture or in any other position that is comfortable. The most im-portant thing is to keep your back straight, helping create and alert posture.
-
-
-#### Turn attention to the breath
-- Sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing.
-- Focus on the sensation of the breath as it enters and leaves your nostrils. This sensation is the primary focus of the meditation. Try focus on it fully
-- It is not about trying to breathe deeply or changing your breathing in any way-simply. You just let your body breathe the way it naturally does.
-- There is no particular way your body is supposed to feel. Observe your body as it breathes, allow your experience to be just as it is, without judging or needing to change 
-
-
-#### Your mind may seem busier
-- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
-- There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
-
-#### Gently keep your focus on Breath 
-- As you sit focusing on the breath, inevitably your mind will wander off. This is natural; it is simply what our minds are in the habit of doing.
-- When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. 
-
-
-# Acceptance
-Allowing for thoughts and feelings without judgment.
-
-One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
-- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
-- There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
- 
-Gently keep your focus on Breath 
-
-If we try to forcefully push our thoughts and feelings away/out of our minds, they tend to become stronger and can take up even more of our attention. 
-
-Instead, we can practice just simply noticing that they are there--without feeling like we have to do anything about them. It can be helpful to imagine them as leaves on a stream, just floating along the surface. Some will just pass right by and others will get stuck on a rock or a root for a bit before eventually freeing itself and moving on. 
-
-# Self-compassion
-Being a supportive and caring friend to yourself
-
-We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves.
-
-However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
-
- Self compassion is:
- - Having empathy for yourself and understanding of your own suffering. 
- - Sitting with your own imperfection.
- - Understanding your mistakes in the larger context.
+- What can I do to create more opportunities for moments like this?
+- What do I have to let go of to make room for more opportunities like this? 
 
 <hr/>
-# Practice
+# Practice 
 
-1. Pick one activity to do more mindfully over the next week
-2. Devote 10 minutes a day to a formal mindfulness activity
+Keep a record of the good
+Take a few moments every day (right before bed can be a good time) to think of at least one good moment in your day. 
 
-### Option A: Mediation CD
-Spend 10 minutes listening to a recording of a guided breath awareness activity each day. 
-This can be done at whatever time of day works best for your schedule, but it can be helpful to do it at the same time each day, in order to make it a routine.
-Practice noting your thoughts and feelings without reacting right away
+These things can be ordinary and don’t need to be big events.  If you can think of more than one – great!  But try to come up with at least one.
 
-### Option B: Headspace App
-Download the app “headspace” and find at time to devote 10 minutes a day to it. 
+Next to the positive experience,  answer the questions:   
+What were you feeling while the event was happening? 
+How did your body feel during the experience?  
+What about the event made you feel those feelings? 
 
+Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it’s a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just wait until the end of the day to start thinking about the good things that have happened to you.
 
 # Learn More
-Kabat-Zinn, Jon. (2013). Full catastrophe living : using the wisdom of your body and mind to face stress, pain, and illness. New York :Bantam Books trade paperback,
+[Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf){:target="_blank"}
+Hanson, R., & Mendius, R. (2009). 
+
+Buddha's brain: The practical neuroscience of happiness, love & wisdom. Oakland, CA: New Harbinger Publications. 
 

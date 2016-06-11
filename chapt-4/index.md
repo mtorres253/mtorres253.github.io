@@ -1,135 +1,33 @@
 ---
 layout: default
-title: Anxiety, Stress and Coping Skills
+title: Gratitude
 ---
 <p class="type">Chapter 4</p>
 
-# Anxiety, Stress and Coping Skills 
-Stress as well as some level of anxiety and worry are a natural and important part of life. They can help us identify areas of concern, know when we are in potential danger and, at times, motivate us to make changes in our lives. The challenge is that if we aren’t dealing with our stress (being mindful of it and working with it in a productive way) it can take on a life of its own, causing all sorts of difficulties that impact both emotional and physical health and our ability to effectively function in day to day life. The following tools can help you deal with the stress and anxiety in your life more effectively and keep it from having a negative impact.
+# Gratitude 
+Taking stock of what you have
 
-## Step 1 Recognition: Notice your stress 
+Gratitude is a feeling of thankfulness or appreciation towards something or someone. It is so easy to get caught up in worrying about what’s not there, what you think you are missing or what could be better, to the point of losing sight of what is. Gratitude is about reflecting on what you have, the things that are working and what you have accomplished.
 
-Think for a moment &hellip;
+<div class="quote">“A moment of gratitude makes a difference in your attitude” <div>&mdash; Bruce Wilkinson</div></div>
+There is a substantial amount of research suggesting that there is a strong link between gratitude and well-being. [Grateful people have been shown to experience more joy, be happier, experience less stress and anxiety, less depression, sleep get more restful sleep and report being more satisfied with their lives and relationships.](http://www.sciencedirect.com/science/article/pii/S0022399908004224){:target="_blank"}
 
-- How do you know when you are stressed?
-- Where do you feel stress physically?
-- How else does it affect you? 
-- Also, when you feel overwhelmed, what’s your go to?
+Studies have even shown a link between gratitude and health (Hill, PL, Allemand M, Roberts BW) and improved sleep (Nancy Digdon* and Amy Koble) and learning to connect with what you are grateful for, even for just a few minutes, can make a big difference in how you experience life. 
 
-When we are in stressful situations, our systems can get overwhelmed and we can get triggered into what is referred to as fight flight or freeze response. Our brain, trying to cope, will find a way to either:
-
-- Flee the stressful situation physically or by checking out, avoiding or denying the stressor (flight mode) 
-- React impulsively, push back hard without thinking things through (fight mode)
-- Become paralyzed and unable to act at all (freeze mode)  
-- Which of these do you default to?
-
-## Step 2 Appraisal: Assess the Stress 
-
-### The Source: What’s it About?
-What is causing you to feel stressed, anxious or worried? Is it a concern about something in the future, or the impact of something that already happened or a situation you are currently dealing with. Sometimes we are experiences multiple stresses. 
-If you are worrying about something which hasn’t actually happened yet, an important place to start is by asking yourself:
-How like likely is it?
-
-1 to 10 with 1 being  (highly unlikely) and 10 being (an almost certainty) how likely is it this worry or stressor will actually happen. For example, not being able to pay your rent check when you are unemployed and have no money left is probable going to be a 9 or a 10, while your house catching on fire because you forgot to take the phone charger out of the wall before leaving for work might be a 1 or 2. 
-
-<p class="number-continuum">
-1----------2----------3----------4----------5----------6----------7----------8----------9----------10
-</p>
-
-
-
-## Significance and Controllability 
-
-### How big a deal is this stress? 
-It can be easy to get overly worried about something that is unlikely to happen or may not have a great impact if it does, or overassign importance to something that happened in the past.  It is important that the response to the stressor matches its significance. To help calibrate, ask yourself, on a scale from 1 to 10, how significantly will this impact me if it does happen? 
-
-<p class="number-continuum">
-1----------2----------3----------4----------5----------6----------7----------8----------9----------10
-</p>
-
-
-
-### Is it in my Control?
-In order to effectively deal with a stressful situation, it is important to determine the extent to which it is changeable. Is changing it in your control.  
-
-Trying to change a situation which is out of our control will often increase our level of stress and anxiety. 
-
-## Step 3 Coping: Dealing with it 
-Once you have determined what the stressor is and assessed its meaning, likelihood, significance and whether its in your control, the next step if to find the appropriate strategy for coping with it. 
-
-For a stressor or worry which is changeable or one you have some control over, the most effective strategy is what is referred to as Problem-Focused Coping. With stressors we have little or no control over changing, the best strategies are Emotion focused. (Folkman, et al., 1991; Lazarus & Folkman, 1984). 
-
-Problem-Focused Coping  
-Things we do (thoughts or actions) to remove or reduce the intensity of the stressor 
-
-These include:
-
-- Problem solving:
-  - A systematic approach to defining a problem
-  - Clarifying a desired outcome
-  - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
-  - Identification and implementation of a solution.
-- Information seeking 
-  - Asking around
-  - Researching online
-- Utilization of social support 
-  - Getting help with finding solutions and implementing them 
-- Communication
-  - Asking for what you need 
-
-I will get into more details about Problem-solving in the next chapter.
-
-## Emotion-Focused Coping
-Things we do (thoughts and actions to decrease the distress you feel about the situation without necessarily altering or removing the actual stressor. (Folkman, et al., 1991) 
-
-This is a coping strategy most relevant to when the stressor is out of your control or you determine that trying to change it at this time would be less helpful than decreasing how it is impacting you. Examples of emotion-focused coping strategies might include 
-
-- Relaxation and deep breathing
-- Exercise 
-- Doing things you enjoy
-- Venting of frustration to a friend or care provider
-- Getting additional therapeutic support.
-- Meditation
-- Spiritual practices 
-
-## Distracting vs. being present in your feelings
-Emotion focused coping can be broken down into two categories: 
-
-Distraction coping: Strategies that allow you to escape or distract from the stress and anxiety, such as watching TV, having a glass of wine, taking an Ativan, For some it can be listening to music, dancing or going for a run.  
-
-Present focused coping: Strategies that help you be present in the stress, or help you gain perspective, deep breathing, meditation, talking to friends and professionals or journaling, connecting with things that are important to you, such as family or a pet.  
-
-Some strategies such as physical exercise can have elements of both. It can be an escape and a way to work through the feelings, and sometimes escaping for a bit can help us come back to the stressor and work through it.  
-
-I had someone recently describe how taking his dog for a walk helps him not care as much about his worries and brings him more fully into the moment.  
-
-One of the challenges in learning to better cope with stress, is that without careful attention, we tend to rely heavily on the distraction strategies.  
-
-## Distraction coping has it’s place  
-Sometimes, if the stressor feels too overwhelming, you may feel like you need to escape or distract to be able to cope. In these cases it is important to be mindful of how you are choosing to escape and the impact of the escape strategy.
-  
-For example, after initially being diagnosed with a serious illness, one may find that a few glasses of wine every night helps them manage the enormous sense of feeling overwhelmed and provide some relief from sitting with so much uncertainty, but over time, if that person turns to the same strategy night after night, not only is the stressor not being addressed but the coping strategy may bring its own set of problems and stressors. Escape strategies can be useful if utilized carefully and with the goal of eventually learning to face the distressing thought, event or feeling. 
-
-Shifting away from a distraction coping strategies we have learned to rely on, can be particularly challenging at first. Initially, the stress will go up and the present focused strategies will provide limited comfort, but over time that will start to shift.
-
-There will always be stressors, but they way we deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
+<div class="story">
+<p>When thinking about gratitude, I’ll often think back to when I was 10. I had gotten this notebook/organizer that was very popular that year. I believe it was called the “data center”. It had a binder on one side and a set of file folders on the other and each compartment snapped shut. I was so thrilled that I had managed to sneak it into the shopping cart when and was so excited to start the year with my new prized possession. Some of the other kids had Star Wars stickers on their data centers, and people were talking about how cool they were. It was amazing how quickly I stopped being happy with mine and started to yearn for one with star wars stickers. I traded mine for one with stickers and for a couple days felt that sense of pride again until I heard people talking about how uncool it was to have stickers on your notebook. Now I was yearning to have the plain one again. I couldn’t get anyone to trade, so I attempted to peel the stickers off, but in the process the vinyl cover of the datacenter started to tear and eventually the whole notebook fell apart. I had gotten so focused on what I didn’t have and what I thought I “needed to have” that I couldn’t appreciate what I had and eventually ended up with nothing.</p>
+<p>I did soon get over it and now of course, this story makes me laugh as I see the absurdity of it all, but it still holds a valuable lesson that can apply to adults. Gratitude is taking stock of and appreciating what you do have and trying not to compare or define yourself from the outside.</p>
+</div>
 
 <hr/>
-# Practice 
+# Practice
 
-<h4>Know your stressors</h4>
-Take time to think about your current stressors.
+Keep a grattitude journal.
 
-- Start with the general and break them down into specifics. If you are stressed about work, think about what aspects of work are causing stress: a looming deadline, a coworker not doing their share. 
-- Get as specific as you can and then think about which aspects of each stressor are in your control. 
-- Then consider the best ways to cope to cope with each stressor. With the ones in your control, as yourself what can I do to change this situation?” and with the ones that you feel are out of your control, consider what will help you feel less distress about the situa-tion.  
+Each day think about one thing you are grateful for and note it somewhere. 
+I’ve had some of my clients do their gratitude list over their morning coffee or when they first get to work. Some have even created a prompt for when they log on to their computer at the office. Those who have built this into their morning routine often report 
+a noticeable difference in their workday. 
 
-<h4>Be aware of how you are coping</h4>
-As you cope with the stressful situations in your life? Try to stay mindful of the ways you are coping. 
+This exercise helps bring more awareness to the good things that you otherwise might not necessarily note. It doesn’t have to be a new thing every day. Feel free note more than one per day if you think of more than one. The goal of this exercise is to spend a few minutes each day reflecting on the things you have in your life to be grateful for.
 
-- What are you doing to distract or escape?
-- What are you doing to help you stay present?
-- In what circumstances do you feel more of a need to escape?
-  
-# Learn More
-Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New York: Springer Pub. Co. 
+When practicing gratitude, it is important that you note things you are actually grateful for and not things you think you “should” be grateful for and that you don’t turn into a way to beat yourself up. For example thinking, “ I’m a terrible person for being upset that it took so long to get seated in the restaurant when there are people starving in the world.” I refer to this as weaponizing gratitude against yourself. 

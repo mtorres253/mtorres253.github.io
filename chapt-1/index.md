@@ -1,82 +1,135 @@
 ---
 layout: default
-title: Taking in the Positive
+title: Anxiety, Stress and Coping Skills
 ---
 <p class="type">Chapter 1</p>
 
-# Taking in the Positive 
-Retraining our brain to capture and retain the positive 
+# Anxiety, Stress and Coping Skills 
+Stress as well as some level of anxiety and worry are a natural and important part of life. They can help us identify areas of concern, know when we are in potential danger and, at times, motivate us to make changes in our lives. The challenge is that if we aren’t dealing with our stress (being mindful of it and working with it in a productive way) it can take on a life of its own, causing all sorts of difficulties that impact both emotional and physical health and our ability to effectively function in day to day life. The following tools can help you deal with the stress and anxiety in your life more effectively and keep it from having a negative impact.
 
-One of the most inspiring things I have learned in my line of work is that even during the most stressful periods of our lives, good moments abound. Fully taking them in can be very powerful.  It is so easy to get caught up in thinking about, replaying and worrying over the difficult and upsetting parts, at times completely losing sight of the good ones. Research has shown that taking time to notice, savor and recall a positive experience and the emotions that accompany it, can actually help us better cope with stressful events.
+## Step 1 Recognition: Notice your stress 
 
-A study of people caring for loved ones dying of AIDS found that the people who were able to, even in the midst of this incredibly difficult time in their lives, still notice and appreciate the good moments such as enjoying a chance to get out and go for a walk or an afternoon spent watching a movie together, experienced less depression and showed increased resilience six months to a year after the loss of the loved one.  
+Think for a moment &hellip;
 
-### Recalling a positive event 
-Taking times to recall a positive experience can give you a momentary break from a stressful day and help you feel replenished enough to keep going.
+- How do you know when you are stressed?
+- Where do you feel stress physically?
+- How else does it affect you? 
+- Also, when you feel overwhelmed, what’s your go to?
 
-Think about something that you did, or something that happened to you, that was positive and made you feel good.  It can be something that you thought about or an actual event. 
+When we are in stressful situations, our systems can get overwhelmed and we can get triggered into what is referred to as fight flight or freeze response. Our brain, trying to cope, will find a way to either:
 
-- What happened?
-- How did you feel when it happened?
-- As you think about this event, notice your body. what are you feeling and where?  
-- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
+- Flee the stressful situation physically or by checking out, avoiding or denying the stressor (flight mode) 
+- React impulsively, push back hard without thinking things through (fight mode)
+- Become paralyzed and unable to act at all (freeze mode)  
+- Which of these do you default to?
 
-### Turning up the volume by extending or amplifying the event 
-Noticing the positive moments is powerful in itself, but, to really maximize the benefit of a positive experience, it is important to amplify or extend it by taking time to savor it, writing it down, spending time re-experiencing it in your mind, or telling someone about it.
+## Step 2 Appraisal: Assess the Stress 
 
-One way to think about it is that you are “turning up the volume” on a positive event. Research has found that people who take time to amplify positive events in this way tend to have more positive emotion overall and more adaptive forms of coping with stress. I also think of it as a way to get the most mileage out of your positive experiences.
+### The Source: What’s it About?
+What is causing you to feel stressed, anxious or worried? Is it a concern about something in the future, or the impact of something that already happened or a situation you are currently dealing with. Sometimes we are experiences multiple stresses. 
+If you are worrying about something which hasn’t actually happened yet, an important place to start is by asking yourself:
+How like likely is it?
 
-Think about the event you just came up with.  
+1 to 10 with 1 being  (highly unlikely) and 10 being (an almost certainty) how likely is it this worry or stressor will actually happen. For example, not being able to pay your rent check when you are unemployed and have no money left is probable going to be a 9 or a 10, while your house catching on fire because you forgot to take the phone charger out of the wall before leaving for work might be a 1 or 2. 
 
-- Did you do anything in response to the event?  
-- Tell someone about it? 
-- Think about it later? 
-- Stop and savor it?
+<p class="number-continuum">
+1----------2----------3----------4----------5----------6----------7----------8----------9----------10
+</p>
 
-### Now add a greater level of mindfulness to this exercise through Breath Awareness
-Breathing affects the way we feel. When someone is upset, they are told to, “take a deep breath and calm down.” Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and helps you more fully experience positive feelings. In this next exercise we are going to add breath awareness technique to positive event recall. 
 
-It can be helpful to think of a relaxing word such as “calm” or “relax” and say it to yourself silently and calmly as you exhale. 
 
-- Get yourself seated in a comfortable position and start noticing your breath,
-- Breathe in and exhale slowly saying the word you have chosen. 
-- Continue to repeat that process 
-- After you finish exhaling, and when your lungs are empty of air, pause for a count of 3 or 4 seconds before inhaling again. 
-- Practice just doing this for a few moments 
-- Now see if you can pull up the positive event you identified earlier, 
-- As you think about this event or experience, notice your body. 
-- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress &hellip;
-- &hellip; As you continue to think about this positive event or experience, ask yourself: 
-- Where were you? 
-- Who else was with you?
-- What were you doing at the time?  
-- Take a few minutes just to enjoy the feelings that come up for you.  Take a few deep breaths and allow your body to relax.
-- Continue to take long deep breaths.
+## Significance and Controllability 
 
-### Increase opportunities for future positive experiences 
-Deepen this exercise by adding these questions after you are able to fully pull up the positive experience, and let whatever answers come to you, be what they are.
+### How big a deal is this stress? 
+It can be easy to get overly worried about something that is unlikely to happen or may not have a great impact if it does, or overassign importance to something that happened in the past.  It is important that the response to the stressor matches its significance. To help calibrate, ask yourself, on a scale from 1 to 10, how significantly will this impact me if it does happen? 
 
-- What can I do to create more opportunities for moments like this?
-- What do I have to let go of to make room for more opportunities like this? 
+<p class="number-continuum">
+1----------2----------3----------4----------5----------6----------7----------8----------9----------10
+</p>
+
+
+
+### Is it in my Control?
+In order to effectively deal with a stressful situation, it is important to determine the extent to which it is changeable. Is changing it in your control.  
+
+Trying to change a situation which is out of our control will often increase our level of stress and anxiety. 
+
+## Step 3 Coping: Dealing with it 
+Once you have determined what the stressor is and assessed its meaning, likelihood, significance and whether its in your control, the next step if to find the appropriate strategy for coping with it. 
+
+For a stressor or worry which is changeable or one you have some control over, the most effective strategy is what is referred to as Problem-Focused Coping. With stressors we have little or no control over changing, the best strategies are Emotion focused. (Folkman, et al., 1991; Lazarus & Folkman, 1984). 
+
+Problem-Focused Coping  
+Things we do (thoughts or actions) to remove or reduce the intensity of the stressor 
+
+These include:
+
+- Problem solving:
+  - A systematic approach to defining a problem
+  - Clarifying a desired outcome
+  - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
+  - Identification and implementation of a solution.
+- Information seeking 
+  - Asking around
+  - Researching online
+- Utilization of social support 
+  - Getting help with finding solutions and implementing them 
+- Communication
+  - Asking for what you need 
+
+I will get into more details about Problem-solving in the next chapter.
+
+## Emotion-Focused Coping
+Things we do (thoughts and actions to decrease the distress you feel about the situation without necessarily altering or removing the actual stressor. (Folkman, et al., 1991) 
+
+This is a coping strategy most relevant to when the stressor is out of your control or you determine that trying to change it at this time would be less helpful than decreasing how it is impacting you. Examples of emotion-focused coping strategies might include 
+
+- Relaxation and deep breathing
+- Exercise 
+- Doing things you enjoy
+- Venting of frustration to a friend or care provider
+- Getting additional therapeutic support.
+- Meditation
+- Spiritual practices 
+
+## Distracting vs. being present in your feelings
+Emotion focused coping can be broken down into two categories: 
+
+Distraction coping: Strategies that allow you to escape or distract from the stress and anxiety, such as watching TV, having a glass of wine, taking an Ativan, For some it can be listening to music, dancing or going for a run.  
+
+Present focused coping: Strategies that help you be present in the stress, or help you gain perspective, deep breathing, meditation, talking to friends and professionals or journaling, connecting with things that are important to you, such as family or a pet.  
+
+Some strategies such as physical exercise can have elements of both. It can be an escape and a way to work through the feelings, and sometimes escaping for a bit can help us come back to the stressor and work through it.  
+
+I had someone recently describe how taking his dog for a walk helps him not care as much about his worries and brings him more fully into the moment.  
+
+One of the challenges in learning to better cope with stress, is that without careful attention, we tend to rely heavily on the distraction strategies.  
+
+## Distraction coping has it’s place  
+Sometimes, if the stressor feels too overwhelming, you may feel like you need to escape or distract to be able to cope. In these cases it is important to be mindful of how you are choosing to escape and the impact of the escape strategy.
+  
+For example, after initially being diagnosed with a serious illness, one may find that a few glasses of wine every night helps them manage the enormous sense of feeling overwhelmed and provide some relief from sitting with so much uncertainty, but over time, if that person turns to the same strategy night after night, not only is the stressor not being addressed but the coping strategy may bring its own set of problems and stressors. Escape strategies can be useful if utilized carefully and with the goal of eventually learning to face the distressing thought, event or feeling. 
+
+Shifting away from a distraction coping strategies we have learned to rely on, can be particularly challenging at first. Initially, the stress will go up and the present focused strategies will provide limited comfort, but over time that will start to shift.
+
+There will always be stressors, but they way we deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
 
 <hr/>
 # Practice 
 
-Keep a record of the good
-Take a few moments every day (right before bed can be a good time) to think of at least one good moment in your day. 
+<h4>Know your stressors</h4>
+Take time to think about your current stressors.
 
-These things can be ordinary and don’t need to be big events.  If you can think of more than one – great!  But try to come up with at least one.
+- Start with the general and break them down into specifics. If you are stressed about work, think about what aspects of work are causing stress: a looming deadline, a coworker not doing their share. 
+- Get as specific as you can and then think about which aspects of each stressor are in your control. 
+- Then consider the best ways to cope to cope with each stressor. With the ones in your control, as yourself what can I do to change this situation?” and with the ones that you feel are out of your control, consider what will help you feel less distress about the situa-tion.  
 
-Next to the positive experience,  answer the questions:   
-What were you feeling while the event was happening? 
-How did your body feel during the experience?  
-What about the event made you feel those feelings? 
+<h4>Be aware of how you are coping</h4>
+As you cope with the stressful situations in your life? Try to stay mindful of the ways you are coping. 
 
-Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it’s a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just wait until the end of the day to start thinking about the good things that have happened to you.
-
+- What are you doing to distract or escape?
+- What are you doing to help you stay present?
+- In what circumstances do you feel more of a need to escape?
+  
 # Learn More
-[Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf){:target="_blank"}
-Hanson, R., & Mendius, R. (2009). 
-
-Buddha's brain: The practical neuroscience of happiness, love & wisdom. Oakland, CA: New Harbinger Publications. 
-
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New York: Springer Pub. Co. 

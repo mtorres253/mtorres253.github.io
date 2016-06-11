@@ -1,121 +1,99 @@
 ---
 layout: default
-title: Harnessing your Strengths and Staying Connected to your Values
+title: Goal Attainment
 ---
 <p class="type">Chapter 8</p>
 
-# Harnessing your Strengths and Staying Connected to your Values 
+# Goal Attainment 
 
-## Strengths
-Beyond your coping skills, you have a set of traits totally unique to you that help you overcome challenges and allow you to thrive in the world. In times of stress it’s easy to lose sight of these strengths—but it’s important to remember that no matter what, even if you haven’t called upon them in a long time, they are an inherent part of who you are. Sometimes the simple act of re-minding yourself of your strengths can pull you out of despair and reenergize you to begin mov-ing forward again.
+The long view, small steps and positive emotions  
 
-The more you’re aware of your strengths, the more you will be able to put them into practice.
+We talk a lot about goals, but most people think of them only in a practical sense. Here we are going to focus on their emotional impact as well. It is important to have a long term vision because it can act as a motivator and give us a sense of purpose. However, in order to get there without feeling overwhelmed, we need milestones along the way. This is where creating attainable goals are crucial. 
+
+## The Big Goals
+
+### The long view
+
+- Start with a vision of what you want to accomplish in the long term. 
+- Break it down into all the steps that will get you there.
+- As you make progress, reassess from time to time, to see if that vision has changed.
+When you feel it’s far away, you can use that visualization to give you strength 
+
+
+
+Creating the vision:
+
+Find a quiet place where you won't be disturbed. Close your eyes and take a few deep breaths now think of what you would like your life to look like at a given point in the future. 6 months, one year, 5 years. 
+Visualize the situation you desire in your mind as clearly and with as much detail as you can.
+Notice the emotions, feelings as you hold that vision.
+
+Setting intention:
+
+Sometimes when you don’t have a specific future goal, I find it can be helpful to set an intention to help you be more mindful of what you are working towards.  A good way to this is to think of your life as book and start by thinking about the most recent period of your life and asking yourself, “what would I name that chapter?” 
+After you have come up with one, think about what you would like to call the next chapter of your life. Just close your eyes and see what comes to mind. 
+
+Someone who had be through a difficult break up and job loss, named the period he had just been through, “ One step forward and two steps back” and decided he would like the next chapter to be titled “a gentler life”
+
+This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past. 
+
+The challenge with long term goals is that they can feel overwhelming and keep us focused on the future rather than present Also, If we become too attached we may not adapt to changing circumstances. That is where attainable goals come in 
+
+## Attainable Goals
+
+### The small steps 
+
+Focusing on accomplishing and taking notice of small, manageable goals can he helpful in several ways.  
+- It can give us a sense of movement when we feel stuck
+- It can decrease our sense of overwhelm
+- It can give us something to focus on and provide us with a sense of reward
+
+It is important to celebrate small successes. Remember, Just accomplishing one task can start to change a situation in a big way. 
 
 <div class="story">
-<p>I was meeting with a client for the first time a few years back. She had faced an enormous amount of adversity in her life, horrific violence, trauma, and she had lost most of the people close to her. She was feeling quite hopeless about the future and in particular a recent cancer diagnosis. I noted at some point in the conversation that I was struck with her resilience and how grounded she seemed in her spirituality. She paused for moment, appearing a bit surprised. She noted that no one had ever given her that feedback before. The whole tone of the conversation changed, she spoke with noticeably increased confidence in her voice. Even as she spoke of this incredibly challenging situation, she seemed to have a little flicker of hope that she would somehow get through it. Towards the end of our session, she asked, “What was that word you used to talk about me earlier?” I responded, “resilience?” and she smiled, sat up fully in her chair and said, “yes resilience, I really like that word! It feels good to think of myself that way.” We thought of ways for her to remind herself of her resilience and other strengths at least once a day. We met for a total of 5 times and each time she came in with a little more energy, a little more hopeful and started taking action not just around her new medical situation, but around other areas of her life. This is a great illustration of something I have observed over and over: connecting someone with the strengths they already have can be one of the most powerful tools you can give them.</p>
+<p>I recently did an open water swim for a cause that is very personal to me. As I set out to cross the bay there was a lot of cheering and excitement, but as the initial rush died down, I started to take in the vast stretch of water ahead and the orange banner way off in the distance marking the finish line. The task at hand suddenly felt daunting. I noticed that spending too much time looking at the finish line kept me from being present and I was still far enough away that visually it didn’t seem to be getting any closer.</p> 
+<p>While it was important to occasionally look ahead, in order to keep from veering off course and to remind myself where I was going, I realized when I stayed present in the breath and noted the small accomplishments such as a set of good strokes in a row, the journey became easier and less effortful. I had time to notice the sensation of the water and the beauty of being out in the middle of the bay on a perfect sunny day.</p>
+<p>I paid less and less attention the end point and took time to celebrate passing each orange marker, knowing I had passed another milestone on the journey. Also, I found it encouraging to pause and look back from time to time, to get a sense of how far I’d come, though I didn’t spend too much time focusing on where I started, as I didn’t want it to distract me or use up energy best spent on moving forward.</p>
+<p>I realized the secret to the swim, much like goals, was to stay primarily focused in the present, noting and celebrating small steps and accomplishments, letting the desired destination be an occasional guidepost and motivator.  </p>
 </div>
 
+## How Strengths and Values relate to goals 
 
-## Identify Your Strengths 
-Take a moment and think about what strengths, skills, talents and internal or external resources you have What are things about you or things you do that you are proud of, as well as people or things that bring meaning to your life or give you reason to want to be the best you can be? 
+### Fuel for your goals 
 
+Our strengths can help us accomplish our goals and our values can help us persist in reaching toward our goals, as long as our goals reflect our values 
 
-| Dignified | Realistic | Moderate | Cheerful |
-| Inventive | Trusting | Responsible | Clear-thinking |
-| Prudent | Independent | Honest | Competitive |
-| Tenacious | Pleasant | Painstaking | Competent |
-| Intelligent | Steady | Spunky | Clever |
-| Progressive | Versatile | Sociable | Introspective |
-| Alert | Forceful | Analytical | Zany |
-| Daring | Modest | Forgiving | Discreet |
-| Emotional | Retiring | Loving | Kind |
-| Loyal | Helpful | Supportive | Purposeful |
-| Reflective | Outgoing | Consistent | Thorough |
-| Trustworthy | Sincere | Assertive | Intellectual |
-| Imaginative | Formal  | Motivated | Precise |
-| Persevering | Natural | Individualistic | Tactful |
-| Stable | Robust | Cooperative | Witty |
-| Verbal | Healthy | Confident | Dominant |
-| Ambitious | Original | Poised | Leisurely |
-| Curious | Sharp-witted | Bold | Quick |
-| Artistic | Frank | Strong | Thoughtful |
-| Courageous | Obliging | Broadminded | Informal |
-| Energetic | self-confident | Warm | Practical |
-| Mature| Friendly | Cool | strong-minded |
-| Relaxed | open-minded | Accurate | Wise |
-| Unaffected | self-controlled | Considerate | Academic |
-| Humorous | Generous | Aggressive | Adventurous |
-| Patient | Opportunistic | Flexible | Adaptable |
-| Spontaneous | Sensible | Deliberate | Determined |
-| Uninhibited | Gentle | Efficient | Eager |
-| fair-minded | good-natured | Logical | light-hearted |
-| Methodical | Optimistic | Tolerant | Quiet |
-| Reliable | Organized | Wholesome | Unassuming |
-| Sensitive | Industrious | Understanding | Serious |
-| Polite | far-sighted | Capable | Reserved |
-| Meticulous | Conservative | Likable | Calm |
-| Businesslike | Active | Unexcitable | Easygoing |
-| Affectionate | Firm | Charming | Resourceful |
-| Mild | Careful | Tough | Cautious |
-| Conscientious | Rational | Attractive | 
+When thinking about possible attainable goals to set for yourself, it is helpful to think about your personal strengths. How may your personal strengths help in attaining the goals you set? 
 
+For example, you set a goal to go to a bootcamp with a friend three days a week.  Your personal strengths include, reliability and likebility.  Being reliable helps you get yourself out of bed on mornings when it would be easy to turn the alarm off and go back to sleep and being likable helps you connect with other people at boot camp who in turn encourage you to keep going back.  
 
-Now for looking at your list think of an example of when you utilized one of those strengths
+Having a better understanding of what we value can help us select attainable goals that are consistent with those values.  When attainable goals are ways of living our values in action, they have a broader sense of meaning and purpose.  We see how attainable goals reflect the very best of who we are and who we want to become.  Having a sense of how a goal reflects your values makes it easier to pursue.   
 
-For example
+For example, you might value compassion and that will help you follow through with volunteering at the local food bank this week, or valuing health and well being can support your efforts to go to the gym consistently.
 
-- “I am considerate of others and today on the bus I gave up my seat to a pregnant woman”
-- “I am persistent and I kept checking in about that job I was interested in, even though they were always slow getting back to me, but eventually got an interview scheduled’
+Putting it all together: Strengths, values, and attainable goals
+ 
+## Setting and Achieving Attainable goals
 
-Now think of examples of times you have used at least 3 of the strengths you listed. Pick one of those memories think about it for a few moments and ask yourself &hellip;
+### Attainable goals have four characteristics:
 
-- What happened?
-- How did you feel when it happened?
-- As you think about this event, notice your body. what are you feeling and where?  
-- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
-- Did anyone notice reflect back that strength or accomplishment?
-- If so, how did that feel?
+- Realistic:  one that can reasonably be completed in the time you have to complete it.
+- Clear:  So that you can lay out exactly what steps must be taken to successfully complete the goal
+- Not too easy, but not too hard:  the goal should be challenging, but not impossible or too global
+- Have a definite end point: You should know when the goal has been successfully completed.
 
-## Personal Values
-Values can be understood as the very best of how we see ourselves. Values are a critical part of how we make important changes in our lives. It is easy to become out of touch with our values and sometimes we hold on to values that no longer accurately reflect who we are, or maybe were never our values to begin with, but someone else’s values we took on. 
-
-Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  
-
-It is also helpful to know that your strengths are very much a part of your past experiences and values.  
-
-For example, if one of your strengths is that you are a fair person, you might have an underlying value for justice.  The strength of being fair can be a way to live that value in action. 
-
-Take a few moments to reflect on what values are important to you and list them below (If you are having trouble thinking of any, take a look at the values list on the next page) As you do this try to withhold judgment and pick the values that resonate with you, as apposed to the ones you believe you should have. 
-
-Now take a look at the list and rank them in order of importance to you. Write your top 3 values down 
-
-Our strengths often reflect or are tied to the values we hold. 
-Values List
-
-
-| ACHIEVEMENT 		| ADVANCEMENT  	 	|
-| ADVENTURE   		| AESTHETICS       	|
-| AUTONOMY    		| CARING           	|
-| CHALLENGE   		| CHANGE & VARIETY 	|
-| COMPETITION 		| COOPERATION      	|
-| CREATIVITY  		| SECURITY         	| 
-| FAMILY HAPPINESS 	| HEALTH 			|
-| HELP OTHERS 		| HELP SOCIETY 		|
-| HONESTY 			| INNER HARMONY 	|
-| INTEGRITY 		| INTELLECTUAL 		|
-| STABILITY 		| TRUST 			|
-| KNOWLEDGE 		| LEADERSHIP 		|
-| LEISURE 			| LOCATION 			|
-| LOYALTY 			| PLEASURE 			|
-| POWER 			| PRECISION 		|
-| RESPONSIBILITY 	| RECOGNITION 		|
-| STABILITY 		| SPIRITUALITY 		|
-| TIME FREEDOM 		| WEALTH 			|
-| WISDOM 			| 					|
-
+Tip: it’s easy to get stalled on one goal and then start to feel defeated. When noticing that you are finding it hard to get started on one goal, look at your list and find the one that energizes you most when you think about it and move on to that one. Completing one goal often will give you enough of a boost to go back and start on the one you were putting off.
 
 <hr/>
 # Practice
-1) Take a few moments every identify one challenge you faced and what strengths you had to call upon to face that challenge.  
 
-Example sitting in traffic coming back from work, patience 
+- Track your accomplishments 
+- Think of 3 goals 
+- Each day make try to work on at least one of them and record your progress
+
+It is important to remember that not meeting a goal, can be an opportunity to get information. Instead of getting discouraged, seeing it as a failure and or beating yourself up about it, take a moment and think about the goal you set. Ask yourself &hellip;  
+
+- What were some of the barriers?
+- Did I make any progress towards the goal that I am not recognizing?
+- Was goal unrealistic? Do I need to start with a smaller goal?
+- Is something getting in the way of the goal?  
+- Is there something that I need to do first?

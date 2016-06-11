@@ -1,71 +1,121 @@
 ---
 layout: default
-title: Recognizing and Challenging Anxious Thought Loops
+title: Harnessing your Strengths and Staying Connected to your Values
 ---
 <p class="type">Chapter 6</p>
 
-# Recognizing and Challenging Anxious Thought Loops 
+# Harnessing your Strengths and Staying Connected to your Values 
 
-Getting caught in negative thought loops can be become one of the greatest barriers to coping with and resolving stressful situations. Anxiety can build on itself. The deeper you go into the anxious thoughts, the more negative your perception of the situation becomes. Your brain may even start to add in negative beliefs of events. This is referred to as "distorted thinking". For example, you may start with an anxious thought about leaving the coffee pot on, and find yourself replaying the morning’s events over and over again in your mind and with each replay of the morning, the memory of the red light on the machine still being on, becomes more and more convincing until you start to become certain that the pot is still on. You may decide to leave work to go home and check or spend the day worried and distracted.
+## Strengths
+Beyond your coping skills, you have a set of traits totally unique to you that help you overcome challenges and allow you to thrive in the world. In times of stress it’s easy to lose sight of these strengths, but it’s important to remember that no matter what, even if you haven’t called upon them in a long time, they are an inherent part of who you are. Sometimes the simple act of reminding yourself of your strengths can pull you out of despair and reenergize you to begin moving forward again.
 
-Or perhaps you made a presentation for work and you feel like some pieces didn’t go as well as you had hoped, and then find yourself laying in bed all night, thinking that you have you’ve lost everyone’s respect, that your job is on the line, and even telling yourself, “whatever made you think you could do this?”
-
-<div class="quote">“Stay calm and don’t believe everything you think”</div>
-
-### Anxious thoughts may influence our perception
-
-- We can see things as worse than they actually are.
-- They limit our ability to see options.
-- We read into things that may not be there
-
-## Recognize the thoughts!
-Below are some examples of common forms of distorted thinking:
-
-- Filtering: Taking the negative details and magnify them while filtering out all positive aspects of a situation. 
-- Catastrophizing: Overestimating the chances of disaster, automatically going to the worst case scenario 
-- Polarized Thinking: Thinking in black and white terms (e.g., things are right or wrong, good or bad). A tendency to view things at the extremes with no middle ground. This is also referred to as “All or nothing thinking”
-- Mind reading: Making assumptions about other people’s thoughts, feelings and behaviors without checking the evidence. Inferring based on assumptions 
-- Shoulds: Using “should”, “ought”, or “must” statements to set up unrealistic expectations of yourself and others. Operating by rigid rules and not allowing for flexibility.
-
-## We can limit ourselves based on negative beliefs 
-Part of what makes it hard to break away from these thoughts is that we may have gotten messages through our childhood reinforcing negative beliefs about ourselves and our abilities. This includes times we were told we couldn’t accomplish something, that we were going to fail or we weren’t good enough. 
+The more you’re aware of your strengths, the more you will be able to put them into practice.
 
 <div class="story">
-<p>There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.</p>
-<p>He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. “Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it’s enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free".</p>
-<p>The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large. These messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place.</p>
-</div> 
+<p>I was meeting with a client for the first time a few years back. She had faced an enormous amount of adversity in her life, horrific violence, trauma, and she had lost most of the people close to her. She was feeling quite hopeless about the future and in particular a recent cancer diagnosis. I noted at some point in the conversation that I was struck with her resilience and how grounded she seemed in her spirituality. She paused for moment, appearing a bit surprised. She noted that no one had ever given her that feedback before. The whole tone of the conversation changed, she spoke with noticeably increased confidence in her voice. Even as she spoke of this incredibly challenging situation, she seemed to have a little flicker of hope that she would somehow get through it. Towards the end of our session, she asked, “What was that word you used to talk about me earlier?” I responded, “resilience?” and she smiled, sat up fully in her chair and said, “yes resilience, I really like that word! It feels good to think of myself that way.” We thought of ways for her to remind herself of her resilience and other strengths at least once a day. We met for a total of 5 times and each time she came in with a little more energy, a little more hopeful and started taking action not just around her new medical situation, but around other areas of her life. This is a great illustration of something I have observed over and over: connecting someone with the strengths they already have can be one of the most powerful tools you can give them.</p>
+</div>
 
-## Challenge Them!
-There are a variety of techniques that have been discovered to help disrupt these negative thought processes. Some work better in certain situations and for certain personality types. I suggest giving them all a try and seeing which is the best fit. 
 
-### Noticing and Naming: 
-Through increased mindfulness, we are able to better recognize when we are getting stuck in these anxious thought loops and often just by naming, saying things like “this is my anxiety talking” or “yep, I’m an anxious person” can decrease their intensity and give us enough distance from the thoughts that we no longer feel as overwhelmed. The “leaves on a stream” technique from chapter 2 can be helpful as well. It some instances, it might even help the actually visualize placing the anxious thoughts on individual leaves and, in your mind, watch them float off. 
+## Identify Your Strengths 
+Take a moment and think about what strengths, skills, talents and internal or external resources you have What are things about you or things you do that you are proud of, as well as people or things that bring meaning to your life or give you reason to want to be the best you can be? 
 
-### Shutting it Down: 
-“Thought Stopping” is another technique which has been found to be helpful. This involves halting the thought loop, by simply telling yourself to “stop”. Some have even suggested using a rubber band around your wrist as a thought stopping trigger. Whenever you find yourself having these anxious thoughts, you gently snap the elastic. 
 
-### Putting it away: 
-It can help to mentally put the worrying thoughts away, by telling yourself something to the effect of, “I can worry about this later.” Sometimes it can be hard to do this because we are afraid that if we stop thinking about the stressor or worry, we will forget to do something about it, or get caught unprepared when the concern comes up again. We believe that keeping the anxious thought in the front of our mind is the only way to make sure it gets resolved. This is where developing a way to put the worry away, which includes a reminder to come back to it, can be important.
+| Dignified | Realistic | Moderate | Cheerful |
+| Inventive | Trusting | Responsible | Clear-thinking |
+| Prudent | Independent | Honest | Competitive |
+| Tenacious | Pleasant | Painstaking | Competent |
+| Intelligent | Steady | Spunky | Clever |
+| Progressive | Versatile | Sociable | Introspective |
+| Alert | Forceful | Analytical | Zany |
+| Daring | Modest | Forgiving | Discreet |
+| Emotional | Retiring | Loving | Kind |
+| Loyal | Helpful | Supportive | Purposeful |
+| Reflective | Outgoing | Consistent | Thorough |
+| Trustworthy | Sincere | Assertive | Intellectual |
+| Imaginative | Formal  | Motivated | Precise |
+| Persevering | Natural | Individualistic | Tactful |
+| Stable | Robust | Cooperative | Witty |
+| Verbal | Healthy | Confident | Dominant |
+| Ambitious | Original | Poised | Leisurely |
+| Curious | Sharp-witted | Bold | Quick |
+| Artistic | Frank | Strong | Thoughtful |
+| Courageous | Obliging | Broadminded | Informal |
+| Energetic | self-confident | Warm | Practical |
+| Mature| Friendly | Cool | strong-minded |
+| Relaxed | open-minded | Accurate | Wise |
+| Unaffected | self-controlled | Considerate | Academic |
+| Humorous | Generous | Aggressive | Adventurous |
+| Patient | Opportunistic | Flexible | Adaptable |
+| Spontaneous | Sensible | Deliberate | Determined |
+| Uninhibited | Gentle | Efficient | Eager |
+| fair-minded | good-natured | Logical | light-hearted |
+| Methodical | Optimistic | Tolerant | Quiet |
+| Reliable | Organized | Wholesome | Unassuming |
+| Sensitive | Industrious | Understanding | Serious |
+| Polite | far-sighted | Capable | Reserved |
+| Meticulous | Conservative | Likable | Calm |
+| Businesslike | Active | Unexcitable | Easygoing |
+| Affectionate | Firm | Charming | Resourceful |
+| Mild | Careful | Tough | Cautious |
+| Conscientious | Rational | Attractive | 
 
-One technique that may sound a little silly, but really works for a lot of people (especially when anxiety thought loops are impacting sleep) is to write down the things you are worried about, place that list in your shoe and say “I’ll deal with you again tomorrow”. You may find you sleep a little easier knowing that your worries won’t be lost. and, often, looking at the list again in the morning with a fresh set of eyes makes it seem a little less overwhelming.
 
-###  R.A.I.N. 
-This is a more extensive mindfulness technique, which utilizes Noticing and Naming as well as some of the other techniques we have discussed in previous chapters. It can take a little longer but can be worth it if you are feeling really stuck.
+Now for looking at your list think of an example of when you utilized one of those strengths
 
-- R: Recognize what is going on 
-- A: Allow for your worried thoughts to be as they are 
-- I: Investigate with kindness and self compassion 
-- N: Non-Identification/ Non-attachment. Understand that your thoughts and feelings don’t define you 
+For example
 
-[See appendix for guided meditation](http://www.mindful.org/tara-brach-rain-mindfulness-practice/){:target="_blank"} 
+- “I am considerate of others and today on the bus I gave up my seat to a pregnant woman”
+- “I am persistent and I kept checking in about that job I was interested in, even though they were always slow getting back to me, but eventually got an interview scheduled’
+
+Now think of examples of times you have used at least 3 of the strengths you listed. Pick one of those memories think about it for a few moments and ask yourself &hellip;
+
+- What happened?
+- How did you feel when it happened?
+- As you think about this event, notice your body. what are you feeling and where?  
+- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
+- Did anyone notice reflect back that strength or accomplishment?
+- If so, how did that feel?
+
+## Personal Values
+Values can be understood as the very best of how we see ourselves. Values are a critical part of how we make important changes in our lives. It is easy to become out of touch with our values and sometimes we hold on to values that no longer accurately reflect who we are, or maybe were never our values to begin with, but someone else’s values we took on. 
+
+Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  
+
+It is also helpful to know that your strengths are very much a part of your past experiences and values.  
+
+For example, if one of your strengths is that you are a fair person, you might have an underlying value for justice.  The strength of being fair can be a way to live that value in action. 
+
+Take a few moments to reflect on what values are important to you and list them below (If you are having trouble thinking of any, take a look at the values list on the next page) As you do this try to withhold judgment and pick the values that resonate with you, as apposed to the ones you believe you should have. 
+
+Now take a look at the list and rank them in order of importance to you. Write your top 3 values down 
+
+Our strengths often reflect or are tied to the values we hold. 
+Values List
+
+
+| ACHIEVEMENT 		| ADVANCEMENT  	 	|
+| ADVENTURE   		| AESTHETICS       	|
+| AUTONOMY    		| CARING           	|
+| CHALLENGE   		| CHANGE & VARIETY 	|
+| COMPETITION 		| COOPERATION      	|
+| CREATIVITY  		| SECURITY         	| 
+| FAMILY HAPPINESS 	| HEALTH 			|
+| HELP OTHERS 		| HELP SOCIETY 		|
+| HONESTY 			| INNER HARMONY 	|
+| INTEGRITY 		| INTELLECTUAL 		|
+| STABILITY 		| TRUST 			|
+| KNOWLEDGE 		| LEADERSHIP 		|
+| LEISURE 			| LOCATION 			|
+| LOYALTY 			| PLEASURE 			|
+| POWER 			| PRECISION 		|
+| RESPONSIBILITY 	| RECOGNITION 		|
+| STABILITY 		| SPIRITUALITY 		|
+| TIME FREEDOM 		| WEALTH 			|
+| WISDOM 			| 					|
+
 
 <hr/>
 # Practice
+1) Take a few moments every identify one challenge you faced and what strengths you had to call upon to face that challenge.  
 
-<h4>Think about your distorted thinking</h4>
-Pay attention to you’re your negative thoughts and feelings throughout the day and take time to write them down. Its often easier to start with the feeling and Once you’ve identified what you’re feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations. The last step in this exercise is to look at the types of distorted thing and see if any of them are present in your thinking. 
-
-<h4>Try out some strategies</h4> 
-When you become aware of an anxious thought, pick one of the 4 strategies described to chal-lenge them and try to apply it.  Take a moment to note how well it worked. 
-
+Example sitting in traffic coming back from work, patience 
