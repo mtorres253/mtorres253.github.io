@@ -2,7 +2,7 @@
 layout: default
 title: Reframing
 ---
-<p class="type">Chapter 7</p>
+<p class="type">Chapter 10</p>
 
 # Reframing 
 The Meaning We Assign Things

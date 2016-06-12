@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Harnessing your Strengths and Staying Connected to your Values
+title: Harnessing your Strengths
 ---
 <p class="type">Chapter 6</p>
 
-# Harnessing your Strengths and Staying Connected to your Values 
+# Harnessing your Strengths
 
 ## Strengths
 Beyond your coping skills, you have a set of traits totally unique to you that help you overcome challenges and allow you to thrive in the world. In times of stress it’s easy to lose sight of these strengths, but it’s important to remember that no matter what, even if you haven’t called upon them in a long time, they are an inherent part of who you are. Sometimes the simple act of reminding yourself of your strengths can pull you out of despair and reenergize you to begin moving forward again.
@@ -75,43 +75,6 @@ Now think of examples of times you have used at least 3 of the strengths you lis
 - Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress.  
 - Did anyone notice reflect back that strength or accomplishment?
 - If so, how did that feel?
-
-## Personal Values
-Values can be understood as the very best of how we see ourselves. Values are a critical part of how we make important changes in our lives. It is easy to become out of touch with our values and sometimes we hold on to values that no longer accurately reflect who we are, or maybe were never our values to begin with, but someone else’s values we took on. 
-
-Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  
-
-It is also helpful to know that your strengths are very much a part of your past experiences and values.  
-
-For example, if one of your strengths is that you are a fair person, you might have an underlying value for justice.  The strength of being fair can be a way to live that value in action. 
-
-Take a few moments to reflect on what values are important to you and list them below (If you are having trouble thinking of any, take a look at the values list on the next page) As you do this try to withhold judgment and pick the values that resonate with you, as apposed to the ones you believe you should have. 
-
-Now take a look at the list and rank them in order of importance to you. Write your top 3 values down 
-
-Our strengths often reflect or are tied to the values we hold. 
-Values List
-
-
-| ACHIEVEMENT 		| ADVANCEMENT  	 	|
-| ADVENTURE   		| AESTHETICS       	|
-| AUTONOMY    		| CARING           	|
-| CHALLENGE   		| CHANGE & VARIETY 	|
-| COMPETITION 		| COOPERATION      	|
-| CREATIVITY  		| SECURITY         	| 
-| FAMILY HAPPINESS 	| HEALTH 			|
-| HELP OTHERS 		| HELP SOCIETY 		|
-| HONESTY 			| INNER HARMONY 	|
-| INTEGRITY 		| INTELLECTUAL 		|
-| STABILITY 		| TRUST 			|
-| KNOWLEDGE 		| LEADERSHIP 		|
-| LEISURE 			| LOCATION 			|
-| LOYALTY 			| PLEASURE 			|
-| POWER 			| PRECISION 		|
-| RESPONSIBILITY 	| RECOGNITION 		|
-| STABILITY 		| SPIRITUALITY 		|
-| TIME FREEDOM 		| WEALTH 			|
-| WISDOM 			| 					|
 
 
 <hr/>
