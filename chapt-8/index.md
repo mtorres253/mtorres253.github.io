@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Goal Attainment
+title: Putting Intentions into action 
 ---
 <p class="type">Chapter 8</p>
 
-# Goal Attainment 
+# Putting Intentions Into Action 
 
 The long view, small steps and positive emotions  
 
@@ -20,22 +20,6 @@ We talk a lot about goals, but most people think of them only in a practical sen
 When you feel it’s far away, you can use that visualization to give you strength 
 
 
-
-Creating the vision:
-
-Find a quiet place where you won't be disturbed. Close your eyes and take a few deep breaths now think of what you would like your life to look like at a given point in the future. 6 months, one year, 5 years. 
-Visualize the situation you desire in your mind as clearly and with as much detail as you can.
-Notice the emotions, feelings as you hold that vision.
-
-Setting intention:
-
-Sometimes when you don’t have a specific future goal, I find it can be helpful to set an intention to help you be more mindful of what you are working towards.  A good way to this is to think of your life as book and start by thinking about the most recent period of your life and asking yourself, “what would I name that chapter?” 
-After you have come up with one, think about what you would like to call the next chapter of your life. Just close your eyes and see what comes to mind. 
-
-Someone who had be through a difficult break up and job loss, named the period he had just been through, “ One step forward and two steps back” and decided he would like the next chapter to be titled “a gentler life”
-
-This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past. 
-
 The challenge with long term goals is that they can feel overwhelming and keep us focused on the future rather than present Also, If we become too attached we may not adapt to changing circumstances. That is where attainable goals come in 
 
 ## Attainable Goals
@@ -48,6 +32,7 @@ Focusing on accomplishing and taking notice of small, manageable goals can he he
 - It can give us something to focus on and provide us with a sense of reward
 
 It is important to celebrate small successes. Remember, Just accomplishing one task can start to change a situation in a big way. 
+
 
 <div class="story">
 <p>I recently did an open water swim for a cause that is very personal to me. As I set out to cross the bay there was a lot of cheering and excitement, but as the initial rush died down, I started to take in the vast stretch of water ahead and the orange banner way off in the distance marking the finish line. The task at hand suddenly felt daunting. I noticed that spending too much time looking at the finish line kept me from being present and I was still far enough away that visually it didn’t seem to be getting any closer.</p> 
@@ -70,7 +55,24 @@ Having a better understanding of what we value can help us select attainable goa
 
 For example, you might value compassion and that will help you follow through with volunteering at the local food bank this week, or valuing health and well being can support your efforts to go to the gym consistently.
 
-Putting it all together: Strengths, values, and attainable goals
+# Now Try it 
+
+## Creating the vision:
+
+Find a quiet place where you won't be disturbed. Close your eyes and take a few deep breaths now think of what you would like your life to look like at a given point in the future. 6 months, one year, 5 years. 
+Visualize the situation you desire in your mind as clearly and with as much detail as you can.
+Notice the emotions, feelings as you hold that vision.
+
+## Setting intention:
+
+Sometimes when you don’t have a specific future goal, I find it can be helpful to set an intention to help you be more mindful of what you are working towards.  A good way to this is to think of your life as book and start by thinking about the most recent period of your life and asking yourself, “what would I name that chapter?” 
+After you have come up with one, think about what you would like to call the next chapter of your life. Just close your eyes and see what comes to mind. 
+
+Someone who had be through a difficult break up and job loss, named the period he had just been through, “ One step forward and two steps back” and decided he would like the next chapter to be titled “a gentler life”
+
+This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past. 
+
+The challenge with long term goals is that they can feel overwhelming and keep us focused on the future rather than present Also, If we become too attached we may not adapt to changing circumstances. That is where attainable goals come in 
  
 ## Setting and Achieving Attainable goals
 
