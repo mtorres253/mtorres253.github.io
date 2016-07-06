@@ -19,7 +19,7 @@ Take a few moments to reflect on what values are important to you and list them 
 
 Now take a look at the list and rank them in order of importance to you. Write your top 3 values down 
 
-Our strengths often reflect or are tied to the values we hold. 
+
 Values List
 
 
