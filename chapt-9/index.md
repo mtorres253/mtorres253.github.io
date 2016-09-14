@@ -61,7 +61,7 @@ This is a more extensive mindfulness technique, which utilizes Noticing and Nami
 [See appendix for guided meditation](http://www.mindful.org/tara-brach-rain-mindfulness-practice/){:target="_blank"} 
 
 <hr/>
-# Practice
+# Make it a Habit
 
 <h4>Think about your distorted thinking</h4>
 Pay attention to you're your negative thoughts and feelings throughout the day and take time to write them down. Its often easier to start with the feeling and Once you've identified what you're feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations. The last step in this exercise is to look at the types of distorted thing and see if any of them are present in your thinking. 
