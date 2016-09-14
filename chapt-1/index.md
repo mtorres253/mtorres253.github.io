@@ -117,7 +117,7 @@ Shifting away from a distraction coping strategies we have learned to rely on, c
 There will always be stressors, but they way we deal with them can be a choice. The more we practice coping strategies, the more it becomes second nature. 
 
 <hr/>
-# Practice 
+# Make it a Habit 
 
 <h4>Know your stressors</h4>
 Take time to think about your current stressors.
