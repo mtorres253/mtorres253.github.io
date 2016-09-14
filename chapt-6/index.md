@@ -78,7 +78,7 @@ Now think of examples of times you have used at least 3 of the strengths you lis
 
 
 <hr/>
-# Practice
+# Make it a Habit
 1) Take a few moments every identify one challenge you faced and what strengths you had to call upon to face that challenge.  
 
 Example sitting in traffic coming back from work, patience 
