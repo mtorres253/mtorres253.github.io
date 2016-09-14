@@ -93,7 +93,7 @@ Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.hereto
 - Make a plan/ Create new opportunities:  Figure out what support you need and figure out how you might find it. Think about stepping out of your usually activities.
 
 <hr/>
-# Practice
+# Make it a Habit
 
 Think about a stressful situation or challenge you are currently facing
 Identify what support would be helpful and who in your life could provide it
