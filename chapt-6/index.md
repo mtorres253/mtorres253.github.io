@@ -6,7 +6,6 @@ title: Harnessing your Strengths
 
 # Harnessing your Strengths
 
-## Strengths
 Beyond your coping skills, you have a set of traits totally unique to you that help you overcome challenges and allow you to thrive in the world. In times of stress it’s easy to lose sight of these strengths, but it’s important to remember that no matter what, even if you haven’t called upon them in a long time, they are an inherent part of who you are. Sometimes the simple act of reminding yourself of your strengths can pull you out of despair and reenergize you to begin moving forward again.
 
 The more you’re aware of your strengths, the more you will be able to put them into practice.
