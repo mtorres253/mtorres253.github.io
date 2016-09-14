@@ -60,7 +60,7 @@ Deepen this exercise by adding these questions after you are able to fully pull 
 - What do I have to let go of to make room for more opportunities like this? 
 
 <hr/>
-# Practice 
+# Make it a Habit  
 
 Keep a record of the good
 Take a few moments every day (right before bed can be a good time) to think of at least one good moment in your day. 
