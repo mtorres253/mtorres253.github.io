@@ -65,18 +65,6 @@ Keep in mind that attainable goals have four characteristics:
 - Have a definite end point: You should know when the goal has been successfully completed.
 
 Tip: it’s easy to get stalled on one goal and then start to feel defeated. When noticing that you are finding it hard to get started on one goal, look at your list and find the one that energizes you most when you think about it and move on to that one. Completing one goal often will give you enough of a boost to go back and start on the one you were putting off.
-### Fuel for your goals 
-
-Our strengths can help us accomplish our goals and our values can help us persist in reaching toward our goals, as long as our goals reflect our values 
-
-When thinking about possible attainable goals to set for yourself, it is helpful to think about your personal strengths. How may your personal strengths help in attaining the goals you set? 
-
-For example, you set a goal to go to a bootcamp with a friend three days a week.  Your personal strengths include, reliability and likebility.  Being reliable helps you get yourself out of bed on mornings when it would be easy to turn the alarm off and go back to sleep and being likable helps you connect with other people at boot camp who in turn encourage you to keep going back.  
-
-Having a better understanding of what we value can help us select attainable goals that are consistent with those values.  When attainable goals are ways of living our values in action, they have a broader sense of meaning and purpose.  We see how attainable goals reflect the very best of who we are and who we want to become.  Having a sense of how a goal reflects your values makes it easier to pursue.   
-
-For example, you might value compassion and that will help you follow through with volunteering at the local food bank this week, or valuing health and well being can support your efforts to go to the gym consistently.
-
 
 ### Strengths and Values: Fuel for your goals 
 
