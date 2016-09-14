@@ -6,7 +6,6 @@ title: Staying Connected to your Values
 
 # Staying Connected to your Values
 
-## Personal Values
 
 Values constitute a critical part of how you make important changes in your life. They are your judgment of what is most important in life and what you believe in. It is easy to become out of touch with your values and you may be holding on to values that no longer accurately reflect who you are. Sometimes they were never your values to begin with, but someone else’s values you took on. When you don’t align with our values you feel less authentic and less motivated.
 
