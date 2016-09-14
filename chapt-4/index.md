@@ -20,7 +20,7 @@ Studies have even shown a link between gratitude and health (Hill, PL, Allemand 
 </div>
 
 <hr/>
-# Practice
+# Make it a Habit
 
 Keep a grattitude journal.
 
