@@ -56,6 +56,6 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
 
 <hr/>
-# Practice 
+# Make it a Habit 
 1. Identify a current stressor or challenge and use the problem solving steps to generate a solution. 
 2. Put the plan into action
