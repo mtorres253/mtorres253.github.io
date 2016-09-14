@@ -50,7 +50,7 @@ What happened? (Remember to keep it small!)
 Sometimes it is really hard to reframe a serious stressful event and such reframes may take some time. In the meantime realizing that sometimes things just suck may be helpful.  While at these times, we know that we cannot actually change certain things, part of what this practice may help you do is become better at dealing with them, feeling better, and perhaps, having the capacity to better cope with stress.
 
 <hr/>
-# Practice
+# Make it a Habit 
  **Try some reframes this week**
  
 Each day think of one negative or stressful thing that happened then practice positive or neutral reframe regarding that event:
