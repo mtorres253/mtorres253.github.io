@@ -101,7 +101,7 @@ However, just as having compassion towards others motivates you to help them and
  - Understanding your mistakes in the larger context.
 
 <hr/>
-# Practice
+# Make it a Habit
 
 1. Pick one activity to do more mindfully over the next week
 2. Devote 10 minutes a day to a formal mindfulness activity
