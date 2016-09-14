@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Putting Intentions into action 
+title: Intentions and action 
 ---
 <p class="type">Chapter 8</p>
+
+# Intentions and Action
 
 The long view, small steps and positive emotions  
 
 In this chapter we are going to focus on goals. We spend a lot of time talking about goals, but most people think of them only in a practical sense. Here we are going to focus on their emotion-al impact as well. 
 
-# Putting Intentions Into Action 
+## Setting Intentions and creating a plan 
 
 It is important to have a long term vision because it can act as a motivator and give us a sense of purpose. However, in order to get there, we need milestones along the way.
 
