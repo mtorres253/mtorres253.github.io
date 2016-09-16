@@ -40,7 +40,8 @@ When you are ready, prepare to chew the raisin, noticing how and where it needs 
 When you feel ready to swallow the raisin, see if you can first detect the intention to swallow as it comes up, so that even this is experienced consciously before you actually swallow the raisin.
 
 # Formal Mindfulness
-Breath awareness and meditation 
+Breath awareness and meditation
+
 Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
 
 Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
