@@ -24,7 +24,7 @@ Think about something that you did, or something that happened to you, that was 
 ### Turning up the volume by extending or amplifying the event 
 Noticing the positive moments is powerful in itself, but, to really maximize the benefit of a positive experience, it is important to amplify or extend it by taking time to savor it, writing it down, spending time re-experiencing it in your mind, or telling someone about it.
 
-One way to think about it is that you are "turning up the volume" on a positive event. Research has found that people who take time to amplify positive events in this way tend to have more positive emotion overall and more adaptive forms of coping with stress. I also think of it as a way to get the most mileage out of your positive experiences.
+Research has found that people who take time to amplify positive events in this way tend to have more positive emotion overall and more adaptive forms of coping with stress. I also think of it as a way to get the most mileage out of your positive experiences.
 
 Think about the event you just came up with.  
 
