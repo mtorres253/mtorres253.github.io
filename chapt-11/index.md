@@ -55,44 +55,11 @@ A regular volunteer commitment can be especially helpful at times when we have l
 Another way of practicing kindness is through meditation. Through the process of meditation, you can connect with you positive intentions and feelings for another person as well as you positive intentions and feelings for yourself.   
 
 ## Loving Kindness Meditation
+
 This meditation is slightly different from those we have practiced thus far. It is a "friendliness" or compassion practice that involves developing a kinder, gentler attitude toward ourselves and others. 
+It is meant to help us tap into a selfless place. It does not depend on relationships, on how the other person feels about us. The process is first one of softening, breaking down barriers that we feel inwardly toward ourselves, and then those that we feel toward others. Practicing this medita-tion has been found to have a variety of benefits, increasing empathy and compassion, and helped people better connect with positive emotions http://www.ncbi.nlm.nih.gov/pubmed/18954193 
 
-It is meant to help us tap into a selfless place. It does not depend on relationships, on how the other person feels about us. The process is first one of softening, breaking down barriers that we feel inwardly toward ourselves, and then those that we feel toward others. 
-Find a quiet place and settle into a comfortable posture
-One of the aims in this meditation is to feel good, so make your posture relaxed and comfortable. 
 
-### Turn attention to the breath
-Begin to focus around the solar plexus, your chest area, your “heart center”. Breathe in and out from that area, as if all experience is happening from there. Anchor your mindfulness only on the sensations at your heart center.
-
-### Focus inward
-Breathing in and out from the heart center, begin by generating this kind feeling toward yourself. Feel any areas of mental blockage or numbness, self-judgment, self-hatred. 
-
-Continuing to breathe in and out, use either these traditional phrases or ones you choose yourself. Say or think them several times. 
-May you be safe and protected
-May you be happy
-May you be peaceful
-May you live with ease
-
-Shift your Focus outward: Now move to a person you regard as a dear friend and repeat the phrases again, breathing in and out of your heart center. 
-May you be safe and protected
-May you be happy
-May you be peaceful
-May you live with ease
-
-Now move to someone you have difficulty with–hostile feelings, resentments. Repeat the phrases for this person. If you have difficulty doing this, you can say before the phrases, “To the best of my ability I wish that you be….” If you begin to feel ill will toward this person, return to the dear friend you have strong feelings of caring towards and let the loving kindness arise again. Then return to this person.
-
-Let the phrases spread through your whole body, mind, and heart. 
-After the difficult person, radiate loving kindness out to all beings. Stay in touch with the ember of warm, tender loving-kindness at the center of your being, and begin to visualize or engender a felt sense of all living beings.  
-May all living beings be safe and protected
-May you be happy
-May you be peaceful
-May you live with ease
- 
-Allow the phrases to be simply a conduit for the force of loving-kindness. Empower your imagination through the five phrases to touch the hearts of all forms of life in the universe, unconditionally and inclusively. 
-
-Stay with all beings until you feel a personal sense of the interconnectedness of all creatures, all life.
-
-Take a moment to receive these wishes. Whenever you are ready, you may allow your eyes to open.
 
 <hr/>
 # Make it a Habit 
