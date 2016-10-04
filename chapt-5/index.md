@@ -58,4 +58,5 @@ It takes time, but even taking a few minutes to do a brief version of this can b
 <hr/>
 # Make it a Habit 
 1. Identify a current stressor or challenge and use the problem solving steps to generate a solution. 
-2. Put the plan into action
+2. Be sure to be as creative as possible when brainstorming.
+3. Put the plan into action and see how it goes
