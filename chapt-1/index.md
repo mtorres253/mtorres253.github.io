@@ -64,13 +64,16 @@ For a stressor or worry which is changeable or one you have some control over, t
 Problem-Focused Coping  
 Things we do (thoughts or actions) to remove or reduce the intensity of the stressor 
 
-These include:
+Problem-focused coping involves utilizing a set of practical strategies that target the cause of stress and aim to either eliminate or significantly diminish the problem or stress-ful situation. The advantage of problem-focused coping is that it directly addresses the stressor and ideally takes care of it so it is not a problem in the future. However problem focused-coping is most effective when the stressor is changeable.
+
+Problem-Focused Strategies include:
 
 - Problem solving:
-  - A systematic approach to defining a problem
+  - defining a problem
   - Clarifying a desired outcome
-  - A rational exploration and evaluation of potential solutions (i.e., brainstorming). 
-  - Identification and implementation of a solution.
+  - Rationally exploring and evaluating potential solutions: Brainstorming. 
+  - Identifying and implementing a solution.
+  I will get into more details about Problem-solving in Chapter 5
 - Information seeking:
   - Asking around
   - Researching online
@@ -78,8 +81,6 @@ These include:
   - Getting help with finding solutions and implementing them 
 - Communication:
   - Asking for what you need 
-
-I will get into more details about Problem-solving in the next chapter.
 
 ## Emotion-Focused Coping
 Things we do (thoughts and actions to decrease the distress you feel about the situation without necessarily altering or removing the actual stressor. (Folkman, et al., 1991) 
