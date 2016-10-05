@@ -31,3 +31,5 @@ a noticeable difference in their workday.
 This exercise helps bring more awareness to the good things that you otherwise might not necessarily note. It doesn’t have to be a new thing every day. Feel free note more than one per day if you think of more than one. The goal of this exercise is to spend a few minutes each day reflecting on the things you have in your life to be grateful for.
 
 When practicing gratitude, it is important that you note things you are actually grateful for and not things you think you “should” be grateful for and that you don’t turn into a way to beat yourself up. For example thinking, “ I’m a terrible person for being upset that it took so long to get seated in the restaurant when there are people starving in the world.” I refer to this as weaponizing gratitude against yourself. 
+
+# Learn More
