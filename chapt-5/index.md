@@ -10,13 +10,12 @@ Making clear and well thought out decisions can be a struggle. Life these days s
 Whether we are considering a life changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress. This is why it can really help to have a structured framework for making decisions.
 
 ## Knowing what you can manage
-By systematically analyzing our ability to cope with the stress/anxiety of carrying out a potential solution, we are able to feel confident in putting the plan into action.  This is referred to as coping confidence.
+By systematically analyzing our ability to cope with the stress/anxiety of carrying out a potential solution, we are able to feel confident in putting the plan into action.  This is referred to as cop-ing confidence.  
 
-An important question to consider when thinking about potential solutions to a challenge is whether or not you are prepared to emotionally tolerate the stress and/or anxiety related to acting out the chosen solution. It helps to pay increased attention to our own strengths and limitations in coping with and managing anxiety.
+An important question to consider when thinking about potential solutions to a challenge is whether or not you are prepared to emotionally tolerate the stress and/or anxiety related to acting out the chosen solution. It helps to pay increased attention to your own strengths and limitations in coping with and managing anxiety. Someone who isn’t particularly sensitive to temperature and climate, would have a very different ability to cope with moving to Wisconsin for a job, than someone who feels depressed and unmotivated by cold weather.  Individual differences in coping need to be considered for solid problem solving. 
 
-Example: Paul loves cold weather, therefore has a very different ability to cope with moving to Wisconsin for a job, as opposed to Tom who feels depressed and unmotivated by cold weather.  Individual differences in coping need to be considered for solid problem solving.  
+Conscious decision-making can help prevent unintended side effects of putting a plan into action because we are more aware and prepared for the emotional impact of enacting the plan. 
 
-Conscious decision-making can help prevent unintended side effects of putting a plan into action because we are more aware and prepared for the emotional impact of enacting our plan. It 
 
 ## Problem solving steps
 
