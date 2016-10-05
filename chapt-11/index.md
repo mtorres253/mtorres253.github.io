@@ -59,7 +59,7 @@ Another way of practicing kindness is through meditation. Through the process of
 This meditation is slightly different from those we have practiced thus far. It is a "friendliness" or compassion practice that involves developing a kinder, gentler attitude toward ourselves and others. 
 It is meant to help us tap into a selfless place. It does not depend on relationships, on how the other person feels about us. The process is first one of softening, breaking down barriers that we feel inwardly toward ourselves, and then those that we feel toward others. Practicing this medita-tion has been found to have a variety of benefits, increasing empathy and compassion, and helped people better connect with positive emotions http://www.ncbi.nlm.nih.gov/pubmed/18954193 
 
-[Loving Kindness Meditaion](http://www.mettainstitute.org/mettameditation.html)
+[Loving Kindness Meditaion](http://www.contemplativemind.org/practices/tree/loving-kindness)
 
 
 <hr/>
