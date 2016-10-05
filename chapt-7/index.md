@@ -75,5 +75,5 @@ Here are some examples of how:
 At some point toward the end of the day, maybe after work or as you get ready for bed,  consider how you lived out each of these values and where you found yourself struggling. Think about what got in the way. 
 What is important is that you are noticing these things, and over time, you’re going to be more aligned with your values and will feel better. 
 
-
+# Learn More
 
