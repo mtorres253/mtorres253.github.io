@@ -97,9 +97,9 @@ We are often better at having compassion for others than for ourselves. Why is t
 However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
  Self compassion is:
- - Having empathy for yourself and understanding of your own suffering. 
- - Sitting with your own imperfection.
- - Understanding your mistakes in the larger context.
+- Having empathy for yourself and understanding of your own suffering.
+- Sitting with your own imperfection.
+- Understanding your mistakes in the larger context.
 
 <hr/>
 # Make it a Habit
