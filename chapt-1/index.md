@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anxiety, Stress and Coping Skills
+title: Anxiety, Stress and Coping
 ---
 <p class="type">Chapter 1</p>
 
