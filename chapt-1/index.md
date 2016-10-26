@@ -4,7 +4,7 @@ title: Anxiety, Stress and Coping
 ---
 <p class="type">Chapter 1</p>
 
-# Anxiety, Stress and Coping Skills 
+# Anxiety, Stress and Coping
 Stress as well as some level of anxiety and worry are a natural and important part of life. They can help us identify areas of concern, know when we are in potential danger and, at times, motivate us to make changes in our lives. The challenge is that if we aren't dealing with our stress (being mindful of it and working with it in a productive way) it can take on a life of its own, causing all sorts of difficulties that impact both emotional and physical health and our ability to effectively function in day to day life. The following tools can help you deal with the stress and anxiety in your life more effectively and keep it from having a negative impact.
 
 ## Step 1 Recognition: Notice your stress
