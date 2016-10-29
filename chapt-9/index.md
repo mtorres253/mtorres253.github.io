@@ -25,7 +25,7 @@ Below are some examples of common forms of distorted thinking:
 - Catastrophizing: Overestimating the chances of disaster, automatically going to the worst case scenario 
 - Polarized Thinking: Thinking in black and white terms (e.g., things are right or wrong, good or bad). A tendency to view things at the extremes with no middle ground. This is also referred to as "All or nothing thinking"
 - Mind reading: Making assumptions about other people's thoughts, feelings and behaviors without checking the evidence. Inferring based on assumptions 
-- Shoulds: Using "should", "ought", or "must" statements to set up unrealistic expectations of yourself and others. Operating by rigid rules and not allowing for flexibility.
+- Shoulds: Operating by rigid rules and not allowing for flexibility. Using "should", "ought", or "must" statements that set up unrealistic expectations of yourself and others
 
 ## We can limit ourselves based on negative beliefs 
 Part of what makes it hard to break away from these thoughts is that we may have gotten messages through our childhood reinforcing negative beliefs about ourselves and our abilities. This includes times we were told we couldn't accomplish something, that we were going to fail or we weren't good enough. 
@@ -33,8 +33,9 @@ Part of what makes it hard to break away from these thoughts is that we may have
 <div class="story">
 <p>There is a story I often think of about man who passed by an elephant encampment. He suddenly stopped, confused by the fact that these huge creatures were being held by only a small rope tied to their front leg. No chains, no cages. It was obvious that the elephants could, easily break away from these bonds, but for some reason, they did not.</p>
 <p>He saw a trainer nearby and asked why the elephants just stood there and made no attempt to get away. "Well, the trainer said, when they are very young and much smaller we use the same size rope to tie them and, at that age, it's enough to hold them. As they grow up, they are conditioned to believe they cannot break away. They believe the rope can still hold them, so they never try to break free".</p>
-<p>The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large. These messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place.</p>
 </div> 
+
+The messages we received, about limitations remain powerful well into our adulthood. Whether they came from parents and family, our experiences at school, or even from society at large. These messages get internalized and become part of our self-narrative. While some limitations are real, others are like the rope holding the elephants in place.
 
 ## Challenge Them!
 There are a variety of techniques that have been discovered to help disrupt these negative thought processes. Some work better in certain situations and for certain personality types. I suggest giving them all a try and seeing which is the best fit. 
@@ -50,8 +51,8 @@ It can help to mentally put the worrying thoughts away, by telling yourself some
 
 One technique that may sound a little silly, but really works for a lot of people (especially when anxiety thought loops are impacting sleep) is to write down the things you are worried about, place that list in your shoe and say "I'll deal with you again tomorrow". You may find you sleep a little easier knowing that your worries won't be lost. and, often, looking at the list again in the morning with a fresh set of eyes makes it seem a little less overwhelming.
 
-###  R.A.I.N. 
-This is a more extensive mindfulness technique, which utilizes Noticing and Naming as well as some of the other techniques we have discussed in previous chapters. It can take a little longer but can be worth it if you are feeling really stuck.
+###  R.A.I.N. meditation
+This is a more extensive mindfulness technique, which utilizes Noticing and Naming as well as some of the other techniques we have discussed in previous chapters. It can take a little longer but can be worth it if you are feeling really stuck. There are four steps to this meditation. 
 
 - R: Recognize what is going on 
 - A: Allow for your worried thoughts to be as they are 
@@ -63,8 +64,12 @@ This is a more extensive mindfulness technique, which utilizes Noticing and Nami
 <hr/>
 # Make it a Habit
 
-<h4>Think about your distorted thinking</h4>
-Pay attention to you're your negative thoughts and feelings throughout the day and take time to write them down. Its often easier to start with the feeling and Once you've identified what you're feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations. The last step in this exercise is to look at the types of distorted thing and see if any of them are present in your thinking. 
+Think about your distorted thinking
+- Pay attention to your negative thoughts throughout the day.
+- Take time to write them down. 
+- Its often easier to start with the feeling and once you’ve identified what you’re feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations.
+- Are you filtering, catastrophizing, polarizing, mindreading, being rigid or all of the above? 
+
 
 <h4>Try out some strategies</h4> 
 When you become aware of an anxious thought, pick one of the 4 strategies described to chal-lenge them and try to apply it.  Take a moment to note how well it worked. 
