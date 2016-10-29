@@ -45,10 +45,9 @@ It can be helpful to think of a relaxing word such as "calm" or "relax" and say 
 - Practice just doing this for a few moments 
 - Now see if you can pull up the positive event you identified earlier, 
 - As you think about this event or experience, notice your body. 
-- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress &hellip;
-- &hellip; 
+- Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress &hellip; 
 - Don’t worry if your mind starts to wander, just gently try to bring it back. 
-- As you continue to think about this positive event or experience, ask yourself: 
+- &hellip; As you continue to think about this positive event or experience, ask yourself: 
 - Where were you? 
 - Who else was with you?
 - What were you doing at the time?  
