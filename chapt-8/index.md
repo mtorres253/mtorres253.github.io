@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intentions and action 
+title:Intentions and action 
 ---
 <p class="type">Chapter 8</p>
 
