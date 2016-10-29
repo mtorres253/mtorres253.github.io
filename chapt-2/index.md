@@ -34,7 +34,7 @@ Think about the event you just came up with.
 - Stop and savor it?
 
 ### Now add a greater level of mindfulness to this exercise through Breath Awareness
-Breathing affects the way we feel. When someone is upset, they are told to, "take a deep breath and calm down." Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and helps you more fully experience positive feelings. In this next exercise we are going to add breath awareness technique to positive event recall. 
+Breathing affects the way we feel. When someone is upset, they are told to, “take a deep breath and calm down.” Deep, slow and steady breathing can actually slow your heart rate and open your diaphram, helping more oxygen get into the brain so you feel calmer and it helps you more fully experience positive feelings. In this next exercise we are going to add a breath awareness technique to positive event recall. 
 
 It can be helpful to think of a relaxing word such as "calm" or "relax" and say it to yourself silently and calmly as you exhale. 
 
@@ -46,7 +46,9 @@ It can be helpful to think of a relaxing word such as "calm" or "relax" and say 
 - Now see if you can pull up the positive event you identified earlier, 
 - As you think about this event or experience, notice your body. 
 - Be aware of any changes in your body, the way you feel emotionally, and/or any changes in your level of stress &hellip;
-- &hellip; As you continue to think about this positive event or experience, ask yourself: 
+- &hellip; 
+- Don’t worry if your mind starts to wander, just gently try to bring it back. 
+- As you continue to think about this positive event or experience, ask yourself: 
 - Where were you? 
 - Who else was with you?
 - What were you doing at the time?  
@@ -72,7 +74,7 @@ What were you feeling while the event was happening? 
 How did your body feel during the experience?  
 What about the event made you feel those feelings? 
 
-Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it's a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just wait until the end of the day to start thinking about the good things that have happened to you.
+Thinking of even one good thing to write about each night is not always easy. Many people have trouble with this exercise at first; it's a skill that gets easier with practice. Try to be on the lookout throughout the day for good things to write, maybe even take a moment to jot them down in your phone as they happen.  This not only increases the chances that you will both notice and remember positive events, but will make the exercise easier than it would have been had you just waited until the end of the day to start thinking about the good things that have happened to you.
 
 # Learn More
 [Meetu Khosla Positive Affect and Coping with Stress](http://medind.nic.in/jak/t06/i1/jakt06i1p185.pdf){:target="_blank"}
