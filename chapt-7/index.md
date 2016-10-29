@@ -9,7 +9,7 @@ title: Staying Connected to your Values
 
 Values constitute a critical part of how you make important changes in your life. They are your judgment of what is most important in life and what you believe in. It is easy to become out of touch with your values and you may be holding on to values that no longer accurately reflect who you are. Sometimes they were never your values to begin with, but someone else’s values you took on. When you don’t align with our values you feel less authentic and less motivated.
 
-Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  When the things you do and the way you act matches your values,  you are more satisfied and content 
+Values are often very personal in that they reflect how you were raised, your family, the culture you grew up in, the experiences you have had in your life, and often the very best of who you hope to become.  When the things you do and the way you act matches your values,  you are more satisfied and content.
 
 Your strengths often reflect or are tied to the values you hold. 
 
@@ -17,9 +17,9 @@ For example, if one of your strengths is that you are a fair person, you might h
 
 #### Identify Your Personal Values
 
-Take a few moments to reflect on what values are important to you and record them below. As you do this try to withhold judgment and pick the values that resonate with you, as opposed to the ones you believe you should have. Included below are some examples of values in case you need help getting started.
+Take a few moments to reflect on what values are important to you and record them below. As you do this try to withhold judgment and pick the values that resonate with you, as opposed to the ones you believe you should have.  in case you need help getting started, I've included a list with some examples of examples of values.
 
-If they aren’t coming to you easily, try this exercise.
+If your values aren’t coming to you easily, try this exercise.
 Think of a time in your life when you felt most happy and fulfilled. Take a moment to visualize it.
 - Think about what you were doing then and how you were living. Ask yourself, 
 “How and why did this experience give me fulfillment and what was meaningful to me then.
@@ -55,7 +55,7 @@ Values List
 | WISDOM 			| &nbsp;			|
 
 
-Take a look at the list you have come up with and rank them in order of importance to you. Write your top values down 
+Take a look at the list you have come up with and rank your top three them in order of importance to you.
 
 1
 
@@ -69,11 +69,11 @@ Now that you have determined your top values, you can make a conscious decision 
 Here are some examples of how:
 - Make them your screensaver
 - Set a daily reminder in your phone
-- Place them on a piece of paper somewhere 
-- Some people like to use pictures to go with them
+- Place them on a piece of paper somewhere where you are likely to see them.
 
-At some point toward the end of the day, maybe after work or as you get ready for bed,  consider how you lived out each of these values and where you found yourself struggling. Think about what got in the way. 
-What is important is that you are noticing these things, and over time, you’re going to be more aligned with your values and will feel better. 
+
+At some point toward the end of the day, maybe after work or as you get ready for bed, consider how you lived out each of these values and where you found yourself struggling. Think about what got in the way. 
+It's important is that you are noticing these things, and over time, you’re going to be more aligned with your values and will feel better. 
 
 # Learn More
 
