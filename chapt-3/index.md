@@ -5,20 +5,19 @@ title: Mindfulness
 <p class="type">Chapter 3</p>
 
 # Mindfulness 
-I know there is a lot being written about mindfulness these days and it’s being touted as the solution to everything from relationship problems, to work performance, and illness. When I started working on this book, a close friend cautioned me to “be mindful of the trendiness of mindfulness”. With all that said, mindfulness has been shown to be very powerful and is an essential part of all of the skills in this book. Mindfulness is what helps us connect with our positive emotions and is essential in being able to sit with and work through the negative ones. 
+I know there is a lot being written about mindfulness these days and it’s being touted as the solu-tion to everything from relationship problems, to work performance, and illness. When I started working on this book, a close friend cautioned me to “be mindful of the trendiness of mindful-ness”. With all that said, there is a growing body of research showing that increased mindfulness helps us to better see and connect with positive feelings and experiences, allowing us to live happier lives. Mindfulness has also been found to help people be less reactive and more respon-sive and intentional when experiencing anxiety or stress. This in turn allows  for better decision making.  (Add John Cabot-Zinn UMass studies on anxiety, depression and mindfulness)  Mind-fulness helps us connect with our positive emotions and proves essential in being able to sit with and work through the negative ones. 
 
-Mindfulness involves a focused awareness of whatever is happening in the present moment without trying to change it, but instead simply noticing it for what it is, as it is. We can be mindful of our thoughts, feelings, and things going on around us. It’s about paying attention, in a particular way, on purpose, in the present moment with a non-judgmental and accepting attitude. One way to think about mindfulness is as being without doing.
+Mindfulness involves a focused awareness of whatever is happening in the present moment without trying to change it. We can be mindful of our thoughts, feelings, and things going on around us, by simply noticing what they are, as they are. It’s about paying attention, on purpose, in the present moment with a non-judgmental and accepting attitude. One way to think about mindfulness is as being without doing. 
 
 <div class="quote">“The past is history, the future is a mystery, but today is a gift &ndash; that’s why they call it ‘the present.'" &mdash; <i>Kung Fu Panda</i></div>
 
-# Informal Mindfulness 
-Being present in everyday life
+# Everyday Mindfulness 
+Being present as you go through your day
+Many tasks of daily life have the potential for enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help us appreciate the good things that are happening right now and decrease our sense of worry about the past or future. 
 
-We often find ourselves rushing through the activities of daily life on “autopilot” An entire day or week can go by without us ever stopping to take in what is going on.  Many tasks of daily life have the potential for bringing enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help you appreciate the good things that are happening right now and decrease your sense of worry about the past or future. 
+Take doing the dishes for example. Its really easy to see doing the dishes as only a chore we have to somehow get through, which can make it a stressful part of the day or something we avoid. But what if you take time to really be present in the activity of washing dishes, the sound of the running water, the feel of the warm suds, the way the dishes look when they are clean and the satisfaction you get from seeing the sink empty again? It will allow for a very different experi-ence. 
 
-Take doing the dishes for example. Its really easy to see doing the dishes as only a chore we have to somehow get through, which can make it a stressful part of the day or something we avoid. But what If you take time to really be present in the activity of washing dishes,  the sound of the running water, The feel of the warm suds, the way the dishes look when they are clean, the satisfaction you may get from seeing the sink empty again, it probably will be a very different experience. 
-
-A friend of mine with a busy career and 3 young children says since they started practicing increased mindfulness, her and her husband now debate over who gets to do the dishes because it has become one of the more relaxing parts of their day. 
+A friend of mine with a busy career and three young children says since she started practicing increased mindfulness, she and her husband now debate over who gets to do the dishes because it has become one of the more relaxing parts of their day. 
 
 ### The raisin exercise
 
@@ -44,11 +43,11 @@ Breath awareness and meditation
 
 Spending dedicated time working on mindfulness through formal practice can help us to experience increased mindfulness in our daily activities. Just the act of focusing on breath is way of being more fully in the present moment.
 
-Breathing is a fundamental aspect of human life. We all breathe many thousands of times every day, but how often are we really aware of our breath?
+Breathing is a fundamental aspect of human life. We all breathe 20 to 30 thousand of times every day, but how often are we really aware of our breath?
 
 Paying attention to the breath can be a simple way for us to begin to be more fully present and aware. 
 
-Your breathing can become quicker and more shallow when anxious leading to a sense of panic or feeling like something is very wrong physically, that you are having a heat attack or about to die.
+Our breathing can become quicker and more shallow when we are anxious, leading to a sense of panic or feeling like something is very wrong physically, that we are having a heart attack or are about to die.
 
 When we are upset or stressed out, spending a few moments with the breath can have a calming effect on the body &mdash; and therefore can allow us time to decide how to respond to the unpleasant person or event, without having to react right away.
 
@@ -59,19 +58,17 @@ These days there are lots of tools available for mindfulness meditations. There 
 - Find a quiet place where you will not be disturbed for the 10 minutes (turn off your phone, close the door, etc.).
 - Sit in the floor or in a chair, whichever is more comfortable for you. You can be in tradi-tional cross-legged posture or in any other position that is comfortable. The most im-portant thing is to keep your back straight, helping create and alert posture.
 
-
 #### Turn attention to the breath
 - Sit with your eyes open or closed (whichever feel more natural) and turn you attention to your breath. Breathe naturally, preferably through your nostrils, without attempting to control your breathing.
 - Focus on the sensation of the breath as it enters and leaves your nostrils. This sensation is the primary focus of the meditation. Try focus on it fully
 - It is not about trying to breathe deeply or changing your breathing in any way-simply. You just let your body breathe the way it naturally does.
 - There is no particular way your body is supposed to feel. Observe your body as it breathes, allow your experience to be just as it is, without judging or needing to change 
 
-
 #### Your mind may seem busier
-- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
+- At first, your mind may be very busy, and you might even feel that the meditation is making your mind busier; but in what is really happening is that you are becoming more aware of how busy your mind actually is.
 - There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
 
-#### Gently keep your focus on Breath 
+#### Gently keep your focus on breath 
 - As you sit focusing on the breath, inevitably your mind will wander off. This is natural; it is simply what our minds are in the habit of doing.
 - When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. 
 
@@ -79,22 +76,17 @@ These days there are lots of tools available for mindfulness meditations. There 
 # Acceptance
 Allowing for thoughts and feelings without judgment.
 
-One reason people find mindfulness practice and being more in the present challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. This is why it important for us to practice acceptance of these thoughts and feelings and to learn to be more compassionate with ourselves.
-- At first, your mind may be very busy, and it might even feel that the like the meditation is making your mind busier; but in what is really happening is you are just becoming more aware of how busy your mind actually is.
-- There will be a great temptation to follow the different thoughts as they arise. Just try to catch yourself and gently return to focusing on the sensation of the breath. 
- 
-Gently keep your focus on Breath 
-
-If we try to forcefully push our thoughts and feelings away/out of our minds, they tend to become stronger and can take up even more of our attention. 
+One reason people find mindfulness practice challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. If we try to forcefully push our thoughts and feelings away/out of our minds, they tend to become stronger and can take up even more of our attention. 
 
 Instead, we can practice just simply noticing that they are there--without feeling like we have to do anything about them. It can be helpful to imagine them as leaves on a stream, just floating along the surface. Some will just pass right by and others will get stuck on a rock or a root for a bit before eventually freeing itself and moving on. 
+As we practice acceptance of thoughts and feelings, we learn to be more compassionate with ourselves.
 
 # Self-compassion
 Being a supportive and caring friend to yourself
 
-We are often better at having compassion for others than for ourselves. Why is this? Some theorize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, where as there was no evolutionary benefit to being forgiving of ourselves.
+We are often better at having compassion for others than for ourselves. Why is this? Some theo-rize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, as there was no evolutionary benefit to being forgiving of ourselves. 
+However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself. Self-compassion is linked to overall well-being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
-However, just as having compassion towards others motivates you to help them and ease their suffering, self-compassion gives you permission to take a supportive, caring attitude towards yourself and motivates you to comfort yourself in times of distress. Self compassion is linked to overall well being. There is a growing body of research suggesting that self compassionate individuals suffer less and thrive more (see Barnard & Curry, 2011 for a review).
 
  Self compassion is:
 - Having empathy for yourself and understanding of your own suffering.
@@ -104,7 +96,7 @@ However, just as having compassion towards others motivates you to help them and
 <hr/>
 # Make it a Habit
 
-1. Pick one activity to do more mindfully over the next week
+1. Pick one activity to do more mindfully over the next week. Ideally one you do every day such as brushing your teeth, waiting for the bus, making dinner, walking to work. 
 2. Devote 10 minutes a day to a formal mindfulness activity
 
 ### Option A: Mediation CD
