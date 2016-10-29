@@ -5,8 +5,7 @@ title: Anxiety, Stress and Coping
 <p class="type">Chapter 1</p>
 
 # Anxiety, Stress and Coping
-Stress as well as some level of anxiety and worry are a natural and important part of life. They can help us identify areas of concern, know when we are in potential danger and, at times, motivate us to make changes in our lives. The challenge is that if we aren't dealing with our stress (being mindful of it and working with it in a productive way) it can take on a life of its own, causing all sorts of difficulties that impact both emotional and physical health and our ability to effectively function in day to day life. The following tools can help you deal with the stress and anxiety in your life more effectively and keep it from having a negative impact.
-
+Stress as well as some level of anxiety and worry are a natural and important part of life. They can help us identify areas of concern, know when we are in potential danger and, at times, moti-vate us to make changes in our lives. If we aren’t dealing with our stress (being mindful of it and working with it in a productive way) it can take on a life of its own, causing all sorts of difficul-ties that impact both emotional and physical health and our ability to effectively function in day to day life. The following steps can help you assess and address the stress and anxiety in your life more effectively to keep it from having a negative impact.
 ## Step 1 Recognition: Notice your stress
 
 Think for a moment &hellip;
@@ -26,7 +25,7 @@ When we are in stressful situations, our systems can get overwhelmed and we can 
 ## Step 2 Appraisal: Assess the Stress 
 
 ### The Source: What's it About?
-What is causing you to feel stressed, anxious or worried? Is it a concern about something in the future, or the impact of something that already happened or a situation you are currently dealing with. Sometimes we are experiences multiple stresses. 
+What is causing you to feel stressed, anxious or worried? Is it a concern about something in the future, or the impact of something that already happened or a situation you are currently dealing with. Sometimes we experience multiple stresses. 
 
 If you are worrying about something which hasn't actually happened yet, an important place to start is by asking yourself: How like likely is it?
 
@@ -42,7 +41,7 @@ If you are worrying about something which hasn't actually happened yet, an impor
 ## Significance and Controllability
 
 ### How big a deal is it?
-It can be easy to get overly worried about something that is unlikely to happen or may not have a great impact if it does, or overassign importance to something that happened in the past. It is important that the response to the stressor matches its significance. To help calibrate, ask yourself, on a scale from 1 to 10, how significantly will this impact me if it does happen? 
+It can be easy to get overly worried about something that is unlikely to happen or may not have a great impact if it does, or to overassign importance to something that happened in the past. It is important that the response to the stressor matches its significance. To help calibrate, ask yourself, on a scale from 1 to 10, how significantly will this impact me if it does happen? 
 
 
 <p class="number-continuum">
@@ -51,8 +50,8 @@ It can be easy to get overly worried about something that is unlikely to happen 
 
 
 
-### Is it in my Control?
-In order to effectively deal with a stressful situation, it is important to determine the extent to which it is changeable. Is changing it in your control.  
+### Is it in your Control?
+In order to effectively deal with a stressful situation, it is important to determine the extent to which it is changeable. Is changing it in your control? 
 
 Trying to change a situation which is out of our control will often increase our level of stress and anxiety. 
 
@@ -64,7 +63,7 @@ For a stressor or worry which is changeable or one you have some control over, t
 Problem-Focused Coping  
 Things we do (thoughts or actions) to remove or reduce the intensity of the stressor 
 
-Problem-focused coping involves utilizing a set of practical strategies that target the cause of stress and aim to either eliminate or significantly diminish the problem or stress-ful situation. The advantage of problem-focused coping is that it directly addresses the stressor and ideally takes care of it so it is not a problem in the future. However problem focused-coping is most effective when the stressor is changeable.
+Problem-focused coping involves utilizing a set of practical strategies that target the cause of stress and aim to either eliminate or significantly diminish the problem or stress-ful situation. The advantage of problem-focused coping is that it directly addresses the stressor and ideally takes care of it so it is not a problem in the future.
 
 Problem-Focused Strategies include:
 
@@ -73,7 +72,7 @@ Problem-Focused Strategies include:
   - Clarifying a desired outcome
   - Rationally exploring and evaluating potential solutions: Brainstorming. 
   - Identifying and implementing a solution.
-  I will get into more details about Problem-solving in Chapter 5
+  I will get into a lot more detail on this in the chapter on Mindful Problem-solving
 - Information seeking:
   - Asking around
   - Researching online
@@ -83,7 +82,7 @@ Problem-Focused Strategies include:
   - Asking for what you need 
 
 ## Emotion-Focused Coping
-Things we do (thoughts and actions to decrease the distress you feel about the situation without necessarily altering or removing the actual stressor. (Folkman, et al., 1991) 
+Things we do (thoughts and actions) to decrease the distress you feel about the situation without necessarily altering or removing the actual stressor. (Folkman, et al., 1991) 
 
 This is a coping strategy most relevant to when the stressor is out of your control or you determine that trying to change it at this time would be less helpful than decreasing how it is impacting you. Examples of emotion-focused coping strategies might include 
 
@@ -96,7 +95,7 @@ This is a coping strategy most relevant to when the stressor is out of your cont
 - Spiritual practices 
 
 ## Distracting vs. being present in your feelings
-Emotion focused coping can be broken down into two categories:
+Emotion-focused coping can be broken down into two categories:
 
 - Distraction coping: Strategies that allow you to escape or distract from the stress and anxiety, such as watching TV, having a glass of wine, taking an Ativan, For some it can be listening to music, dancing or going for a run.
 
