@@ -17,14 +17,14 @@ A strong support network is made up of a variety of types of relationships. This
 
 <div class="quote">“Some help is the kind of help we all can do without” &mdash; Free to be you and me</div>
 
-## Recognizing Negative Support 
+## Recognizing Negative Influences/ Non Support
 Just as these relationships are an essential part of our support, it is important to recognize that they can also be the source of much of our stress and sometimes the process of strengthening our support network involves decreasing energy and time going towards the stressful relationships in our lives. At times, it may even involve letting go of some people. 
 
 Relationships take away from our support when they 
 
 - Take considerably more than they give (emotionally or physically)
 - Encourage or support unhealthy behaviors 
-- There isn’t room for your successes and attempts at personal growth. This often shows up in the form of criticizing and discouraging comments.
+- Don't allow for for your successes and attempts at personal growth. This often shows up in the form of criticizing and discouraging comments.
 
 People are complicated and no relationship is perfect. The question I always like to ask myself is, on the whole is this relationship adding more to my life than it takes away?
 
