@@ -5,17 +5,17 @@ title: Altruism and Acts of Kindness  
 <p class="type">Chapter 11</p>
 
 # Altruism and Acts of Kindness
-The final skill I will be talking about is altruism. Practicing acts of kindness and being of service to others is beneficial in many ways.  
+Practicing acts of kindness and being of service to others is beneficial in many ways.  
 - It helps you feel connected with the larger world
 - It gets you out of our own head and gives you a break from thinking about your own problems, even if just for a short time 
-- Helping someone else, can sometimes give you insight into your own struggles and challenges  
+- Helping someone else can sometimes give you insight into your own struggles and challenges  
 
 Researchers have consistently found that people report a significant happiness boost after doing kind deeds for others. Some studies suggest giving to others makes people feel happier than spending money on themselves. Scientists have also found that altruistic acts a may trigger the release of endorphins in the brain, creating what is referred to a “helper’s high.” 
 
 ## Connecting to our personal strengths through [Altruism](http://greatergood.berkeley.edu/topic/altruism/definition){:target="_blank"}
 When we are going through a difficult period, struggling in our own life and feeling unable to manage problems, recognizing that we have the ability to help someone else, despite our current stress, gives a feeling of success, which, in turn, can make us feel hopeful. It can help us see the strengths we have lost sight of.
 
-## Informal Altruism
+## Everyday Altruism
 
 ### Daily acts of kindness 
 This just involves finding ways to do small things for others throughout the day. It can be taking time to smile and say thank you to the person who just got you your coffee, bringing treats to a store or business you frequent or doing a friend a favor. 
@@ -37,13 +37,13 @@ Think of a time when you were the recipient of an act of kindness 
 - How did that person respond?  How did you feel?  
 - What about it made you feel that way?  
 
-Not only can small acts of kindness create positive emotions, they can also change the way others interact with you.  It’s important to note that you may not always get a positive response from someone you do something nice for.  You may get no response at all or you may even get a negative one. The point is that you are doing something nice for someone else – whether they can appreciate it at the time, or not.  
+Not only can small acts of kindness create positive emotions, they can also change the way others interact with you.  It’s important to note that you may not always get a positive response from someone you do something nice for.  You may get no response at all or you may even get a negative one. The point is that you are doing something nice for someone else – whether they can appreciate it at the time or not.  
 
 ## Formal Altruism 
 
  Volunteering or making a commitment to help someone out  
  
-Volunteering is a great way to make altruism a regular practice. There are many opportunities to get involved. It can be a one-time commitment, such as spending a day cleaning up a local park, or an ongoing one.  It can be a chance to learn new skills and gain experience or a way to use a skill we already have for a greater purpose. It’s an opportunity to feel more connected to the world around us and possibly meet new friends in the process. 
+Volunteering is a great way to make altruism a regular practice. There are many opportunities to get involved. It can be a one-time commitment, such as spending a day cleaning up a local park, or an ongoing one. It can be a chance to learn new skills and gain experience or a way to use a skill we already have for a greater purpose. It’s an opportunity to feel more connected to the world around us and possibly meet new friends in the process. 
 
 ### Volunteers consistently express a sense of achievement and motivation
 By serving as a volunteer you develop relationships with the people you help and see the difference you are making in their lives.
