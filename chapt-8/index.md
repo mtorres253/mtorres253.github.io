@@ -24,7 +24,7 @@ The challenge with long term goals is that they can feel overwhelming and keep u
 
 ### The small steps 
 
-Focusing on accomplishing and taking notice of small, manageable goals can be helpful in sev-eral ways. They keep you from feeling stuck, decrease your sense of overwhelm and provides immediate reward. Just crossing a task off of a to-do list always feels good.
+Focusing on accomplishing and taking notice of small, manageable goals can be helpful in sev-eral ways. They keep you from feeling stuck, decrease your sense of overwhelm and provides immediate reward. Just crossing a task off of a to-do list always feels good.My friend’s mom makes a point to add tasks she completed that weren’t on her list, just to have the satisfaction of seeing them crossed out. My friend’s mom makes a point to add tasks she completed that weren’t on her list, just to have the satisfaction of seeing them crossed out. 
 
 It is important to celebrate small successes. Remember, Just accomplishing one task can start to change a situation in a big way. 
 
@@ -44,8 +44,6 @@ Find a quiet place where you won't be disturbed. Close your eyes and take a few 
 Visualize the situation you desire in your mind as clearly and with as much detail as you can.
 Notice your feelings as you hold that vision.
 
-#### Setting intention
-
 Sometimes when you don’t have a specific future goal, I find it can be helpful to set an intention to help you be more mindful of what you are working towards.  A good way to do this is to think of your life as book and start by thinking about the most recent period of your life and asking yourself, “What would I name that chapter?” 
 After you have come up with one, think about what you would like to call the next chapter of your life. Just close your eyes and see what comes to mind. 
 
@@ -53,7 +51,7 @@ Here is an example from one of my clients who had experienced a difficult break 
 
 This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past
 
-### Setting and Achieving Attainable goals
+### Create a plan
 
 - Break down your long term vision into all the steps that will get you there.
 - As you make progress, reassess from time to time, to see if that vision has changed.
