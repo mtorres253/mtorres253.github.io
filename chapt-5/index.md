@@ -5,16 +5,16 @@ title: Mindful Problem Solving
 <p class="type">Chapter 5</p>
 
 # Mindful Problem Solving 
-Making clear and well thought out decisions can be a struggle. Life these days seems to move at an increasingly hectic pace. Demands on our time are being made, and from multiple sources, texts, emails, instant messages, at all times of day and night We are bombarded with having to make decisions and often do not have the luxury to fully consider the impact of the choices we make.
-
-Whether we are considering a life changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress. This is why it can really help to have a structured framework for making decisions.
+Making clear and well thought out decisions can be a struggle. Life these days seems to move at an increasingly hectic pace. Demands on our time are being made, and from multiple sources, texts, emails, instant messages, at all times of day and night We are bombarded with having to make decisions and often do not have the luxury to fully consider the impact of the choices we make.  
+Whether we are considering a life-changing decision such as whether or not to accept a job offer; or a less dramatic decision like how we will respond to a friend’s request for time, the choices we make have lasting impacts on our relationships, our confidence and our overall level of stress.  
+This is why it can really help to have a structured framework for making decisions. 
 
 ## Knowing what you can manage
-By systematically analyzing our ability to cope with the stress/anxiety of carrying out a potential solution, we are able to feel confident in putting the plan into action.  This is referred to as cop-ing confidence.  
+By systematically analyzing our ability to cope with the stress/anxiety of carrying out a potential solution, we are able to feel confident in putting the plan into action.  This is referred to as cop-ing confidence 
 
-An important question to consider when thinking about potential solutions to a challenge is whether or not you are prepared to emotionally tolerate the stress and/or anxiety related to acting out the chosen solution. It helps to pay increased attention to your own strengths and limitations in coping with and managing anxiety. Someone who isn’t particularly sensitive to temperature and climate, would have a very different ability to cope with moving to Wisconsin for a job, than someone who feels depressed and unmotivated by cold weather.  Individual differences in coping need to be considered for solid problem solving. 
+An important question to consider when thinking about potential solutions to a challenge is whether or not you are prepared to emotionally tolerate the stress and/or anxiety related to acting out the chosen solution. It helps to pay increased attention to your own strengths and limitations in coping with and managing anxiety. Someone who isn’t particularly sensitive to temperature and climate, would have a very different ability to cope with moving from California to Wiscon-sin for a job, than someone who feels depressed and unmotivated by cold weather.  Individual differences in coping need to be considered for solid problem solving. 
 
-Conscious decision-making can help prevent unintended side effects of putting a plan into action because we are more aware and prepared for the emotional impact of enacting the plan. 
+Conscious decision-making can help prevent unintended side effects of putting a plan into action. When we are more aware and prepared for the emotional impact of enacting the plan, we are more likely to have a successful outcome.  
 
 
 ## Problem solving steps
@@ -39,8 +39,9 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 - Assess anxiety or stress created by each of the solutions (Rate on scale from 1-10)
 - Assess ability to tolerate anxiety or stress brought on by acting on each solution (Rate coping confidence on scale from 1-10) 
 
-5. #### Choose the best or most appropriate solution to prioritize solutions.
-- Identify stress management techniques and tools to mitigate stress/anxiety of the chosen solution
+5. #### Choose the best or most appropriate solotion or combination.
+- List your top three solutions and chose one. 
+ - You may want to identify stress management techniques and tools to mitigate stress/anxiety of the chosen  solution-For example doing a five-minute breathing exercises before asking a parent for a loan. 
 
 6. #### Develop an action plan. 
 - Map out a step-by-step plan of how the goal could be successfully completed, and troubleshooting potential obstacles 
@@ -52,7 +53,7 @@ Conscious decision-making can help prevent unintended side effects of putting a 
 - Did you get the result you were looking for? Are you coping with stress/anxiety appropriately?
 - Are you in need of acting further or attempting another approach?
 
-It takes time, but even taking a few minutes to do a brief version of this can be worthwhile and making a hasty decision often leads to a lot more wasted time and energy in the long run.
+It takes time, but even taking a few minutes to do a brief version of this can be worthwhile. Making a hasty decision often leads to a lot more wasted time and energy in the long run.
 
 <hr/>
 # Make it a Habit 
