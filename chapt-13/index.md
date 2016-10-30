@@ -32,7 +32,7 @@ Do your best to rememebr to:
 - Know when you are experiencing stress and anxiety
 - Recognize what is and isn’t in your control and chose appropriate coping strategies 
 -	Make an effort to be more present and fully experience the positive 
-- Remember to take stock of what you have. 
+- Remember to take stock of what you have
 - Take time to fully explore options when making decisions 
 - Recognize unhelpful thought loops and challenge them 
 - Change your experience by reframing whenever possible 
