@@ -27,12 +27,14 @@ This just involves finding ways to do small things for others throughout the day
 </div>
 
 Think of a time when you were the recipient of an act of kindness 
+
 - What happened? 
 - How did you feel?
 - What about it made you feel that way? 
 - Did you do anything in response?
 
-- Now think of a time you did something nice for someone else&mdash;an altruistic act or an act of kindness.  
+Now think of a time you did something nice for someone else&mdash;an altruistic act or an act of kindness.  
+
 - What was that act of kindness? 
 - Was it for someone you knew or for a stranger?  
 - How did that person respond?  How did you feel?  
