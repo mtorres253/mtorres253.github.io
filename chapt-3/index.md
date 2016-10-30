@@ -13,6 +13,7 @@ Mindfulness involves a focused awareness of whatever is happening in the present
 
 # Everyday Mindfulness 
 Being present as you go through your day
+
 Many tasks of daily life have the potential for enjoyment, but far too often we either get caught up in hurrying through them--or our minds are somewhere else altogether. We may be rehashing the past or rehearsing for the future. Making an effort to be in the present can help us appreciate the good things that are happening right now and decrease our sense of worry about the past or future. 
 
 Take doing the dishes for example. Its really easy to see doing the dishes as only a chore we have to somehow get through, which can make it a stressful part of the day or something we avoid. But what if you take time to really be present in the activity of washing dishes, the sound of the running water, the feel of the warm suds, the way the dishes look when they are clean and the satisfaction you get from seeing the sink empty again? It will allow for a very different experi-ence. 
@@ -73,7 +74,7 @@ These days there are lots of tools available for mindfulness meditations. There 
 - When you become aware that your attention has gotten caught up in a thought or feeling or sensation, simply notice that. You might even gently say to yourself "Not now," and allow your mind to release the thought, bringing attention once again to the very next breath. 
 
 
-# Acceptance
+## Acceptance
 Allowing for thoughts and feelings without judgment.
 
 One reason people find mindfulness practice challenging is that it can make us more aware of many of our thoughts and feelings, and some of them may be negative. If we try to forcefully push our thoughts and feelings away/out of our minds, they tend to become stronger and can take up even more of our attention. 
@@ -81,7 +82,7 @@ One reason people find mindfulness practice challenging is that it can make us m
 Instead, we can practice just simply noticing that they are there--without feeling like we have to do anything about them. It can be helpful to imagine them as leaves on a stream, just floating along the surface. Some will just pass right by and others will get stuck on a rock or a root for a bit before eventually freeing itself and moving on. 
 As we practice acceptance of thoughts and feelings, we learn to be more compassionate with ourselves.
 
-# Self-compassion
+## Self-compassion
 Being a supportive and caring friend to yourself
 
 We are often better at having compassion for others than for ourselves. Why is this? Some theo-rize that for survival reasons we had to learn to be forgiving of each other, to be able to depend on each other, as there was no evolutionary benefit to being forgiving of ourselves. 
