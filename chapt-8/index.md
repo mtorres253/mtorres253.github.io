@@ -38,7 +38,7 @@ It is important to celebrate small successes. Remember, Just accomplishing one t
 
 ## Now Try It
 
-#### Create your vision
+#### First: Create your vision
 
 Find a quiet place where you won't be disturbed. Close your eyes and take a few deep breaths Now think of what you would like your life to look like at a given point in the future. 6 months, one year, 5 years. 
 Visualize the situation you desire in your mind as clearly and with as much detail as you can.
@@ -51,12 +51,13 @@ Here is an example from one of my clients who had experienced a difficult break 
 
 This exercise not only assists with goal setting by clarifying intentions moving forward, but also helps in the process of contexualizing and letting go of the past
 
-### Create a plan
+### Then: Create a plan
 
 - Break down your long term vision into all the steps that will get you there.
 - As you make progress, reassess from time to time, to see if that vision has changed.
 
 Keep in mind that attainable goals have four characteristics:
+
 - Realistic:  one that can reasonably be completed in the time you have to complete it.
 - Clear:  So that you can lay out exactly what steps must be taken to successfully complete the goal
 - Not too easy, but not too hard:  the goal should be challenging, but not impossible or too global
