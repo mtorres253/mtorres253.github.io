@@ -17,15 +17,18 @@ For example, if one of your strengths is that you are a fair person, you might h
 
 #### Identify Your Personal Values
 
-Take a few moments to reflect on what values are important to you and record them below. As you do this try to withhold judgment and pick the values that resonate with you, as opposed to the ones you believe you should have.  in case you need help getting started, I've included a list with some examples of examples of values.
+Take a few moments to reflect on what values are important to you and record them below. As you do this try to withhold judgment and pick the values that resonate with you, as opposed to the ones you believe you should have.  In case you need help getting started, I've included a list with some examples of examples of values.
 
 If your values aren’t coming to you easily, try this exercise.
 Think of a time in your life when you felt most happy and fulfilled. Take a moment to visualize it.
+
 - Think about what you were doing then and how you were living. Ask yourself, 
 “How and why did this experience give me fulfillment and what was meaningful to me then.
+
 - Look at the list of examples and identify which values were guiding you at that time. 
 
-Now, think about the time you were most unhappy and unfulfilled. 
+Now, think about the time you were most unhappy and unfulfilled.
+
 - What were you doing at that time? 
 - What was going on in your life? And think about in what values, if any, you were guiding you then.
 
@@ -67,6 +70,7 @@ Take a look at the list you have come up with and rank your top three them in or
 ## Make it A Habit
 Now that you have determined your top values, you can make a conscious decision to live by them.  Start by creating a daily visual reminder of your top three values.  
 Here are some examples of how:
+
 - Make them your screensaver
 - Set a daily reminder in your phone
 - Place them on a piece of paper somewhere where you are likely to see them.
