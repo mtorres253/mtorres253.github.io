@@ -28,6 +28,7 @@ Here are some tips for creating new habits:
 - Do it For Yourself - Choose the skills you enjoy practicing and feel are helpful to you. Don’t worry about the skills that you think you “should” be practicing.
 
 Do your best to rememebr to:
+
 - Know when you are experiencing stress and anxiety
 - Recognize what is and isn’t in your control and chose appropriate coping strategies 
 -	Make an effort to be more present and fully experience the positive 
