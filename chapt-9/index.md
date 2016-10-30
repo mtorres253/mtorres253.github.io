@@ -65,6 +65,7 @@ This is a more extensive mindfulness technique, which utilizes Noticing and Nami
 # Make it a Habit
 
 Think about your distorted thinking
+
 - Pay attention to your negative thoughts throughout the day.
 - Take time to write them down. 
 - Its often easier to start with the feeling and once you’ve identified what you’re feeling, then notice what thoughts are running through your mind as you experience those emo-tions or physical sensations.
