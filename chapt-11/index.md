@@ -5,7 +5,8 @@ title: Altruism and Acts of Kindness  
 <p class="type">Chapter 11</p>
 
 # Altruism and Acts of Kindness
-Practicing acts of kindness and being of service to others is beneficial in many ways.  
+Practicing acts of kindness and being of service to others is beneficial in many ways.
+
 - It helps you feel connected with the larger world
 - It gets you out of our own head and gives you a break from thinking about your own problems, even if just for a short time 
 - Helping someone else can sometimes give you insight into your own struggles and challenges  
@@ -45,11 +46,10 @@ Not only can small acts of kindness create positive emotions, they can also chan
  
 Volunteering is a great way to make altruism a regular practice. There are many opportunities to get involved. It can be a one-time commitment, such as spending a day cleaning up a local park, or an ongoing one. It can be a chance to learn new skills and gain experience or a way to use a skill we already have for a greater purpose. It’s an opportunity to feel more connected to the world around us and possibly meet new friends in the process. 
 
-### Volunteers consistently express a sense of achievement and motivation
-By serving as a volunteer you develop relationships with the people you help and see the difference you are making in their lives.
-
-### Volunteering can lead to job opportunities 
-A regular volunteer commitment can be especially helpful at times when we have less structure in our lives (unemployment, job transitions or retirement) 
+- Volunteers consistently express a sense of achievement and motivation
+- By serving as a volunteer you develop relationships with the people you help and see the difference you are making in their lives.
+- Volunteering can lead to job opportunities 
+- A regular volunteer commitment can be especially helpful at times when we have less structure in our lives (unemployment, job transitions or retirement) 
 
 ## Altruistic Thoughts 
 Another way of practicing kindness is through meditation. Through the process of meditation, you can connect with you positive intentions and feelings for another person as well as you positive intentions and feelings for yourself.   
@@ -65,10 +65,12 @@ It is meant to help us tap into a selfless place. It does not depend on relation
 <hr/>
 # Make it a Habit 
 
-1. Small acts of kindness/altruistic behaviors 
-Try doing one nice thing for someone else each day– 
-It can be a friend, family member, or a stranger.  
-It doesn’t have to be big – even a small act of kindness can make a big difference to another person, and, ultimately, to you. 
-Record the event and how you felt when you did it
+1. Small acts of kindness/altruistic behaviors
+Try doing one nice thing for someone else each day
+
+- It can be a friend, family member, or a stranger.
+- It doesn’t have to be big. Even a small act of kindness can make a big difference to another person, and, ultimately, to you. 
+- Record the event and how you felt when you did it.
+
 2. Mindfulness Practice 
 Take a few minutes each day to listen to the “loving kindness meditation”
