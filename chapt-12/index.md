@@ -96,6 +96,7 @@ Adapted from: [Wellness Module 3: Social Support (heretohelp)](http://www.hereto
 # Make it a Habit
 
 Think about a stressful situation or challenge you are currently facing
+
 - Identify what support would be helpful (Emotional, Informaional, Tangible)
 - Who in your life could provide it
 - Ask for that support 
